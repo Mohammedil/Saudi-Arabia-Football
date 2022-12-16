@@ -1,0 +1,128 @@
+| League Table |
+
+MP -- Matches Played
+Matches Played by the player or squad
+W -- Wins
+D -- Draws
+L -- Losses
+GF -- Goals For
+GA -- Goals Against
+GD -- Goal Difference
+Pts -- Most leagues are ordered by points.
+Three for a win and one for a draw.
+Pts/MP -- Points per Match Played
+Attendance -- Attendance per game during this season, only for home matches
+Top Team Scorer -- Only includes league matches for that season
+Goalkeeper -- Goalkeeper with the most minutes in league play
+
+
+
+| League Stats |
+
+# Pl -- Number of Players used in Games
+Age -- Average Age
+Age is weighted by minutes played
+Poss -- Possession
+Calculated as the percentage of passes attempted
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Starts -- Starts
+Game or games started by player
+Min -- Minutes
+90s -- 90s played
+Minutes played divided by 90
+Performance
+Gls -- Goals
+Goals scored or allowed
+Ast -- Assists
+G-PK -- Non-Penalty Goals
+PK -- Penalty Kicks Made
+PKatt -- Penalty Kicks Attempted
+CrdY -- Yellow Cards
+CrdR -- Red Cards
+Per 90 Minutes
+Gls -- Goals Scored per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+Ast -- Assists per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G+A -- Goals and Assists per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G-PK -- Goals minus Penalty Kicks made per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G+A-PK -- Goals plus Assists minus Penalty Kicks made per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+----
+Sh -- Shots Total
+Does not include penalty kicks
+SoT -- Shots on target
+Note: Shots on target do not include penalty kicks
+SoT% -- Shots on target percentage
+Percentage of shots that are on target
+Minimum .395 shots per squad game to qualify as a leader
+Note: Shots on target do not include penalty kicks
+Sh/90 -- Shots total per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+SoT/90 -- Shots on target per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+Note: Shots on target do not include penalty kicks
+G/Sh -- Goals per shot
+Minimum .395 shots per squad game to qualify as a leader
+G/SoT -- Goals per shot on target
+Minimum .111 shots on target per squad game to qualify as a leader
+Note: Shots on target do not include penalty kicks
+Dist -- Average distance, in yards, from goal of all shots taken
+Minimum .395 shots per squad game to qualify as a leader
+Does not include penalty kicks
+PK -- Penalty Kicks Made
+PKatt -- Penalty Kicks Attempted
+----
+Subs -- Games as sub
+Game or games player did not start, so as a substitute
+Mn/Sub -- Minutes Per Substitution
+Minimum 30 minutes played per squad game to qualify as a leader
+unSub -- Games as an unused substitute
+Team Success
+PPM -- Points per Match
+Average number of points earned by the team from matches in which the player appeared
+Minimum 30 minutes played per squad game to qualify as a leader
+onG -- Goals scored by team while on pitch
+onGA -- Goals allowed by team while on pitch
++/- -- Plus/Minus
+Goals scored minus goals allowed by the team while the player was on the pitch.
++/-90 -- Plus/Minus per 90 Minutes
+Goals scored minus goals allowed by the team while the player was on the pitch per 90 minutes played.
+Minimum 30 minutes played per squad game to qualify as a leader
+----
+Fls -- Fouls Committed
+Fld -- Fouls Drawn
+Off -- Offsides
+Crs -- Crosses
+Int -- Interceptions
+TklW -- Tackles in which the tackler's team won possession of the ball
+PKwon -- Penalty Kicks Won
+PKcon -- Penalty Kicks Conceded
+OG -- Own Goals
+----
+GA -- Goals Against
+GA90 -- Goals Against per 90 minutes
+SoTA -- Shots on Target Against
+Save% -- Save Percentage
+(Shots on Target Against - Goals Against)/Shots on Target Against
+Note that not all shots on target are stopped by the keeper, many will be stopped by defenders
+Does not include penalty kicks
+W -- Wins
+D -- Draws
+L -- Losses
+CS -- Clean Sheets
+Full matches by goalkeeper where no goals are allowed.
+CS% -- Clean Sheet Percentage
+Percentage of matches that result in clean sheets.
+Penalty Kicks
+PKatt -- Penalty Kicks Attempted
+PKA -- Penalty Kicks Allowed
+PKsv -- Penalty Kicks Saved
+PKm -- Penalty Kicks Missed
+Save% -- Penalty Save Percentage
+Penalty Kick Goals Against/Penalty Kick Attempts
+Penalty shots that miss the target are not included

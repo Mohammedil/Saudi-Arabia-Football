@@ -1,0 +1,216 @@
+| Seasons |
+
+Winter leagues generally run from August to May of the following year.
+Summer leagues generally run from February to November of the same year.
+Country -- Flag and name of the country.
+Comp -- Competition
+Number next to competition states which level in the country's league pyramid this league occupies.
+LgRank -- Squad finish in competition
+Finish within the league or competition.
+For knockout competitions may show final round reached.
+Colors and arrows represent promotion/relegation or qualifiation for continental cups.
+Trophy indicates team won league whether by playoffs or by leading the table.
+Star indicates topped table in league USING another means of naming champion.
+MP -- Matches Played
+Matches Played by the player or squad
+W -- Wins
+D -- Draws
+L -- Losses
+GF -- Goals For
+GA -- Goals Against
+GD -- Goal Difference
+Pts -- Most leagues are ordered by points.
+Three for a win and one for a draw.
+Attendance -- Attendance per game during this season, only for home matches
+Top Team Scorer -- Only includes league matches for that season
+Goalkeeper -- Goalkeeper with the most minutes in league play
+
+
+
+| Standard Stats |
+
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+Pos -- GK - Goalkeepers
+DF - Defenders
+MF - Midfielders
+FW - Forwards
+FB - Fullbacks
+LB - Left Backs
+RB - Right Backs
+CB - Center Backs
+DM - Defensive Midfielders
+CM - Central Midfielders
+LM - Left Midfielders
+RM - Right Midfielders
+WM - Wide Midfielders
+LW - Left Wingers
+RW - Right Wingers
+AM - Attacking Midfielders
+Age -- Age at the season start for league play
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Starts -- Starts
+Game or games started by player
+Min -- Minutes
+90s -- 90s played
+Minutes played divided by 90
+Performance
+Gls -- Goals
+Goals scored or allowed
+Ast -- Assists
+G-PK -- Non-Penalty Goals
+PK -- Penalty Kicks Made
+PKatt -- Penalty Kicks Attempted
+CrdY -- Yellow Cards
+CrdR -- Red Cards
+Per 90 Minutes
+Gls -- Goals Scored per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+Ast -- Assists per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G+A -- Goals and Assists per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G-PK -- Goals minus Penalty Kicks made per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+G+A-PK -- Goals plus Assists minus Penalty Kicks made per 90 minutes
+Minimum 30 minutes played per squad game to qualify as a leader
+
+
+
+| Scores & Fixtures |
+
+Date -- Date listed is local to the match
+Time -- Time listed is local to the match venue
+Time is written in the 24-hour notation
+Your local time is in (·)
+Comp -- Competition
+Number next to competition states which level in the country's league pyramid this league occupies.
+Round -- Round or Phase of Competition
+Day -- Day of week
+GF -- Goals For
+GA -- Goals Against
+Poss -- Possession
+Calculated as the percentage of passes attempted
+Formation -- Number of players in each row from defenders to forwards, not including the goalkeeper.
+Formations provided by Data Sports Group and StatsBomb.
+
+
+
+| Shooting |
+
+Age -- Age at the season start for league play
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Starts -- Starts
+Game or games started by player
+Min -- Minutes
+90s -- 90s played
+Minutes played divided by 90
+Performance
+GA -- Goals Against
+GA90 -- Goals Against per 90 minutes
+SoTA -- Shots on Target Against
+Save% -- Save Percentage
+(Shots on Target Against - Goals Against)/Shots on Target Against
+Note that not all shots on target are stopped by the keeper, many will be stopped by defenders
+Does not include penalty kicks
+W -- Wins
+D -- Draws
+L -- Losses
+CS -- Clean Sheets
+Full matches by goalkeeper where no goals are allowed.
+CS% -- Clean Sheet Percentage
+Percentage of matches that result in clean sheets.
+Penalty Kicks
+PKatt -- Penalty Kicks Attempted
+PKA -- Penalty Kicks Allowed
+PKsv -- Penalty Kicks Saved
+PKm -- Penalty Kicks Missed
+Save% -- Penalty Save Percentage
+Penalty Kick Goals Against/Penalty Kick Attempts
+Penalty shots that miss the target are not included
+
+
+
+| Playing Time |
+
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+
+Age -- Age at the season start for league play
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Min -- Minutes
+Mn/MP -- Minutes Per Match Played
+Min% -- Percentage of Minutes Played
+Percentage of team's total minutes in which player was on the pitch
+Player minutes played divided by team total minutes played
+Minimum 30 minutes played per squad game to qualify as a leader
+90s -- 90s played
+Minutes played divided by 90
+Starts
+Starts -- Starts
+Game or games started by player
+Mn/Start -- Minutes Per Match Started
+Minimum 30 minutes played per squad game to qualify as a leader
+Compl -- Complete matches played
+Subs
+Subs -- Games as sub
+Game or games player did not start, so as a substitute
+Mn/Sub -- Minutes Per Substitution
+Minimum 30 minutes played per squad game to qualify as a leader
+unSub -- Games as an unused substitute
+Team Success
+PPM -- Points per Match
+Average number of points earned by the team from matches in which the player appeared
+Minimum 30 minutes played per squad game to qualify as a leader
+onG -- Goals scored by team while on pitch
+onGA -- Goals allowed by team while on pitch
++/- -- Plus/Minus
+Goals scored minus goals allowed by the team while the player was on the pitch.
++/-90 -- Plus/Minus per 90 Minutes
+Goals scored minus goals allowed by the team while the player was on the pitch per 90 minutes played.
+Minimum 30 minutes played per squad game to qualify as a leader
+On-Off -- Plus/Minus Net per 90 Minutes
+Net goals per 90 minutes by the team while the player was on the pitch minus net goals allowed per 90 minutes by the team while the player was off the pitch.
+Minimum 30 minutes played per squad game to qualify as a leader
+
+
+| Miscellaneous Stats |
+
+
+Age -- Age at the season start for league play
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Playing Time
+90s -- 90s played
+Minutes played divided by 90
+Performance
+CrdY -- Yellow Cards
+CrdR -- Red Cards
+2CrdY -- Second Yellow Card
+Fls -- Fouls Committed
+Fld -- Fouls Drawn
+Off -- Offsides
+Crs -- Crosses
+Int -- Interceptions
+TklW -- Tackles in which the tackler's team won possession of the ball
+PKwon -- Penalty Kicks Won
+PKcon -- Penalty Kicks Conceded
+OG -- Own Goals

@@ -1,0 +1,1992 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,year,-9999
+1,Malek Al Abadalmanam,sa KSA,FW,Al-Fayha,23,1998,8.2,3,0,0,27,12,3,1,1,1,,,0,2021,22cccb9f
+2,Saleh Al Abbas,sa KSA,MF,Al-Faisaly,27,1993,2.7,0,0,0,5,7,1,1,1,1,,,0,2021,ac46f44a
+3,Hamad Al Abdan,sa KSA,MF,Al-Hazem,21,2000,3.3,0,0,0,3,0,0,2,1,2,,,0,2021,f64a8aee
+4,Ayoub Abdellaoui,dz ALG,DF,Al-Ettifaq,28,1993,17.8,4,0,0,23,20,1,22,21,11,,,0,2021,76250bac
+5,Saud Abdulhamid,sa KSA,DF,Al-Hilal,22,1999,10.8,2,0,0,20,15,0,43,7,24,,,0,2021,caa254e4
+6,Saud Abdulhamid,sa KSA,DF,Al-Ittihad,22,1999,8.0,5,0,0,11,10,1,27,12,5,,,0,2021,caa254e4
+7,Waleed Abdullah,sa KSA,GK,Al-Nassr,35,1986,18.3,1,0,0,1,2,0,0,0,0,,,0,2021,aec6d2a5
+8,Nawaf Al Abed,sa KSA,MFFW,Al-Shabab,31,1990,6.9,1,0,0,11,13,0,13,5,4,,,0,2021,bfef5c87
+9,Mazen Abo Shararah,sa KSA,FWMF,Damac,30,1991,4.9,0,1,0,12,17,2,11,4,4,,,0,2021,fb2c45c6
+10,Vincent Aboubakar,cm CMR,FW,Al-Nassr,29,1992,18.6,0,0,0,16,19,4,7,2,2,,,0,2021,8637e09a
+11,Abdulrahman Al-Aboud,sa KSA,MFDF,Al-Ittihad,26,1995,19.1,6,1,0,18,36,5,69,15,21,,,0,2021,9bf54a3b
+12,Mohammed Abousaban,sa KSA,MFDF,Al-Taawoun,31,1990,2.6,2,0,0,2,2,0,0,3,3,,,0,2021,8ca1a8cd
+13,Mohammed Abousaban,sa KSA,MF,Al-Fayha,31,1990,4.5,1,1,0,15,9,0,3,7,7,,,0,2021,8ca1a8cd
+14,Fábio Abreu,ao ANG,FW,Al-Batin,28,1993,28.0,5,0,0,50,89,8,3,5,6,,,0,2021,1b138544
+15,Khalil Al Absi,sa KSA,MF,Al-Nassr,20,2001,0.7,0,0,0,0,2,0,1,0,1,,,0,2021,2a7e625c
+16,Talal Al-Absi,sa KSA,DF,Al-Ahli,28,1993,2.0,0,0,0,2,1,0,0,1,1,,,0,2021,9373e369
+17,Afriyie Acquah,gh GHA,MF,Al-Batin,29,1992,5.9,3,0,0,6,2,0,2,9,1,,,0,2021,d7403bd5
+18,Abdulfattah Adam,sa KSA,FW,Al-Nassr,26,1995,2.1,0,0,0,3,0,2,1,0,0,,,0,2021,1193a1a8
+19,Muath Adnan Afaneh,jo JOR,FWMF,Abha,,,3.0,1,0,0,9,4,3,3,0,2,,,0,2021,417faca0
+20,Waleed Al Ahmad,sa KSA,DF,Al-Faisaly,22,1999,17.3,5,0,0,21,18,3,3,42,20,,,0,2021,da753419
+21,Karim El Ahmadi,ma MAR,MF,Al-Ittihad,36,1985,15.2,4,0,0,35,7,0,0,19,37,,,0,2021,0ff9eabc
+22,Ahmed Alanzy,sa KSA,MF,Al-Faisaly,,,1.1,0,0,0,3,3,0,0,1,1,,,0,2021,0cb56992
+23,Abdulaziz Al Alawi,sa KSA,DF,Al-Batin,23,1998,9.9,4,0,0,11,3,0,10,14,13,,,1,2021,7165baa1
+24,Bader Alhwidy Alshammary,sa KSA,DF,Al-Batin,,,9.3,1,0,0,6,9,0,22,7,5,,,0,2021,d0a0ac12
+25,Shaye Ali Sharahili,sa KSA,MF,Al-Faisaly,31,1990,0.2,0,0,0,1,2,0,0,0,0,,,0,2021,60ad2f84
+26,Hassan Al Ali,sa KSA,FW,Al-Ahli,19,2002,0.1,0,0,0,0,3,0,1,0,1,,,0,2021,d2a9c16a
+27,Mukhtar Ali,sa KSA,MF,Al-Ta'ee,23,1997,10.2,3,0,0,14,15,0,11,6,14,,,0,2021,d40cff47
+28,Ezgjan Alioski,mk MKD,DFMF,Al-Ahli,29,1992,27.9,7,0,0,31,42,2,233,28,44,,,0,2021,1a7fcf39
+29,Alison,br BRA,MFDF,Al-Hazem,28,1993,17.3,5,1,0,22,25,2,1,37,28,,,0,2021,d39b373b
+30,Nawaf Alsadi,sa KSA,FW,Abha,19,2001,0.1,0,0,0,1,0,0,0,0,0,,,0,2021,545c96e3
+31,Romain Amalfitano,fr FRA,MFFW,Al-Faisaly,31,1989,15.3,2,0,0,13,21,4,42,13,5,,,0,2021,d7bf3d19
+32,Cédric Amissi,bi BDI,MF,Al-Taawoun,31,1990,15.9,5,0,0,38,16,0,14,15,17,,,0,2021,99567a58
+33,Abdullah Al-Ammar,sa KSA,DF,Damac,27,1994,26.7,1,0,0,8,6,3,84,27,28,,,0,2021,156ca542
+34,Turki Al Ammar,sa KSA,MFFW,Al-Shabab,21,1999,10.2,1,0,0,13,9,4,13,4,11,,,0,2021,eae082f7
+35,Sari Amr,sa KSA,DFMF,Abha,31,1989,18.6,3,0,0,27,19,2,56,39,18,,,0,2021,07f4b3bd
+36,Abdulelah Al-Amri,sa KSA,DF,Al-Nassr,24,1997,18.7,6,1,1,23,11,1,6,30,21,,,0,2021,fd0affe3
+37,Hassan Al-Amri,sa KSA,MF,Al-Taawoun,27,1994,11.8,4,1,0,23,48,8,22,13,21,,,0,2021,7bee2789
+38,Mohammed Al-Amri,sa KSA,DFMF,Al-Faisaly,29,1991,10.5,6,0,0,33,37,0,25,25,11,,,0,2021,6d020acc
+39,Saleh Al-Amri,sa KSA,MFFW,Abha,27,1993,24.0,4,1,1,32,52,11,82,15,23,,,0,2021,912fc5a8
+40,Rakan Al Anaze,sa KSA,MFFW,Al-Batin,23,1998,9.5,2,0,0,15,17,0,23,7,13,,,0,2021,c11a2a30
+41,Abdullah Al Anazi,sa KSA,MF,Al-Fateh,18,2003,0.3,0,0,0,0,0,0,0,0,2,,,0,2021,69be2935
+42,André André,pt POR,MF,Al-Ittihad,31,1989,11.3,4,0,0,25,24,0,1,19,19,,,0,2021,9f31b1d3
+43,Domagoj Antolić,hr CRO,MF,Damac,31,1990,10.2,1,1,0,16,11,0,41,14,3,,,0,2021,545f5449
+44,Maurício Antônio,br BRA,DF,Al-Batin,29,1992,29.0,3,0,0,23,17,0,0,56,19,,,2,2021,0bd71531
+45,Nawaf Al Aqidi,sa KSA,GK,Al-Nassr,21,2000,3.0,0,0,0,0,0,0,0,1,0,,,0,2021,70f3a9d1
+46,Nawaf Al Aqidi,sa KSA,GK,Al-Ta'ee,21,2000,7.0,1,0,0,0,2,0,0,0,0,,,0,2021,70f3a9d1
+47,Abdulaziz Al-Aryani,sa KSA,MFFW,Al-Batin,25,1996,5.0,0,1,0,11,10,2,9,0,1,,,0,2021,781b3ecf
+48,Abdulfattah Asiri,sa KSA,MF,Al-Nassr,27,1994,6.0,2,0,0,6,9,1,28,1,5,,,0,2021,507de9f6
+49,Ali Al Asmari,sa KSA,MFFW,Al-Ahli,24,1997,9.7,4,0,0,15,12,0,15,10,13,,,0,2021,5fc89dc8
+50,Malik Asselah,dz ALG,GK,Al-Hazem,35,1986,8.0,2,0,0,1,0,0,0,0,0,,,0,2021,9e23b6c3
+51,Ahmed Assiri,sa KSA,DF,Al-Taawoun,29,1991,3.8,0,0,0,5,2,0,0,2,3,,,0,2021,55905950
+52,Ahmed Assiri,sa KSA,DF,Al-Faisaly,29,1991,9.5,3,1,1,5,7,0,0,10,3,,,0,2021,55905950
+53,Abdulaziz Atif,sa KSA,MF,Al-Faisaly,20,2001,0.5,0,0,0,1,1,0,1,0,0,,,0,2021,a0c172dd
+54,Amine Atouchi,ma MAR,DF,Abha,29,1992,25.0,7,1,0,23,3,0,2,55,12,,,1,2021,fb526aa1
+55,Christian Atsu,gh GHA,MF,Al-Raed,29,1992,4.5,1,0,0,10,7,2,16,1,3,,,0,2021,8816329f
+56,Mohammed Attiah,sa KSA,MF,Al-Ta'ee,29,1991,0.8,0,0,0,0,2,0,5,1,2,,,0,2021,214ec85c
+57,Filipe Augusto,br BRA,MF,Damac,27,1993,8.2,4,1,0,28,9,0,18,10,13,,,0,2021,0e34de55
+58,Fares Ayed,sa KSA,FW,Damac,20,2001,0.4,0,0,0,0,2,0,2,1,1,,,0,2021,234f79c1
+59,Abdulmalek Al Ayiri,sa KSA,MF,Al-Taawoun,17,2003,4.5,4,0,0,10,7,0,1,0,6,,,0,2021,80ac04fa
+60,Walid Azaro,ma MAR,FW,Al-Ettifaq,25,1995,16.2,2,0,0,27,30,28,16,7,7,,,0,2021,6a5c2e5e
+61,Farhan Al Azmi,sa KSA,DF,Al-Hazem,27,1994,11.7,2,0,0,14,10,0,29,19,8,,,0,2021,45b7724d
+62,Muataz Al Bagawi,sa KSA,GK,Al-Taawoun,23,1998,1.0,1,0,0,0,0,0,0,0,0,,,0,2021,d8eff89c
+63,Hattan Bahebri,sa KSA,MFFW,Al-Shabab,29,1992,21.7,6,0,0,45,18,8,44,13,28,,,0,2021,b4f50ff5
+64,Basil Al Bahrani,sa KSA,GK,Al-Fateh,26,1995,2.0,1,0,0,0,1,0,0,0,0,,,0,2021,1b08d7ff
+65,Ahmed Bahusayn,sa KSA,MF,Al-Ittihad,20,2001,0.3,0,0,0,1,0,0,0,0,0,,,0,2021,f59732ee
+66,Jamal Bajandouh,sa KSA,MF,Al-Shabab,28,1992,0.4,0,0,0,1,1,0,0,2,1,,,0,2021,3c749115
+67,Jamal Bajandouh,sa KSA,MF,Al-Ta'ee,28,1992,10.1,3,0,0,26,14,0,2,14,17,,,0,2021,3c749115
+68,Masood Bakheet,sa KSA,DF,Al-Hazem,,,5.5,2,0,0,8,2,0,17,10,4,,,0,2021,ccb876a6
+69,Yazeid Al Bakr,sa KSA,DF,Al-Taawoun,25,1995,11.8,4,0,0,11,9,0,28,17,19,,,0,2021,d4356234
+70,Ageel Balghaith,sa KSA,DF,Al-Raed,34,1987,13.3,2,0,0,9,2,0,7,18,9,,,0,2021,de8628b3
+71,Ahmed Bamasud,sa KSA,DFMF,Al-Fayha,25,1995,24.4,4,0,0,27,35,1,38,40,41,,,0,2021,36e19e8a
+72,Éver Banega,ar ARG,MF,Al-Shabab,33,1988,25.8,6,2,0,30,51,0,146,8,15,,,0,2021,fa937f7a
+73,Mohammed Al Baqawi,sa KSA,DF,Al-Fayha,26,1995,15.0,6,0,0,16,30,0,20,15,15,,,0,2021,5e138c20
+74,Abdulrahman Al-Barakah,sa KSA,MF,Abha,30,1990,11.5,1,0,0,19,10,0,1,15,12,,,1,2021,e678cb90
+75,Ibrahim Al Barakah,sa KSA,MF,Al-Fayha,24,1996,0.4,0,0,0,1,0,0,0,0,0,,,0,2021,51e9d338
+76,Ibrahim Al Barakah,sa KSA,MF,Al-Hazem,24,1996,0.6,0,0,0,0,0,0,0,1,1,,,0,2021,51e9d338
+77,Khaled Al-Barakah,sa KSA,DF,Al-Hazem,30,1990,1.3,1,0,0,6,1,0,2,2,2,,,0,2021,a5510d11
+78,Abdulelah Al Bariya,sa KSA,MFFW,Damac,24,1997,4.3,0,0,0,6,6,0,14,2,4,,,0,2021,d18a21c7
+79,Karam Barnawi,sa KSA,DF,Abha,34,1987,1.1,0,0,0,1,0,0,2,0,4,,,0,2021,d28c4002
+80,Yassin Barnawi,sa KSA,DF,Al-Faisaly,27,1993,8.6,2,0,0,12,21,0,9,13,9,,,0,2021,4bfcaa3d
+81,Mohammad Al Bassas,sa KSA,DF,Al-Hazem,22,1998,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,177f1152
+82,Mourad Batna,ma MAR,MF,Al-Fateh,31,1990,15.9,8,1,1,34,36,17,73,5,8,,,0,2021,ee28ca71
+83,Zaid Al Bawardi,sa KSA,GK,Al-Shabab,24,1997,1.0,0,0,0,0,0,0,0,0,1,,,0,2021,ae82309a
+84,Sofiane Bendebka,dz ALG,MF,Al-Fateh,28,1992,21.5,0,0,0,25,31,6,25,11,24,,,0,2021,0fdcd9ab
+85,Karim El Berkaoui,ma MAR,MFFW,Al-Raed,25,1995,22.9,3,0,0,14,41,7,15,8,9,,,0,2021,4e856e07
+86,Mansor Al Beshe,sa KSA,MFFW,Al-Raed,21,2000,3.9,0,0,0,3,6,1,3,4,2,,,0,2021,f4d4b2c8
+87,Saad Bguir,tn TUN,MFFW,Abha,27,1994,25.6,6,0,0,11,50,6,148,10,5,,,0,2021,020e13ff
+88,Fahad bin Jumayah,sa KSA,MFDF,Abha,26,1995,17.6,3,0,0,41,29,3,62,25,24,,,0,2021,b444c502
+89,Mohammed bin Nukhaylan,sa KSA,DF,Al-Faisaly,19,2002,0.6,0,0,0,0,0,0,1,3,1,,,0,2021,f0d81046
+90,Saud bin Zaydan,sa KSA,MF,Al-Hazem,21,1999,9.8,4,0,0,20,17,0,3,11,25,,,0,2021,6e7fb4db
+91,Abdulaziz Al-Bishi,sa KSA,MF,Al-Ittihad,27,1994,21.7,2,0,0,26,39,6,43,11,20,,,0,2021,778e66d1
+92,Rayan Al Bloushi,sa KSA,FW,Al-Fayha,20,2001,0.2,0,0,0,0,0,0,0,0,0,,,0,2021,d6bc2917
+93,Ammar Bo Essa,sa KSA,MF,Al-Fateh,20,2001,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,40d12802
+94,Ameen Bokhari,sa KSA,GK,Al-Nassr,24,1997,8.7,0,0,0,0,3,0,0,0,0,,,0,2021,32a9aac0
+95,Nawaf Boushal,sa KSA,DF,Al-Fateh,,,23.3,3,1,0,34,46,0,68,50,38,,,0,2021,7dc1c2c6
+96,John Boye,gh GHA,DF,Al-Fayha,34,1987,1.1,0,0,0,1,1,0,1,1,1,,,0,2021,861227d2
+97,Martin Boyle,au AUS,MFFW,Al-Faisaly,28,1993,12.8,3,0,0,11,22,7,18,3,6,,,0,2021,e0b959dc
+98,Filip Bradarić,hr CRO,MF,Al-Ahli,29,1992,21.6,6,0,0,33,7,1,27,41,17,,,0,2021,605873e1
+99,Mohammed Al-Breik,sa KSA,DF,Al-Hilal,28,1992,10.8,4,0,0,21,15,1,66,17,11,,,0,2021,bd448676
+100,Tawfiq Bu Haymid,sa KSA,DF,Al-Fateh,34,1987,18.7,3,0,0,21,17,6,95,19,27,,,0,2021,e0571685
+101,Ali Al-Bulaihi,sa KSA,DF,Al-Hilal,31,1989,20.6,8,0,0,24,8,0,2,28,11,,,0,2021,8d7b2936
+102,Firas Al-Buraikan,sa KSA,FWMF,Al-Fateh,21,2000,23.3,2,0,0,14,23,10,7,5,7,,,0,2021,ac717a23
+103,Mijo Caktaš,hr CRO,MF,Damac,29,1992,15.2,1,0,0,14,8,4,54,8,7,,,0,2021,0245aed5
+104,Haroune Camara,sa KSA,FWMF,Al-Ittihad,23,1998,7.7,0,0,0,12,13,5,4,2,6,,,0,2021,804de447
+105,Martín Campaña,uy URU,GK,Al-Batin,32,1989,29.0,3,0,0,1,5,0,0,1,1,,,0,2021,a0f2f044
+106,Carlos,br BRA,MFFW,Al-Shabab,25,1995,22.0,2,0,0,32,40,18,22,13,12,,,0,2021,901e930c
+107,André Carrillo,pe PER,MF,Al-Hilal,30,1991,16.0,1,0,0,28,17,5,54,9,17,,,0,2021,7527558b
+108,Cássio,pt POR,GK,Al-Taawoun,40,1980,29.0,0,0,0,0,7,0,1,1,0,,,0,2021,5d3888a5
+109,Farouk Chafaï,dz ALG,DF,Damac,31,1990,22.6,4,0,0,20,17,0,5,41,28,,,0,2021,c290409e
+110,Renato Chaves,br BRA,DF,Al-Batin,31,1990,28.6,6,0,0,28,14,3,7,53,22,,,1,2021,2a51efe8
+111,Clayson,br BRA,MF,Al-Faisaly,26,1995,4.4,0,0,0,5,16,1,20,5,3,,,0,2021,85c1009d
+112,Igor Coronado,br BRA,FWMF,Al-Ittihad,28,1992,15.3,2,0,0,17,24,3,102,9,7,,,0,2021,8d9544ea
+113,Gustavo Cuellar,co COL,MF,Al-Hilal,28,1992,17.9,9,1,1,31,13,0,2,36,29,,,0,2021,cdd22fcf
+114,Christian Cueva,pe PER,MF,Al-Fateh,29,1991,23.2,4,1,0,31,60,9,81,13,17,,,0,2021,57376761
+115,Ammar Al-Daheem,sa KSA,DF,Al-Fateh,27,1993,7.7,6,2,1,11,4,0,0,9,15,,,0,2021,3f870b06
+116,Abdurahman Al Dakheel,sa KSA,DF,Al-Hazem,,,20.3,5,1,0,29,11,0,0,27,20,,,0,2021,2bd13e39
+117,Abdulaziz Damdam,sa KSA,MF,Al-Batin,26,1995,1.8,1,0,0,5,4,0,2,2,0,,,0,2021,e5065e89
+118,Omar Damen,sa KSA,FW,Abha,25,1996,1.3,0,0,0,3,3,1,0,1,0,,,0,2021,053be758
+119,Dankler,br BRA,DF,Al-Ahli,29,1992,22.4,5,1,1,13,4,2,3,44,20,,,0,2021,40163883
+120,Faisel Darwish,sa KSA,DFMF,Al-Taawoun,30,1991,0.5,0,0,0,0,2,0,0,1,0,,,0,2021,f3492968
+121,Khalifah Al Dawsari,sa KSA,DF,Al-Fateh,22,1999,2.5,1,0,0,5,2,1,0,3,2,,,0,2021,1560e629
+122,Khalifah Al Dawsari,sa KSA,DF,Al-Hilal,22,1999,0.1,0,0,0,1,1,0,0,0,0,,,0,2021,1560e629
+123,Nasser Al-Dawsari,sa KSA,DFMF,Al-Hilal,22,1998,10.5,0,0,0,16,6,1,80,15,14,,,0,2021,7709e4a6
+124,Salem Al-Dawsari,sa KSA,MFFW,Al-Hilal,29,1991,18.9,1,0,0,17,44,2,50,11,33,,,0,2021,60ee859c
+125,Yacouba Dembélé,ml MLI,DF,Al-Taawoun,20,2001,1.5,0,0,0,2,5,1,5,2,3,,,0,2021,8d09f619
+126,Dener,br BRA,MF,Al-Ta'ee,29,1992,25.3,4,0,0,42,22,3,38,36,28,,,0,2021,3b570c74
+127,Mohammed Al-Dhafiri,sa KSA,FW,Al-Batin,,,0.2,0,0,0,0,0,0,0,0,0,,,0,2021,9c60e1ec
+128,Abdurahman Al-Dossari,sa KSA,MF,Al-Faisaly,23,1997,15.3,3,0,0,23,19,0,9,11,23,,,0,2021,77d0ff42
+129,Fahad Al Dossari,sa KSA,MF,Al-Ettifaq,19,2002,1.2,2,0,0,3,4,0,7,1,5,,,0,2021,66e5f463
+130,Abdullah Al Dossary,sa KSA,MF,Al-Fayha,27,1993,0.6,0,0,0,1,3,0,2,0,0,,,0,2021,f9ec493b
+131,Mohammed Al Dossary,sa KSA,MFDF,Al-Raed,22,1999,15.2,1,0,0,12,27,0,54,16,37,,,0,2021,cec29666
+132,Khalid Dubaysh,sa KSA,DF,Al-Shabab,22,1998,0.0,0,0,0,0,0,0,0,0,0,,,0,2021,6e5a2966
+133,Khalid Dubaysh,sa KSA,DF,Damac,22,1998,1.4,0,0,0,2,1,0,1,1,3,,,0,2021,6e5a2966
+134,Éder,pt POR,FW,Al-Raed,33,1987,18.5,2,0,0,40,31,14,7,5,9,,,0,2021,f0fc9d0e
+135,Carlos Eduardo,br BRA,MFFW,Al-Ahli,31,1989,11.1,3,0,0,17,17,2,7,2,6,,,0,2021,1a234d32
+136,Waleed Al-Enezi,sa KSA,GK,Al-Fateh,25,1996,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,32f4687b
+137,Hussain Al Essa,sa KSA,MF,Al-Batin,20,2000,16.3,2,0,0,25,57,2,31,28,30,,,0,2021,24a859fb
+138,Abdullah Al-Fahad,sa KSA,DF,Al-Raed,27,1994,16.9,3,0,0,18,23,1,3,28,19,,,0,2021,03bb177f
+139,Sultan Fahran,sa KSA,MF,Al-Raed,24,1996,27.9,4,0,0,45,15,0,8,30,34,,,0,2021,9d854e95
+140,Collins Fai,cm CMR,DF,Al-Ta'ee,28,1992,8.2,3,0,0,10,12,1,32,16,13,,,0,2021,46e58246
+141,Hicham Faik,nl NED,MF,Al-Faisaly,29,1992,25.7,4,0,0,37,12,1,32,26,23,,,0,2021,a10e8c6a
+142,Hamed Falatah,sa KSA,MF,Al-Ta'ee,28,1992,16.3,2,0,0,20,17,0,4,37,25,,,0,2021,545ef170
+143,Sultan Faqihi,sa KSA,DFMF,Al-Hazem,26,1995,12.8,1,0,0,18,14,3,32,11,19,,,0,2021,cdf29fb4
+144,Abdulaziz Al Faraj,sa KSA,DF,Al-Nassr,18,2003,0.9,0,0,0,1,0,0,0,1,1,,,0,2021,ffa07148
+145,Salman Al-Faraj,sa KSA,MF,Al-Hilal,31,1989,19.9,5,0,0,27,13,0,67,23,21,,,0,2021,df145034
+146,Mostafa Fathi,eg EGY,MF,Al-Taawoun,26,1995,10.7,2,0,0,5,8,7,22,7,7,,,0,2021,9a34d248
+147,Mohammed Al Fatil,sa KSA,DF,Al-Nassr,29,1992,3.7,0,0,0,1,3,0,0,1,1,,,0,2021,688a1587
+148,Yousef Fawaz,,MF,Al-Batin,,,0.1,0,0,0,1,0,0,0,0,0,,,0,2021,45b65320
+149,Ljubomir Fejsa,rs SRB,MF,Al-Ahli,32,1988,0.3,0,0,0,1,0,0,0,0,0,,,0,2021,874d7a32
+150,Fernando,br BRA,MF,Al-Fayha,28,1993,0.4,0,0,0,2,1,0,1,0,0,,,0,2021,ccd88b8e
+151,Marcelo dos Santos Ferreira,br BRA,DF,Al-Ta'ee,32,1989,26.0,8,0,0,29,18,0,1,54,26,,,0,2021,15a5e48c
+152,Tobías Figueroa,ar ARG,FW,Al-Ta'ee,29,1992,11.4,1,0,0,34,18,14,1,2,5,,,1,2021,b1f3c401
+153,Mohamed Fouzair,ma MAR,MFFW,Al-Raed,29,1991,19.0,5,0,0,47,45,7,126,19,52,,,0,2021,1a2e7a2b
+154,Mazyad Freeh,sa KSA,GK,Al-Batin,32,1989,1.0,0,0,0,0,0,0,0,0,0,,,0,2021,71dc1d1b
+155,Moslem Al Freej,sa KSA,GK,Al-Fayha,33,1988,1.0,0,0,0,0,0,0,0,0,0,,,0,2021,3d438767
+156,Mohammed Al-Fuhaid,sa KSA,MF,Al-Fateh,31,1990,22.3,8,0,0,54,41,1,3,20,27,,,0,2021,7d1b903f
+157,Ramiro Funes Mori,ar ARG,DF,Al-Nassr,30,1991,17.8,2,1,0,17,7,0,3,22,16,,,0,2021,89cbc961
+158,Ahmed El Gaidy,eg EGY,MFFW,Al-Fateh,25,1995,2.9,0,0,0,2,1,1,7,2,3,,,0,2021,4f8c5234
+159,Abdulrahman Al-Ghamdi,sa KSA,FW,Al-Raed,26,1994,0.1,0,0,0,1,0,1,0,0,0,,,0,2021,d45e687c
+160,Ahmed Al Ghamdi,sa KSA,MF,Al-Ettifaq,19,2001,2.5,0,0,0,4,3,1,13,3,4,,,0,2021,fb6d0fd3
+161,Faisal Al Ghamdi,sa KSA,MF,Al-Ettifaq,19,2001,0.5,0,0,0,1,0,0,0,0,1,,,0,2021,d32b0385
+162,Feras Al Ghamdi,sa KSA,MF,Al-Ahli,21,1999,0.6,0,0,0,4,3,0,2,1,3,,,0,2021,969fff6e
+163,Hamed Al-Ghamdi,sa KSA,MFFW,Al-Ettifaq,22,1999,8.8,1,0,0,8,6,1,19,5,12,,,0,2021,785b975b
+164,Khalid Al-Ghamdi,sa KSA,DF,Al-Shabab,33,1988,0.2,0,0,0,0,0,0,0,0,0,,,0,2021,c97ab0b1
+165,Raed Al-Ghamdi,sa KSA,FW,Al-Raed,27,1994,10.3,1,0,0,5,16,6,9,2,2,,,0,2021,9366f883
+166,Sultan Al-Ghanam,sa KSA,DF,Al-Nassr,27,1994,23.4,3,0,0,21,20,2,91,38,21,,,0,2021,0ea89f8d
+167,Khalid Al Ghannam,sa KSA,MF,Al-Nassr,20,2000,14.4,3,0,0,12,21,5,26,8,29,,,0,2021,c16843c7
+168,Abdulrahman Ghareeb,sa KSA,MFFW,Al-Ahli,24,1997,25.2,5,0,0,16,34,7,130,4,17,,,0,2021,8472683b
+169,Fahad Ghazi,sa KSA,DF,Al-Ettifaq,27,1994,3.7,3,1,1,10,2,0,10,6,8,,,0,2021,d60fd28e
+170,Bafétimbi Gomis,fr FRA,FW,Al-Hilal,35,1985,11.8,3,0,0,14,10,11,1,0,2,,,0,2021,3d6686f9
+171,Marcelo Grohe,br BRA,GK,Al-Ittihad,34,1987,27.5,1,0,0,0,1,0,0,0,0,,,0,2021,69c26681
+172,Guilherme,br BRA,MF,Al-Faisaly,26,1995,12.4,0,1,0,12,27,4,59,10,7,,,0,2021,58649f05
+173,Ahmed Al-Habib,sa KSA,DF,Abha,28,1993,0.8,0,0,0,2,0,0,1,0,0,,,0,2021,8c6f0010
+174,Hassan Al-Habib,sa KSA,MF,Al-Fateh,26,1994,2.4,0,0,0,5,4,0,1,2,1,,,0,2021,6431c256
+175,Abdelilah Hafidi,ma MAR,MF,Al-Hazem,29,1992,3.9,0,0,0,2,5,0,15,5,0,,,0,2021,4ba29814
+176,Abdullah Al-Hafith,sa KSA,DF,Al-Ittihad,28,1992,5.3,2,0,0,5,4,0,2,1,1,,,0,2021,95d8222d
+177,Marwan Al Haidari,sa KSA,GK,Al-Shabab,25,1996,1.0,0,0,0,0,0,0,0,0,0,,,0,2021,ad78b3d4
+178,Asiri Haitham,sa KSA,FWMF,Al-Ahli,,,12.4,4,0,0,21,29,7,12,5,20,,,0,2021,9c08d5cd
+179,Adeeb Al Haizan,sa KSA,MF,Al-Ta'ee,20,2001,0.4,0,0,0,0,0,0,0,0,0,,,0,2021,9ce765f0
+180,Fahad Al Hamad,sa KSA,DF,Al-Ahli,23,1998,3.0,2,0,0,3,1,0,0,6,1,,,0,2021,fa08000b
+181,Abderrazak Hamdallah,ma MAR,FW,Al-Nassr,30,1990,4.1,2,0,0,3,6,1,3,2,2,,,0,2021,fe73f8c6
+182,Abderrazak Hamdallah,ma MAR,FW,Al-Ittihad,30,1990,11.6,1,0,0,15,18,9,4,2,4,,,0,2021,fe73f8c6
+183,Abdullah Al Hamdan,sa KSA,FW,Al-Hilal,21,1999,2.6,0,0,0,11,5,1,2,1,7,,,0,2021,cc4b5436
+184,Masheal Al Hamdan,sa KSA,DF,Al-Fateh,18,2003,1.1,0,0,0,0,0,0,0,0,0,,,0,2021,43c156cb
+185,Rayane Hamidou,mw MWI,DF,Al-Ta'ee,19,2002,0.5,0,0,0,0,1,0,0,3,1,,,0,2021,1b19ea1d
+186,Rayane Hamidou,mw MWI,DF,Al-Ahli,19,2002,1.6,1,0,0,2,2,0,3,4,4,,,0,2021,1b19ea1d
+187,Saeed Al Hamsal,sa KSA,DFMF,Abha,25,1996,16.6,4,0,0,19,25,1,17,20,21,,,0,2021,1db95d4d
+188,Mansor Hamzi,sa KSA,MF,Damac,29,1992,24.0,1,0,0,16,69,12,61,20,20,,,0,2021,a76a5951
+189,Abdulaziz Al Harabi,sa KSA,MF,Al-Ta'ee,24,1997,10.9,5,0,0,31,16,0,10,22,29,,,0,2021,2c12aa31
+190,Abdulhadi Al-Harajin,sa KSA,MF,Al-Hazem,26,1994,4.1,2,0,0,2,19,0,17,2,2,,,0,2021,77c3a2cd
+191,Fahad Al Harbi,sa KSA,DF,Al-Fateh,24,1997,0.3,0,0,0,0,0,0,0,2,1,,,0,2021,9e0bbe31
+192,Ibrahim Al Harbi,sa KSA,MF,Al-Fayha,26,1995,0.4,0,0,0,2,1,0,1,0,1,,,0,2021,e8bced19
+193,Mansoor Al-Harbi,sa KSA,DFMF,Al-Raed,33,1987,11.8,2,0,0,7,6,0,57,18,13,,,0,2021,6ae9c5e1
+194,Moteb Al-Harbi,sa KSA,DF,Al-Shabab,,,28.6,6,0,0,35,41,5,81,42,25,,,0,2021,1d88554c
+195,Yousef Al Harbi,sa KSA,MF,Al-Fayha,24,1997,3.5,1,0,0,10,6,0,2,3,6,,,0,2021,87b5229b
+196,Abdulrahman Al Harthi,sa KSA,MFFW,Al-Hazem,22,1998,2.0,1,0,0,1,2,0,1,0,0,,,0,2021,a50edb54
+197,Saleh Al Harthi,sa KSA,MF,Al-Hazem,25,1995,0.3,1,0,0,1,0,0,1,2,1,,,0,2021,f4bbc435
+198,Abbas Al Hassan,sa KSA,MF,Al-Fateh,17,2004,2.8,2,0,0,6,1,0,1,1,1,,,0,2021,42015391
+199,Ali Al Hassan,sa KSA,MF,Al-Nassr,24,1997,12.1,5,0,0,28,13,1,5,21,13,,,0,2021,68b689fa
+200,Abdullah Hassun,sa KSA,DF,Al-Ta'ee,24,1997,3.1,0,0,0,6,5,0,6,2,13,,,0,2021,c62f17d0
+201,Abdullah Hassun,sa KSA,DF,Al-Ahli,24,1997,1.8,1,0,0,1,4,0,3,2,1,,,0,2021,c62f17d0
+202,Abdullah Hawsawi,sa KSA,DF,Damac,25,1996,11.2,5,1,1,14,11,0,30,6,16,,,0,2021,032ea217
+203,Motaz Hawsawi,sa KSA,DF,Al-Taawoun,29,1992,4.0,1,0,0,4,2,0,0,7,4,,,0,2021,2d370b86
+204,Motaz Hawsawi,sa KSA,DF,Al-Ahli,29,1992,1.3,1,0,0,1,1,0,0,1,1,,,0,2021,2d370b86
+205,Omar Hawsawi,sa KSA,DF,Al-Ittihad,35,1985,12.5,3,0,0,9,10,0,0,10,2,,,0,2021,6caca8e5
+206,Sanousi Al Hawsawi,sa KSA,DF,Al-Ettifaq,22,1998,16.1,0,1,0,24,14,4,19,31,19,,,0,2021,35eed93c
+207,Arif Al Haydar,sa KSA,MFDF,Damac,24,1997,1.4,1,0,0,4,3,0,10,4,2,,,0,2021,70f9e558
+208,Hazaa Al-Hazaa,sa KSA,FWMF,Al-Ettifaq,29,1991,5.4,1,0,0,11,13,3,5,4,9,,,0,2021,1bbcb4c8
+209,Hazaa Al-Hazaa,sa KSA,FW,Al-Taawoun,29,1991,0.6,0,0,0,2,3,0,0,0,0,,,0,2021,1bbcb4c8
+210,Ali Hazazi,sa KSA,MF,Al-Ettifaq,27,1994,22.8,2,0,0,42,18,0,9,36,30,,,0,2021,7f093d00
+211,Naif Hazazi,sa KSA,MF,Al-Raed,28,1992,0.4,0,0,0,0,0,0,1,0,0,,,0,2021,1a3644b4
+212,Sulaiman Hazazi,sa KSA,DF,Al-Taawoun,18,2003,6.3,1,1,0,3,9,2,20,9,9,,,0,2021,c6c4a4c7
+213,Waleed Hazem,sa KSA,MF,Damac,26,1994,11.9,2,0,0,13,18,0,6,17,18,,,0,2021,188401af
+214,Abdullah Al Hazzan,sa KSA,DF,Al-Faisaly,22,1999,0.1,0,0,0,0,0,0,0,0,1,,,0,2021,7cab588e
+215,Ahmed Hegazi,eg EGY,DF,Al-Ittihad,30,1991,18.0,1,0,0,3,12,3,14,5,7,,,0,2021,5540c9dc
+216,Bruno Henrique,br BRA,MF,Al-Ittihad,31,1989,20.5,3,0,0,38,16,1,115,18,30,,,0,2021,5a43b021
+217,Eduardo Henrique,br BRA,MF,Al-Raed,26,1995,27.8,3,0,0,32,63,1,8,23,16,,,0,2021,1bd5fc78
+218,Ezekiel Henty,ng NGA,FWMF,Al-Hazem,28,1993,5.2,1,0,0,11,2,2,6,0,0,,,0,2021,f929b17b
+219,Iago Herrerín,es ESP,GK,Al-Raed,33,1988,13.0,0,0,0,1,0,0,0,1,0,,,0,2021,9109185e
+220,Abdulbasit Hindi,sa KSA,DF,Al-Ahli,24,1997,24.0,5,0,0,22,10,1,1,42,30,,,0,2021,854e39bb
+221,Bassam Al Hurayji,sa KSA,MF,Al-Batin,21,2000,3.2,4,1,1,6,6,0,3,3,4,,,0,2021,981e66be
+222,Jang Hyun-soo,kr KOR,DF,Al-Hilal,29,1991,24.7,4,0,0,17,10,0,1,21,13,,,0,2021,d0f6a36d
+223,Bilel Ifa,tn TUN,DF,Abha,31,1990,10.2,2,1,0,10,2,1,10,17,11,,,0,2021,ddd1a27c
+224,Odion Ighalo,ng NGA,FW,Al-Shabab,32,1989,18.0,2,0,0,18,34,22,1,1,3,,,0,2021,03622183
+225,Odion Ighalo,ng NGA,FW,Al-Hilal,32,1989,12.4,1,0,0,16,19,12,0,1,1,,,0,2021,03622183
+226,Abdulwahab Jaafer,sa KSA,MF,Al-Ta'ee,27,1993,0.6,0,0,0,2,2,0,1,0,1,,,0,2021,4331184d
+227,Mohammed Jahfali,sa KSA,DFMF,Al-Hilal,30,1990,7.7,2,0,0,8,4,0,1,17,4,,,0,2021,65ed1735
+228,Ziyad Al Jari,sa KSA,DF,Al-Fateh,19,2001,2.3,2,0,0,4,0,0,0,0,6,,,0,2021,928cfb43
+229,Ali Al Jassem,sa KSA,MF,Al-Fateh,20,2001,0.5,0,0,0,1,0,0,1,0,1,,,0,2021,61da0c8f
+230,Ahmed Al Jaweed,sa KSA,MF,Al-Hazem,26,1995,8.8,3,0,0,15,8,0,2,10,12,,,0,2021,53ff7ae8
+231,Youssef El Jebli,nl NED,MFFW,Al-Batin,28,1992,20.4,1,0,0,37,24,2,127,12,16,,,0,2021,3a225774
+232,Abdulaziz Al-Jebreen,sa KSA,MF,Al-Ittihad,31,1990,0.3,0,0,0,1,1,0,0,1,0,,,0,2021,cf6a0f9b
+233,Fahad Al-Johani,sa KSA,FWMF,Al-Ta'ee,29,1991,6.3,3,0,0,11,7,3,14,2,11,,,0,2021,a9bafb60
+234,Ziyad Al Johani,sa KSA,MF,Al-Ahli,19,2001,3.0,2,0,0,9,8,0,2,3,3,,,0,2021,ac0a9132
+235,Mansor Joher,sa KSA,GK,Abha,26,1995,0.5,0,0,0,0,0,0,0,0,0,,,0,2021,2d60c725
+236,Ola John,nl NED,MFFW,Al-Hazem,29,1992,21.6,1,0,0,16,28,5,112,10,5,,,0,2021,82b2a290
+237,Abdullah Al-Jouei,sa KSA,MFFW,Al-Shabab,26,1995,4.9,0,0,0,11,13,1,4,5,8,,,0,2021,78ccb727
+238,Hassan Al Jubairi,sa KSA,DF,Al-Ta'ee,30,1991,24.0,6,0,0,26,21,0,21,40,35,,,0,2021,c9484c3d
+239,Musab Al Juwayr,sa KSA,MF,Al-Hilal,18,2003,3.8,0,1,0,5,5,0,8,4,9,,,0,2021,62592fc1
+240,Khalid Kaabi,sa KSA,MF,Al-Faisaly,29,1992,10.2,2,0,0,17,19,1,24,7,11,,,0,2021,d3f1e57e
+241,Hassan Kadesh,sa KSA,DF,Al-Taawoun,28,1992,5.5,1,0,0,5,2,0,10,10,5,,,0,2021,7165f2e9
+242,Kaku,py PAR,MF,Al-Taawoun,26,1995,12.3,2,0,0,9,16,3,47,6,12,,,0,2021,cb01ad74
+243,Majed Kanabah,sa KSA,MF,Al-Fateh,28,1993,9.9,1,0,0,18,11,1,11,8,9,,,0,2021,005fcf63
+244,Mohamed Kanno,sa KSA,MF,Al-Hilal,26,1994,9.9,6,0,0,15,7,0,3,19,12,,,0,2021,74ccf212
+245,Ahmed Al-Kassar,sa KSA,GK,Al-Faisaly,30,1991,15.5,2,0,0,1,6,0,0,0,1,,,0,2021,eedb42fd
+246,Mohammed Al-Khabrani,sa KSA,DF,Al-Ahli,27,1993,18.1,8,2,2,35,9,0,4,32,12,,,0,2021,614b7be3
+247,Abdullah Al-Khaibari,sa KSA,MF,Al-Nassr,24,1996,17.6,4,0,0,20,21,0,2,14,24,,,0,2021,ab47ae1c
+248,Sami Al-Khaibari,sa KSA,DF,Al-Fayha,31,1989,29.0,2,0,0,10,28,0,3,34,24,,,0,2021,07e3e282
+249,Saad Al Khairi,sa KSA,FW,Al-Ettifaq,26,1995,1.1,1,0,0,4,3,0,2,0,1,,,0,2021,0342e8cb
+250,Osama Al-Khalaf,sa KSA,MFDF,Al-Ta'ee,24,1996,7.6,2,0,0,16,26,0,48,8,4,,,0,2021,1f4ea94e
+251,Osama Al-Khalaf,sa KSA,DFMF,Al-Hazem,24,1996,8.9,3,0,0,17,29,1,39,25,16,,,0,2021,1f4ea94e
+252,Awadh Khames,sa KSA,DFMF,Al-Raed,33,1988,4.2,1,0,0,4,5,0,1,7,2,,,0,2021,eb0eeb4a
+253,Abdullah Khateeb,sa KSA,DF,Al-Ettifaq,26,1995,18.3,2,0,0,13,7,0,1,14,14,,,1,2021,9913d086
+254,Khalid Al-Khathlan,sa KSA,MFDF,Al-Raed,,,9.7,2,0,0,17,5,0,15,16,19,,,0,2021,15ba718b
+255,Abdullah Khattab,sa KSA,FW,Damac,26,1994,0.2,0,0,0,2,0,0,1,0,0,,,0,2021,9f5d7c5a
+256,Ayman Al-Khulaif,sa KSA,MF,Al-Fateh,24,1997,4.3,2,0,0,11,11,1,16,3,5,,,0,2021,e77f77bf
+257,Filip Kiss,sk SVK,MFDF,Al-Ettifaq,30,1990,27.1,3,1,0,48,15,1,3,33,28,,,0,2021,2e88cabe
+258,Franck Kom,cm CMR,MF,Al-Ahli,29,1991,11.2,5,0,0,24,26,1,1,15,5,,,0,2021,d0af7d31
+259,Maksym Koval,ua UKR,GK,Al-Fateh,28,1992,27.9,2,0,0,1,3,0,0,0,0,,,0,2021,60713cb3
+260,Mohammed Al Kunaydiri,sa KSA,DFMF,Abha,20,2000,11.3,1,0,0,8,12,0,46,23,16,,,0,2021,7fc5bfb4
+261,Mohammed Al-Kwikbi,sa KSA,MF,Al-Ettifaq,26,1994,14.7,3,1,0,11,24,0,52,16,16,,,0,2021,f055c890
+262,Ali Lajami,sa KSA,DF,Al-Nassr,25,1996,18.0,3,0,0,17,23,0,1,35,12,,,0,2021,46f7ab4f
+263,Qassem Lajami,sa KSA,DF,Al-Fateh,25,1996,19.3,3,0,0,11,9,0,2,32,16,,,0,2021,9b6a4bd9
+264,Igor Lichnovsky,cl CHI,DF,Al-Shabab,27,1994,15.0,4,1,0,20,19,0,1,27,6,,,0,2021,3947fa95
+265,Ramon Lopes,br BRA,FW,Al-Fayha,31,1989,20.8,2,0,0,12,31,20,15,2,10,,,0,2021,0c54ef93
+266,Lucão,br BRA,DF,Al-Ta'ee,29,1992,18.0,0,0,0,9,4,0,0,17,5,,,0,2021,ffef70a4
+267,Zé Luís,cv CPV,MFFW,Al-Taawoun,30,1991,2.2,0,1,0,1,2,0,0,1,2,,,0,2021,520c318f
+268,Martin Lukov,bg BUL,GK,Al-Ta'ee,28,1993,17.6,0,0,0,0,5,0,0,0,0,,,0,2021,83cae50c
+269,Henrique Luvannor,md MDA,MF,Al-Taawoun,31,1990,8.8,4,0,0,18,13,0,12,7,6,,,0,2021,fe784367
+270,Christian Luyindama,cd COD,DF,Al-Taawoun,27,1994,10.7,1,0,0,7,4,0,1,11,4,,,0,2021,d8feae4a
+271,Raïs M'Bolhi,dz ALG,GK,Al-Ettifaq,35,1986,27.0,3,0,0,0,3,0,0,0,1,,,0,2021,c121a641
+272,Abdullah Madu,sa KSA,DF,Al-Nassr,28,1993,4.6,1,0,0,3,2,0,0,4,3,,,0,2021,9c3523a4
+273,Abdullah Magrashi,sa KSA,MFFW,Al-Raed,23,1997,3.8,1,0,0,11,4,2,1,3,5,,,0,2021,62fad6f8
+274,Mohammed Al-Mahasneh,sa KSA,GK,Damac,,,5.0,0,0,0,0,0,0,0,0,0,,,0,2021,200b66cd
+275,Aschraf El Mahdioui,nl NED,MF,Al-Taawoun,25,1996,11.7,3,0,0,27,4,1,4,10,11,,,0,2021,8d3ba4b0
+276,Ibrahim Mahnashi,sa KSA,MF,Al-Ettifaq,21,1999,14.4,5,0,0,27,25,0,8,22,18,,,0,2021,bcee44d8
+277,Mohammed Al Majhad,sa KSA,MFDF,Al-Ahli,23,1998,17.7,3,0,0,38,15,2,35,20,24,,,0,2021,4d316353
+278,Abdulaziz Majrashi,sa KSA,DF,Al-Ta'ee,30,1991,16.1,5,0,0,29,16,1,28,48,15,,,0,2021,f653a25b
+279,Abdulaziz Majrashi,sa KSA,MFDF,Damac,30,1991,21.4,3,1,0,18,20,0,50,19,16,,,0,2021,481acdc2
+280,Ali Majrashi,sa KSA,MFFW,Al-Shabab,21,1999,4.6,3,1,1,10,15,0,11,6,7,,,0,2021,cd23146c
+281,Ali Majrashi,sa KSA,DF,Al-Ahli,21,1999,10.4,2,0,0,18,34,2,31,23,18,,,0,2021,cd23146c
+282,Mohammed Majrashi,sa KSA,FW,Al-Ahli,30,1991,4.0,0,0,0,10,3,2,1,0,0,,,1,2021,39425891
+283,Mustafa Malayekah,sa KSA,GK,Al-Faisaly,35,1986,14.4,1,1,0,1,7,0,0,0,0,,,0,2021,86c45703
+284,Cephas Malele,ch SUI,FWMF,Al-Ta'ee,27,1994,17.5,3,0,0,42,32,15,31,3,10,,,0,2021,2341e8e5
+285,Abdulellah Al-Malki,sa KSA,MF,Al-Ittihad,26,1994,10.2,4,0,0,21,17,1,6,10,11,,,0,2021,3bcd2730
+286,Saqr Mamdouh,sa KSA,DF,Al-Batin,22,1998,4.4,1,0,0,10,10,0,7,8,6,,,0,2021,0d7eb413
+287,Sandro Manoel,br BRA,MF,Al-Taawoun,33,1988,11.0,3,1,0,18,11,0,34,11,18,,,0,2021,75b66b24
+288,Hamad Al Mansour,sa KSA,DF,Al-Nassr,28,1993,5.3,0,0,0,5,3,0,15,10,2,,,0,2021,121df375
+289,Moussa Marega,ml MLI,FWMF,Al-Hilal,30,1991,22.7,1,0,0,37,22,8,60,11,10,,,0,2021,05a84d52
+290,Mohammed Marran,sa KSA,FW,Al-Ta'ee,20,2001,3.9,0,0,0,3,12,1,4,2,6,,,0,2021,42a3712b
+291,John Mary,cm CMR,FW,Al-Shabab,28,1993,2.5,0,0,0,5,1,3,2,1,0,,,0,2021,28fa80da
+292,Jaloliddin Masharipov,uz UZB,MF,Al-Nassr,27,1993,17.5,3,0,0,22,25,3,128,11,28,,,0,2021,e309042b
+293,Ali Al Masoud,sa KSA,FW,Al-Fateh,17,2004,0.0,0,0,0,0,0,0,0,0,0,,,0,2021,18f06aac
+294,Uroš Matić,mk MKD,MF,Abha,31,1990,27.8,3,0,0,19,30,1,24,17,25,,,0,2021,26a796c1
+295,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,34,1987,29.0,1,0,0,1,5,0,0,2,0,,,0,2021,c3c96222
+296,Prestige Mboungou,cg CGO,MFDF,Abha,21,2000,12.9,1,0,0,21,28,0,33,11,8,,,0,2021,1dc8f5ab
+297,Álvaro Medrán,es ESP,MF,Al-Taawoun,27,1994,13.7,6,0,0,14,23,0,71,11,7,,,0,2021,31223bcf
+298,Sultan Mendash,sa KSA,MF,Al-Fayha,26,1994,18.0,3,0,0,43,36,6,70,8,22,,,0,2021,8738a7a1
+299,Tayeb Meziani,dz ALG,FW,Abha,25,1996,3.7,1,0,0,6,5,2,9,1,2,,,0,2021,d2a93f98
+300,Abdelali Mhamdi,ma MAR,GK,Abha,29,1991,23.6,2,0,0,2,2,0,0,0,1,,,0,2021,29b3f0d1
+301,Michael,br BRA,MFFW,Al-Hilal,25,1996,8.1,2,0,0,6,8,4,33,5,8,,,0,2021,f523d00b
+302,Salman Al-Moasher,sa KSA,MF,Al-Ahli,32,1988,5.2,4,0,0,9,15,0,33,5,3,,,0,2021,2678bece
+303,Faisal Mohamed,sa KSA,FW,Al-Taawoun,21,2000,0.1,0,0,0,0,0,0,1,0,0,,,0,2021,4e408b71
+304,Tariq Mohammed,sa KSA,DF,Al-Taawoun,25,1995,20.0,3,0,0,12,26,1,42,31,18,,,0,2021,5fab7c9b
+305,Hassan Al Mohammedsaleh,sa KSA,MF,Al-Fateh,22,1998,2.0,0,0,0,3,4,1,0,2,3,,,0,2021,39cfc50b
+306,Mohammed Mohsen Harzan,sa KSA,MF,Al-Ta'ee,32,1989,8.2,0,0,0,6,31,0,9,2,2,,,0,2021,1024431e
+307,Bader Monshi,sa KSA,MF,Damac,22,1999,12.2,5,0,0,38,14,0,3,25,24,,,0,2021,e8f7625c
+308,Hussain Al Moqahwi,sa KSA,MFFW,Al-Ahli,33,1988,5.7,3,0,0,10,28,1,30,2,3,,,0,2021,7dfe2bb0
+309,Anselmo de Moraes,br BRA,MF,Al-Nassr,32,1989,14.8,5,0,0,37,25,0,2,23,42,,,0,2021,2bb57ba0
+310,Yasser Al Mosailem,sa KSA,GK,Al-Ahli,37,1984,3.5,0,0,0,0,1,0,0,0,0,,,0,2021,6869a0aa
+311,Nooh Al-Mousa,sa KSA,MF,Al-Ahli,30,1991,7.8,1,0,0,10,6,0,1,12,12,,,0,2021,7027b0fe
+312,Ryan Al-Mousa,sa KSA,MF,Al-Taawoun,27,1994,9.4,1,0,0,20,10,0,2,12,17,,,1,2021,ca06995b
+313,Amadou Moutari,ne NIG,MFFW,Al-Fayha,27,1994,16.3,3,0,0,30,31,10,22,8,19,,,0,2021,1cfa1d37
+314,Saeed Al Mowalad,sa KSA,DF,Al-Ettifaq,30,1991,27.1,5,0,0,23,19,2,134,47,18,,,0,2021,0816e7c8
+315,Muteb Al Mufarrij,sa KSA,DF,Al-Hilal,24,1996,8.5,0,0,0,6,11,0,0,7,13,,,0,2021,247a033a
+316,Abdullah Al Mugren,sa KSA,FWMF,Al-Raed,24,1996,3.4,0,0,0,8,2,1,6,0,5,,,0,2021,9155d8fe
+317,Abdullah Al Mugren,sa KSA,FW,Al-Ahli,24,1996,3.5,2,0,0,11,10,0,8,3,3,,,0,2021,9155d8fe
+318,Khalid Al Muntashiri,sa KSA,FW,Al-Taawoun,19,2002,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,22b72128
+319,Lafi Al Murkaa,sa KSA,DF,Al-Fateh,19,2002,0.5,0,0,0,0,0,0,0,0,0,,,0,2021,100f7c64
+320,Knowledge Musona,zw ZIM,MFFW,Al-Ta'ee,31,1990,23.4,3,0,0,28,26,10,120,15,21,,,0,2021,059a0231
+321,Muteb Al-Mutlaq,sa KSA,DF,Al-Raed,23,1997,0.0,0,0,0,0,0,0,1,0,0,,,0,2021,f20dce66
+322,Fahad Al Muwallad,sa KSA,MF,Al-Ittihad,26,1994,14.2,4,0,0,23,45,9,19,8,16,,,0,2021,23f32ea1
+323,Saad Al Muwallad,sa KSA,FW,Al-Shabab,19,2002,0.3,0,0,0,0,0,0,0,0,0,,,0,2021,51a948f8
+324,Alfred N'Diaye,sn SEN,MF,Al-Shabab,31,1990,10.9,5,1,1,13,10,0,0,8,16,,,0,2021,7789bf63
+325,Sumaihan Al-Nabet,sa KSA,MF,Al-Taawoun,25,1996,19.0,9,1,1,46,64,0,33,19,21,,,0,2021,f96e8e1a
+326,Hamdi Nagguez,tn TUN,DF,Al-Ahli,28,1992,4.4,0,0,0,4,3,0,9,7,4,,,0,2021,ad3b22f1
+327,Ahmed Al Najai,sa KSA,MF,Al-Hazem,26,1995,13.6,2,0,0,24,21,0,2,11,10,,,0,2021,63df6173
+328,Ammar Al-Najar,sa KSA,MFDF,Damac,24,1997,3.5,3,0,0,9,2,2,19,2,6,,,0,2021,374dd9bc
+329,Salem Al Najdi,sa KSA,MF,Al-Fateh,18,2003,0.3,0,0,0,0,0,0,0,0,0,,,0,2021,bbe42b70
+330,Muhannad Al Najei,sa KSA,DF,Damac,27,1994,0.5,1,0,0,1,0,0,1,0,0,,,1,2021,8cd017d8
+331,Sami Al-Najei,sa KSA,MF,Al-Nassr,24,1997,10.5,2,0,0,11,20,2,24,4,9,,,0,2021,978e29d3
+332,Mohammed Naji,sa KSA,DF,Al-Batin,27,1993,19.6,3,0,0,22,24,0,19,42,23,,,1,2021,21c394c4
+333,Rakan Najjar,sa KSA,GK,Al-Ittihad,26,1995,2.5,0,0,0,0,0,0,0,0,1,,,0,2021,1102da02
+334,Majed Al-Najrani,sa KSA,MF,Al-Ettifaq,28,1993,0.6,0,0,0,1,1,0,1,0,1,,,0,2021,bfa3eeab
+335,Ibrahim Al Nakhli,sa KSA,DF,Damac,24,1997,15.1,3,0,0,17,18,1,10,23,20,,,0,2021,59c31a31
+336,Munther Nakhli,sa KSA,MF,Al-Fateh,,,1.2,0,0,0,0,1,0,3,0,0,,,0,2021,686fd5ae
+337,Saleh Al Nashmi,sa KSA,DF,Al-Fateh,25,1995,0.2,0,0,0,2,0,0,1,0,0,,,0,2021,87abe0be
+338,Awad Al Nashri,sa KSA,MF,Al-Ittihad,19,2002,3.6,2,0,0,7,3,0,0,6,10,,,0,2021,57a52a08
+339,Bander Nasser,sa KSA,DF,Al-Fayha,31,1990,8.4,1,0,0,6,7,0,11,8,9,,,0,2021,394bb33c
+340,Bader Nawaf,sa KSA,GK,Al-Ta'ee,22,1999,5.4,0,0,0,0,1,0,0,0,1,,,0,2021,9eb064ae
+341,Alassane Ndao,sn SEN,MF,Al-Ahli,24,1996,10.6,1,0,0,7,12,2,29,5,2,,,0,2021,6abe11e6
+342,Ali Al Nemer,sa KSA,MF,Al-Fayha,29,1991,1.9,0,0,0,1,6,0,0,3,1,,,0,2021,4d20e7a7
+343,Neris,br BRA,DF,Al-Hazem,29,1992,25.1,6,0,0,32,15,2,0,37,15,,,0,2021,f961d4c2
+344,Youssouf Niakaté,fr FRA,FW,Al-Ettifaq,28,1992,4.1,0,0,0,7,3,3,2,0,0,,,0,2021,a6f26c3b
+345,Youssouf Niakaté,fr FRA,FW,Al-Ittihad,28,1992,1.7,1,0,0,3,2,1,1,0,3,,,0,2021,a6f26c3b
+346,Gonzalo Nicolás Martínez,ar ARG,MF,Al-Nassr,28,1993,10.8,3,0,0,14,34,0,50,1,9,,,0,2021,cd00ceea
+347,Meshari Al Nimr,,FW,Al-Nassr,,,0.0,0,0,0,0,0,0,0,0,0,,,0,2021,02ec15b4
+348,Nono,es ESP,MF,Damac,28,1993,9.2,4,0,0,20,34,1,22,9,10,,,0,2021,0bd57693
+349,Abdulmajeed Obaid,sa KSA,MFDF,Al-Batin,25,1995,2.9,1,0,0,3,7,1,10,2,3,,,0,2021,4420cede
+350,Abdurahman Al-Obaid,sa KSA,DF,Al-Nassr,28,1993,1.0,0,0,0,3,2,0,4,1,2,,,0,2021,bd016f97
+351,Abdurahman Al-Obaid,sa KSA,DF,Al-Hilal,28,1993,0.2,0,0,0,0,0,0,0,0,1,,,0,2021,bd016f97
+352,Fahad Al Obaid,,DFMF,Al-Hazem,,,18.4,6,0,0,34,16,3,48,29,32,,,0,2021,69e09f7f
+353,Madallah Al-Olayan,sa KSA,DF,Al-Hilal,26,1994,5.6,0,0,0,6,10,1,16,13,6,,,0,2021,6a287291
+354,Madallah Al-Olayan,sa KSA,DF,Al-Ittihad,26,1994,2.3,0,0,0,1,3,0,8,2,4,,,0,2021,6a287291
+355,Ismail Omar,sa KSA,MF,Al-Faisaly,29,1992,2.5,0,0,0,5,8,1,3,1,3,,,0,2021,17c7ec02
+356,Youssouf Omar,ne NIG,FW,Al-Hazem,27,1994,4.2,0,0,0,6,3,1,2,1,2,,,0,2021,3047afc5
+357,Nasser Al Omran,sa KSA,MF,Al-Shabab,24,1997,0.5,1,0,0,4,1,0,0,0,1,,,0,2021,57f65da4
+358,Thaar Al Otaibi,sa KSA,MFFW,Al-Hazem,21,1999,9.8,0,0,0,10,35,0,13,9,9,,,0,2021,b065dc0f
+359,Saqer Otaif,sa KSA,FW,Al-Fayha,30,1990,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,2a3e2c5c
+360,Abdullah Otayf,sa KSA,MF,Al-Hilal,28,1992,3.2,0,0,0,3,5,0,1,4,3,,,0,2021,508d44cf
+361,Othman Al Othman,sa KSA,MF,Al-Fateh,18,2003,1.9,0,0,0,8,3,1,10,1,3,,,0,2021,98958274
+362,Omar Al Oudah,sa KSA,MF,Al-Batin,22,1998,0.8,0,0,0,1,0,0,1,1,0,,,0,2021,8308e199
+363,Fares Owais,,FW,Al-Shabab,19,2001,0.0,0,0,0,0,1,0,0,0,0,,,0,2021,c945e0b1
+364,Mohammed Al-Owais,sa KSA,GK,Al-Hilal,29,1991,1.0,0,0,0,0,0,0,0,0,0,,,0,2021,f2c060c6
+365,Mohammed Al-Owais,sa KSA,GK,Al-Ahli,29,1991,9.0,0,0,0,0,3,0,0,0,0,,,0,2021,f2c060c6
+366,Abdullah Al-Owaishir,sa KSA,GK,Al-Ettifaq,30,1991,3.0,0,0,0,0,0,0,0,0,0,,,0,2021,6a1fe279
+367,Samuel Owusu,gh GHA,MF,Al-Fayha,25,1996,15.7,1,0,0,18,21,13,44,5,6,,,0,2021,7c92cab0
+368,Kyriakos Papadopoulos,gr GRE,DFMF,Al-Fayha,29,1992,0.2,0,0,0,0,0,0,0,1,0,,,0,2021,931b7c30
+369,Paulinho,br BRA,MF,Al-Shabab,24,1997,18.3,7,1,0,47,29,0,9,17,34,,,0,2021,2d215840
+370,Paulinho,br BRA,MF,Al-Ahli,33,1988,3.5,0,0,0,6,3,2,0,1,1,,,0,2021,bb7337cc
+371,Matheus Pereira,pt POR,MF,Al-Hilal,25,1996,15.2,8,0,0,31,47,3,89,5,10,,,0,2021,b04ee927
+372,Petros,br BRA,MF,Al-Nassr,32,1989,3.0,1,0,0,5,7,0,0,1,3,,,0,2021,7773f73b
+373,Petros,br BRA,MF,Al-Fateh,32,1989,14.4,3,0,0,13,41,0,4,9,15,,,0,2021,7773f73b
+374,Abdulkareem Al-Qahtani,sa KSA,MF,Al-Ta'ee,28,1993,4.1,3,0,0,8,9,0,14,1,8,,,0,2021,8728cc08
+375,Abdullah Al Qahtani,sa KSA,MF,Abha,22,1999,1.7,0,0,0,2,2,1,2,3,3,,,0,2021,8423251c
+376,Abdulmohsen Al-Qahtani,sa KSA,MF,Al-Raed,22,1999,5.3,2,0,0,11,1,0,5,3,3,,,0,2021,e92c0d8d
+377,Hussain Al Qahtani,sa KSA,MF,Al-Shabab,26,1994,25.2,4,0,0,44,18,1,14,25,39,,,0,2021,b2bffddf
+378,Mohammed Al Qahtani,sa KSA,FW,Al-Hilal,19,2002,0.2,0,0,0,1,0,0,1,0,0,,,0,2021,9fde4fbf
+379,Rayan Mansour Al-Qahtani,sa KSA,FW,Damac,19,2001,1.0,0,0,0,1,1,0,1,0,1,,,0,2021,0f119c39
+380,Muhannad Al Qaidhi,sa KSA,DF,Abha,23,1998,14.1,4,0,0,19,14,0,0,35,13,,,0,2021,53b7de3f
+381,Dhaifallah Al-Qarni,sa KSA,MF,Al-Batin,32,1988,3.5,2,0,0,10,2,0,3,10,4,,,0,2021,55efbba6
+382,Fawaz Al-Qarni,sa KSA,GK,Al-Shabab,29,1992,26.5,2,0,0,1,5,0,0,2,1,,,0,2021,5e08e9d2
+383,Mohammed Al-Qarni,sa KSA,MFDF,Al-Batin,31,1989,22.9,9,0,0,42,19,0,7,41,30,,,0,2021,00cc0377
+384,Hussain Qassem,sa KSA,DF,Al-Faisaly,23,1997,20.5,8,1,0,50,26,0,36,37,34,,,0,2021,d1c15013
+385,Mohammed Qassem,sa KSA,DF,Al-Nassr,26,1995,6.8,2,0,0,9,4,0,30,5,9,,,0,2021,e9342cf8
+386,Hassan Al-Qeed,sa KSA,FWMF,Abha,23,1998,3.5,0,0,0,9,7,3,8,4,3,,,0,2021,cb5fedf6
+387,Robin Quaison,se SWE,FWMF,Al-Ettifaq,27,1993,16.5,4,1,1,22,29,7,5,3,9,,,0,2021,74c7c2db
+388,Saleh Al-Qumaizi,sa KSA,DF,Al-Faisaly,29,1991,19.5,8,0,0,31,11,0,55,28,12,,,0,2021,d4a82c5a
+389,Abdullah Radif,sa KSA,FW,Al-Hilal,18,2003,0.2,0,0,0,0,1,0,1,0,0,,,0,2021,149d0699
+390,Raphael,br BRA,DF,Al-Faisaly,29,1992,12.2,3,0,0,18,7,0,2,20,11,,,0,2021,968b3d05
+391,Fahad Al Rashidi,sa KSA,MFFW,Al-Taawoun,24,1997,11.9,3,0,0,16,29,8,16,5,15,,,0,2021,cadee715
+392,Mohamed Rayhi,nl NED,MF,Al-Batin,27,1994,28.6,4,0,0,48,49,4,136,25,55,,,0,2021,98f6d3e3
+393,Ahmed Al-Rehaili,sa KSA,GK,Al-Raed,26,1994,17.0,3,0,0,1,2,0,0,1,0,,,0,2021,cd9753ac
+394,Nawaf Al Reshoodi,sa KSA,FW,Al-Taawoun,20,2000,0.0,0,0,0,0,1,0,0,0,0,,,0,2021,1485be50
+395,Moha Rharsalla,ma MAR,MFFW,Al-Hazem,27,1993,9.6,2,0,0,16,10,0,14,5,3,,,0,2021,82e3586c
+396,Ricardo,br BRA,MF,Al-Fayha,27,1994,26.6,4,0,0,33,22,2,28,36,32,,,0,2021,2a5cdcd1
+397,Abdulrahman Al-Rio,sa KSA,DF,Al-Hazem,27,1994,0.5,0,0,0,0,0,1,2,1,0,,,0,2021,31c627aa
+398,Abdulrahman Al-Rio,sa KSA,DF,Damac,27,1994,2.6,1,0,0,3,1,0,4,10,7,,,0,2021,31c627aa
+399,Garry Rodrigues,cv CPV,MF,Al-Ittihad,30,1990,1.9,0,0,0,0,1,2,4,1,2,,,0,2021,149895bf
+400,Tiago Rodrigues,pt POR,MF,Al-Hazem,29,1992,15.4,4,0,0,24,5,0,26,9,10,,,0,2021,e3e3f401
+401,Jonathan Rodríguez,uy URU,MFFW,Al-Nassr,28,1993,4.5,0,0,0,1,3,3,3,0,1,,,0,2021,86ca9bca
+402,Romarinho,br BRA,FWMF,Al-Ittihad,30,1990,27.8,3,0,0,17,52,11,10,5,16,,,0,2021,d73461ea
+403,Rossi,br BRA,MF,Al-Faisaly,28,1993,12.2,2,0,0,21,40,2,68,10,14,,,0,2021,80274d82
+404,Igor Rossi Branco,br BRA,DF,Al-Faisaly,32,1989,23.8,5,0,0,28,18,1,1,21,9,,,0,2021,ec84c4ab
+405,Masoud Al Rubaie,sa KSA,DF,Al-Batin,25,1995,5.1,3,0,0,7,4,0,5,6,6,,,0,2021,f9ee09d8
+406,Saeed Al Rubaie,sa KSA,DF,Al-Ettifaq,27,1994,23.6,10,0,0,42,6,2,0,27,16,,,0,2021,7d3de517
+407,Marwane Saâdane,ma MAR,DF,Al-Fateh,29,1992,21.5,8,2,1,29,10,1,2,31,18,,,0,2021,14f47102
+408,Abdullah Saeed,sa KSA,FW,Al-Shabab,18,2003,0.2,0,0,0,0,0,0,0,0,0,,,0,2021,56ef3d08
+409,Dawod Al Saeed,sa KSA,GK,Al-Hazem,30,1991,8.0,0,0,0,0,1,0,0,0,0,,,1,2021,5e4fe378
+410,Mohammed Al-Saeed,sa KSA,MFDF,Al-Fateh,24,1996,6.0,1,0,0,6,4,0,22,14,4,,,0,2021,f17497b0
+411,Sulaiman Saeed,sa KSA,MF,Al-Hazem,24,1996,0.5,0,0,0,2,3,0,0,0,0,,,0,2021,f7ee4371
+412,Abdulrahman Al Safari,sa KSA,MF,Al-Fayha,28,1993,21.8,8,0,0,41,19,1,10,23,37,,,0,2021,b5ecf70f
+413,Ziyad Al-Sahafi,sa KSA,DF,Al-Ittihad,26,1994,16.0,3,1,0,21,7,0,1,14,6,,,1,2021,1141f1af
+414,Mohammed Al Sahlawi,sa KSA,FW,Al-Hazem,34,1987,4.2,1,0,0,10,2,0,4,1,4,,,0,2021,2c330ad2
+415,Mohammed Al Sahli,sa KSA,MFFW,Damac,29,1992,4.0,1,0,0,8,16,1,13,1,8,,,0,2021,53a6565b
+416,Mohammed Al-Saiari,sa KSA,FW,Al-Faisaly,28,1993,3.3,3,0,0,8,7,1,4,1,2,,,0,2021,36572437
+417,Makhir Saleh,sa KSA,DF,Al-Fayha,22,1999,17.2,4,0,0,24,11,0,16,23,19,,,0,2021,19f1d85c
+418,Mohammed Saleh,sa KSA,MF,Al-Ta'ee,21,2000,2.0,2,0,0,7,2,0,1,2,0,,,0,2021,092a2656
+419,Abdulla Al Salem,sa KSA,FWMF,Al-Ettifaq,28,1992,8.8,2,1,0,13,10,3,6,4,10,,,0,2021,e44fe653
+420,Aiman Salem,sa KSA,MF,Al-Nassr,20,2001,3.6,3,0,0,11,7,1,13,9,8,,,0,2021,650eaf9c
+421,Aiman Salem,sa KSA,MFFW,Al-Ahli,20,2001,6.2,1,0,0,14,6,0,14,11,13,,,0,2021,650eaf9c
+422,Mohammed Salem,sa KSA,DF,Al-Raed,35,1985,26.8,2,0,0,30,13,0,0,37,24,,,0,2021,47f78a2e
+423,Awn Al Saluli,sa KSA,DF,Al-Taawoun,22,1998,12.6,2,0,0,12,2,0,0,15,9,,,1,2021,ace2627f
+424,Zakaria Sami,sa KSA,MF,Al-Batin,29,1992,25.9,8,0,0,40,31,0,15,32,31,,,0,2021,773db52f
+425,Ivan Santini,hr CRO,FWMF,Al-Fateh,32,1989,11.2,4,0,0,13,24,3,2,1,7,,,0,2021,086d7db3
+426,Iago Santos,br BRA,DF,Al-Taawoun,29,1992,17.0,4,0,0,17,9,0,3,17,17,,,1,2021,3bc7ddbe
+427,Iago Santos,br BRA,DF,Al-Shabab,29,1992,11.2,3,0,0,20,8,1,0,12,12,,,0,2021,3bc7ddbe
+428,Rene Santos,br BRA,DF,Al-Raed,29,1992,24.3,6,1,0,36,23,0,2,33,24,,,1,2021,bee587c0
+429,Fawaz Al Saqour,sa KSA,DF,Al-Shabab,25,1996,29.4,1,0,0,13,26,7,91,19,13,,,0,2021,2f140e11
+430,Abdulmajeed Al-Sawat,sa KSA,MF,Al-Faisaly,26,1995,0.8,0,0,0,2,0,0,1,0,1,,,0,2021,70053fe3
+431,Amir Sayoud,dz ALG,MFFW,Al-Ta'ee,30,1990,19.4,4,0,0,21,24,7,74,7,19,,,0,2021,44c66dbd
+432,Basil Al Sayyali,sa KSA,MF,Al-Ta'ee,20,2001,0.1,0,0,0,2,1,0,1,0,0,,,0,2021,b845cc9d
+433,Emilio Schiano,sa KSA,MF,Damac,17,2004,1.5,0,0,0,3,3,0,2,2,3,,,0,2021,f7259563
+434,Sebá,br BRA,MF,Al-Shabab,29,1992,1.8,0,0,0,1,4,3,5,2,0,,,0,2021,64bac8b2
+435,Saad Al-Selouli,sa KSA,MFFW,Al-Ettifaq,23,1998,2.8,0,0,0,3,8,1,10,2,3,,,0,2021,af888475
+436,Hussain Shae'an,sa KSA,GK,Al-Shabab,32,1989,1.5,1,0,0,1,1,0,0,0,0,,,0,2021,4049ea16
+437,Abdulaziz Al Shahrani,sa KSA,MF,Damac,26,1994,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,ea8364d3
+438,Tariq Al Shahrani,sa KSA,MF,Abha,21,2000,0.0,0,0,0,0,0,0,0,0,1,,,0,2021,9a42fc88
+439,Yasser Al-Shahrani,sa KSA,DF,Al-Hilal,29,1992,20.2,0,0,0,23,18,5,91,30,29,,,0,2021,251c164e
+440,Abdulelah Al Shamary,sa KSA,MF,Al-Shabab,29,1992,0.1,0,0,0,0,1,0,0,0,0,,,0,2021,6254cb8a
+441,Abdulelah Al Shamary,sa KSA,MFFW,Al-Hazem,29,1992,10.0,2,0,0,23,50,0,29,2,13,,,0,2021,6254cb8a
+442,Abdullah Al-Shamekh,sa KSA,DF,Al-Shabab,28,1993,1.3,1,0,0,1,1,1,3,1,4,,,0,2021,d4aeee27
+443,Abdullah Al-Shammari,sa KSA,DF,Al-Hazem,27,1993,16.2,10,2,1,21,8,0,0,30,11,,,0,2021,ef09050d
+444,Mansour Al Shammari,sa KSA,DF,Al-Nassr,20,2000,19.2,4,0,0,37,19,4,42,38,31,,,0,2021,d837378d
+445,Mohammed Al Shammari,sa KSA,MF,Al-Batin,21,2000,0.0,0,0,0,0,0,0,0,0,0,,,0,2021,53d621c2
+446,Yousef Al Shammari,sa KSA,MFDF,Al-Batin,23,1997,18.2,4,0,0,20,37,4,24,31,20,,,0,2021,5f2b7b58
+447,Abdullah Al-Shammeri,sa KSA,GK,Abha,29,1991,5.9,1,0,0,0,2,0,0,0,0,,,0,2021,dcee5a82
+448,Abdulmalek Al-Shammeri,sa KSA,DFMF,Al-Shabab,25,1995,0.1,0,0,0,0,1,0,0,0,0,,,0,2021,17a030fc
+449,Abdulmalek Al-Shammeri,sa KSA,DFMF,Al-Fayha,25,1995,0.2,0,0,0,0,1,0,0,0,1,,,0,2021,17a030fc
+450,Fahad Al Shammeri,sa KSA,FW,Al-Batin,,,0.0,0,0,0,0,0,0,1,0,0,,,0,2021,d03aaf5e
+451,Hamdan Al-Shamrani,sa KSA,DF,Al-Ittihad,24,1996,26.9,7,1,0,34,28,2,61,49,31,,,0,2021,651e0c51
+452,Hassan Al Shamrani,sa KSA,DF,Damac,28,1992,12.5,2,0,0,18,7,0,1,17,13,,,0,2021,5b8292fc
+453,Abdullah Al Shanqiti,sa KSA,DF,Al-Raed,22,1998,4.3,0,0,0,7,2,1,12,3,11,,,0,2021,544fec04
+454,Ahmed Sharahili,sa KSA,DF,Al-Shabab,27,1994,21.7,3,0,0,23,10,4,2,27,18,,,0,2021,8e9693fd
+455,Hassan Sharahili,sa KSA,FW,Al-Batin,28,1993,0.0,0,0,0,0,0,0,0,0,0,,,0,2021,1c9accbc
+456,Riyadh Sharahili,sa KSA,MF,Abha,28,1993,21.0,3,0,0,17,22,0,8,12,11,,,0,2021,3e8326a9
+457,Nader Abdullah Al Sharari,sa KSA,DF,Al-Shabab,,,5.8,0,0,0,4,10,0,0,17,12,,,0,2021,f869808c
+458,Abdulaziz Al-Sharid,sa KSA,MF,Al-Faisaly,27,1994,2.4,0,0,0,6,4,0,0,2,4,,,0,2021,f24c47c2
+459,Saleh Al-Shehri,sa KSA,FW,Al-Hilal,27,1993,3.9,1,0,0,8,4,4,3,1,1,,,0,2021,f4377d0f
+460,Yahya Al-Shehri,sa KSA,MF,Al-Raed,31,1990,5.9,0,0,0,3,4,0,47,7,6,,,0,2021,858a6aab
+461,Muhannad Shenqeeti,sa KSA,DF,Al-Ittihad,22,1999,24.6,2,0,0,13,22,1,39,27,33,,,0,2021,a1f6778e
+462,Hussein Al Shuwaysh,sa KSA,DF,Al-Fayha,32,1988,25.9,2,0,0,6,17,1,5,21,11,,,0,2021,a3b6202e
+463,Hani Al Sibyani,sa KSA,DF,Al-Ahli,22,1999,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,cdcbe892
+464,Hussain Al Sibyani,sa KSA,DF,Al-Shabab,20,2001,0.1,0,0,0,0,1,0,0,0,1,,,0,2021,e7667ae7
+465,Meshal Sibyani,sa KSA,MF,Al-Faisaly,20,2001,1.5,0,0,0,0,1,0,1,1,0,,,0,2021,1e2836ed
+466,Ismael Silva Lima,br BRA,MF,Al-Faisaly,26,1994,26.4,10,0,0,57,37,0,93,27,28,,,0,2021,4c5bdee8
+467,Hassan Al Slis,sa KSA,FW,Al-Ettifaq,21,2000,1.7,0,1,0,4,0,3,0,0,1,,,0,2021,53346ffb
+468,Naïm Sliti,tn TUN,MF,Al-Ettifaq,29,1992,17.9,2,0,0,17,43,4,68,9,13,,,0,2021,2e0367a6
+469,Nawaf Al-Sobhi,sa KSA,DF,Al-Taawoun,31,1990,13.5,5,1,1,14,7,1,1,17,13,,,0,2021,4c5ed269
+470,Omar Al Somah,sy SYR,FW,Al-Ahli,32,1989,23.2,0,0,0,21,22,14,10,5,7,,,0,2021,ab170826
+471,Hillel Soudani,dz ALG,MF,Damac,33,1987,21.2,3,0,0,35,49,18,50,11,9,,,0,2021,7a435eb3
+472,Souza,br BRA,MF,Al-Ettifaq,33,1988,17.4,1,0,0,19,14,1,62,19,16,,,0,2021,441dfe47
+473,Luka Stojanović,rs SRB,MFFW,Al-Hazem,27,1994,6.6,1,0,0,7,6,1,12,4,1,,,0,2021,1a892191
+474,Vladimir Stojković,rs SRB,GK,Al-Fayha,38,1983,29.0,3,0,0,2,7,0,0,0,1,,,0,2021,c089980e
+475,Carlos Strandberg,se SWE,FW,Al-Hazem,25,1996,12.1,2,0,0,16,6,4,5,0,1,,,0,2021,8c70d3ee
+476,Dani Suárez,es ESP,DF,Abha,31,1990,11.4,4,0,0,17,7,0,0,12,6,,,0,2021,d21f8f3a
+477,Abdulmajeed Al-Sulayhem,sa KSA,MF,Al-Nassr,27,1994,12.3,0,0,0,14,14,0,4,14,18,,,0,2021,c2543833
+478,Abdulkarim Sultan,sa KSA,DF,Al-Ta'ee,21,2000,5.6,3,0,0,5,1,0,1,3,8,,,0,2021,007dfcf8
+479,Khaled Al-Sumairi,sa KSA,MF,Al-Ittihad,24,1997,1.1,0,0,0,5,2,0,0,1,3,,,0,2021,b822e811
+480,Yahya Sunbul,sa KSA,MF,Al-Raed,23,1998,1.3,0,0,0,3,3,1,2,2,3,,,0,2021,e05f721f
+481,Panagiotis Tachtsidis,gr GRE,MF,Al-Fayha,30,1991,25.9,5,1,0,39,36,4,47,15,23,,,0,2021,e26bd2f4
+482,Talisca,br BRA,MFFW,Al-Nassr,27,1994,27.0,6,2,0,36,54,6,24,6,8,,,0,2021,5c4f4e43
+483,Hassan Al Tambakti,sa KSA,DF,Al-Shabab,22,1999,6.2,1,0,0,10,5,0,0,19,12,,,0,2021,6d78c320
+484,Ibrahima Tandia,ml MLI,MF,Al-Hazem,28,1993,1.3,0,0,0,5,1,0,1,0,2,,,0,2021,cfc4b5ff
+485,Júlio Tavares,cv CPV,FW,Al-Faisaly,32,1988,27.0,1,0,0,42,33,16,17,3,2,,,0,2021,d520120b
+486,Léandre Tawamba,cm CMR,FW,Al-Taawoun,31,1989,28.8,2,0,0,41,45,21,14,2,6,,,0,2021,dcd160e4
+487,Mitchell te Vrede,sr SUR,FW,Abha,29,1991,22.3,3,0,0,53,21,12,5,3,4,,,0,2021,28ed34c2
+488,Fawaz Al Terais,sa KSA,MF,Al-Fayha,21,2000,2.4,0,0,0,6,7,1,8,2,4,,,0,2021,5495afea
+489,Mohammed Al-Thain,sa KSA,MF,Al-Ta'ee,,,4.4,1,0,0,9,11,1,5,5,2,,,0,2021,bfd73a78
+490,Aleksandar Trajkovski,mk MKD,MFFW,Al-Fayha,28,1992,4.8,1,0,0,2,5,3,24,0,4,,,0,2021,84bba8b6
+491,Hamad Al Tuhayfan,sa KSA,DFMF,Al-Hilal,22,1999,5.9,0,0,0,16,4,1,26,3,6,,,0,2021,b5f9be97
+492,Luciano Vietto,ar ARG,FW,Al-Shabab,27,1993,4.0,1,0,0,4,9,1,4,0,2,,,0,2021,2513a588
+493,Luciano Vietto,ar ARG,MFFW,Al-Hilal,27,1993,7.1,1,0,0,5,10,1,44,3,6,,,0,2021,2513a588
+494,Sergio Vittor,ar ARG,DF,Damac,32,1989,24.9,4,0,0,19,16,1,3,53,25,,,0,2021,7abfa435
+495,Gustav Wikheim,no NOR,MF,Al-Fateh,28,1993,8.3,1,0,0,12,9,1,35,6,3,,,0,2021,063ae595
+496,Abdulrahman Al Yami,sa KSA,FW,Al-Ittihad,24,1997,0.1,0,0,0,0,1,0,0,0,0,,,0,2021,4f13fe17
+497,Abdulrahman Al Yami,sa KSA,FW,Damac,24,1997,1.2,1,0,0,3,3,1,1,0,1,,,0,2021,4f13fe17
+498,Mohammed Al Yami,sa KSA,GK,Al-Ahli,23,1997,17.5,1,0,0,0,4,0,0,0,0,,,0,2021,0bb0f7c6
+499,Saad Yaslam,sa KSA,DF,Al-Taawoun,21,2000,15.6,4,0,0,27,33,0,35,18,26,,,0,2021,2aebc9f0
+500,Amin Younes,de GER,MFFW,Al-Ettifaq,27,1993,7.1,0,1,0,10,11,0,12,4,5,,,0,2021,228f73ae
+501,Abdullah Al Yousif,sa KSA,DF,Al-Fateh,23,1997,10.7,3,0,0,17,6,0,9,24,6,,,0,2021,484b05c1
+502,Hazim Al Zahrani,sa KSA,DF,Al-Ittihad,22,1999,2.4,1,0,0,5,2,0,2,0,5,,,0,2021,f7d371f2
+503,Motair Al Zahrani,sa KSA,MF,Abha,26,1994,0.6,0,0,0,2,1,0,0,0,0,,,0,2021,c6203606
+504,Ibrahim Zaied,sa KSA,GK,Al-Hazem,31,1990,14.0,0,0,0,1,3,0,0,1,1,,,0,2021,087c8b82
+505,Ahmed Al-Zain,sa KSA,MFFW,Al-Raed,30,1991,18.5,0,0,0,14,35,8,103,20,19,,,0,2021,08e89ce0
+506,Ali Al Zaqan,sa KSA,MFDF,Al-Fateh,30,1991,9.2,4,0,0,13,4,2,35,9,9,,,0,2021,42311b65
+507,Ali Al Zaqan,sa KSA,DFFW,Al-Fayha,30,1991,4.9,0,0,0,3,2,1,18,6,4,,,0,2021,42311b65
+508,Moustapha Zeghba,dz ALG,GK,Damac,30,1990,25.0,4,0,0,2,2,0,0,1,0,,,0,2021,83054751
+509,Emilio Zelaya,ar ARG,FW,Damac,34,1987,25.6,2,0,0,42,37,13,12,4,8,,,0,2021,c6500a29
+510,Nawfal Zerhouni,ma MAR,MFFW,Al-Hazem,25,1995,13.0,0,0,0,30,29,4,45,4,13,,,0,2021,0e08a432
+511,Abdullah Al-Zori,sa KSA,DF,Al-Shabab,33,1987,0.1,0,0,0,0,0,0,0,0,0,,,0,2021,15b79072
+512,Abdullah Al-Zori,sa KSA,DF,Abha,33,1987,9.5,0,0,0,9,1,0,3,21,11,,,0,2021,15b79072
+513,Jehad Al-Zowayed,sa KSA,MF,Abha,32,1989,4.2,2,0,0,7,5,0,12,0,4,,,0,2021,2efcd428
+514,Ali Al-Zubaidi,sa KSA,DF,Al-Fateh,28,1993,4.9,1,0,0,3,0,1,8,2,4,,,0,2021,a4674ccb
+515,Ali Al-Zubaidi,sa KSA,DF,Al-Fayha,28,1993,0.1,0,0,0,0,0,0,2,1,0,,,0,2021,a4674ccb
+516,Ibrahim Al-Zubaidi,sa KSA,DF,Al-Ta'ee,32,1989,15.8,5,0,0,27,22,0,63,32,15,,,0,2021,e3c9e369
+1,Malek Al Abadalmanam,sa KSA,FW,Al-Taawoun,22,1998,1.3,1,0,0,4,3,2,0,0,1,,,0,2020,22cccb9f
+2,Saleh Al Abbas,sa KSA,MFFW,Al-Batin,26,1993,6.3,0,0,0,15,10,2,1,3,3,,,0,2020,ac46f44a
+3,Hamad Al Abdan,sa KSA,MF,Al-Hilal,20,2000,0.3,0,0,0,3,2,0,3,2,1,,,0,2020,f64a8aee
+4,Faris Abdi,sa KSA,DF,Al-Qadsiah,21,1999,2.3,1,0,0,8,0,0,4,3,3,,,0,2020,d86952e5
+5,Ahmed Abdoh Jaber,sa KSA,FW,Al-Wehda,,,8.8,2,0,0,17,22,3,4,0,8,,,0,2020,de575e95
+6,Saud Abdulhamid,sa KSA,DF,Al-Ittihad,21,1999,27.2,2,1,0,40,49,0,88,35,30,,,0,2020,caa254e4
+7,Waleed Abdullah,sa KSA,GK,Al-Nassr,34,1986,6.0,4,0,0,1,0,0,0,0,1,,,0,2020,aec6d2a5
+8,Jehad Abdullatif,sa KSA,DF,Al-Qadsiah,,,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,cf4eaaa7
+9,Nawaf Al Abed,sa KSA,MF,Al-Shabab,30,1990,7.1,5,0,0,12,12,1,32,3,5,,,0,2020,bfef5c87
+10,Hassan Abo Shararah,sa KSA,MFFW,Al-Qadsiah,23,1997,4.6,1,0,0,15,11,0,6,1,6,,,0,2020,888bf892
+11,Mazen Abo Shararah,sa KSA,FWMF,Damac,29,1991,6.9,3,0,0,13,19,2,31,3,7,,,0,2020,fb2c45c6
+12,Abdulrahman Al-Aboud,sa KSA,MF,Al-Ittihad,25,1995,13.5,5,1,1,21,31,1,38,12,13,,,0,2020,9bf54a3b
+13,Mohammed Abousaban,sa KSA,MF,Al-Taawoun,30,1990,15.1,8,0,0,39,9,0,0,31,18,,,0,2020,8ca1a8cd
+14,Fábio Abreu,ao ANG,FW,Al-Batin,27,1993,27.8,2,0,0,38,72,8,11,6,4,,,0,2020,1b138544
+15,Khalil Al Absi,sa KSA,FW,Al-Nassr,19,2001,0.0,0,0,0,2,0,0,0,0,0,,,0,2020,2a7e625c
+16,Talal Al-Absi,sa KSA,DF,Al-Ahli,27,1993,2.0,1,0,0,5,4,0,0,5,3,,,0,2020,9373e369
+17,Abdulfattah Adam,sa KSA,FW,Al-Nassr,25,1995,1.3,1,0,0,2,2,0,0,0,0,,,0,2020,1193a1a8
+18,Abdulfattah Adam,sa KSA,FW,Al-Raed,25,1995,0.3,0,0,0,1,1,0,0,0,0,,,0,2020,1193a1a8
+19,Muath Adnan Afaneh,jo JOR,FWMF,Abha,,,3.5,0,0,0,12,8,2,0,1,4,,,0,2020,417faca0
+20,Waleed Al Ahmad,sa KSA,DF,Al-Faisaly,21,1999,10.5,3,0,0,18,14,0,1,24,12,,,0,2020,da753419
+21,Karim El Ahmadi,ma MAR,MF,Al-Ittihad,35,1985,22.1,8,0,0,59,12,0,1,28,48,,,0,2020,0ff9eabc
+22,Mohammed Ahmed Alhaeti,sa KSA,GK,Al-Ettifaq,,,12.0,0,0,0,0,3,0,0,1,0,,,0,2020,cd36d655
+23,Ahmed Alanzy,sa KSA,MF,Al-Faisaly,,,2.5,1,0,0,3,6,0,3,3,4,,,0,2020,0cb56992
+24,Abdulaziz Al Alawi,sa KSA,DF,Al-Nassr,22,1998,1.7,1,0,0,2,3,0,5,2,2,,,0,2020,7165baa1
+25,Shaye Ali Sharahili,sa KSA,MF,Al-Faisaly,30,1990,0.5,0,0,0,2,1,0,3,1,0,,,0,2020,60ad2f84
+26,Hassan Al Ali,sa KSA,FW,Al-Ahli,18,2002,0.7,1,0,0,2,1,2,0,0,2,,,0,2020,d2a9c16a
+27,Mukhtar Ali,sa KSA,MF,Al-Nassr,22,1997,2.6,1,0,0,3,0,0,2,4,3,,,0,2020,d40cff47
+28,Thamer Al Ali,sa KSA,FW,Al-Wehda,21,1998,0.3,0,0,0,1,0,1,1,1,0,,,0,2020,277c9068
+29,Abdulmajed Alzahrani,sa KSA,MF,Al-Ittihad,21,1999,0.1,0,0,0,0,0,0,1,0,0,,,0,2020,c1f5ae31
+30,Romain Amalfitano,fr FRA,MF,Al-Faisaly,30,1989,21.1,2,0,0,23,43,3,29,15,17,,,0,2020,d7bf3d19
+31,Cédric Amissi,bi BDI,MF,Al-Taawoun,30,1990,24.2,7,0,0,41,27,5,36,24,19,,,0,2020,99567a58
+32,Abdullah Al-Ammar,sa KSA,DFMF,Damac,26,1994,16.4,2,0,0,17,0,0,35,35,9,,,0,2020,156ca542
+33,Turki Al Ammar,sa KSA,MFDF,Al-Shabab,20,1999,12.1,3,1,1,25,18,4,40,12,10,,,0,2020,eae082f7
+34,Sari Amr,sa KSA,DF,Abha,30,1989,23.9,9,0,0,47,15,1,61,44,39,,,0,2020,07f4b3bd
+35,Nordin Amrabat,ma MAR,MFFW,Al-Nassr,33,1987,20.9,8,1,1,59,36,8,161,10,11,,,0,2020,7c2a398c
+36,Abdulelah Al-Amri,sa KSA,DF,Al-Nassr,23,1997,20.7,4,0,0,26,19,2,5,32,14,,,0,2020,fd0affe3
+37,Hassan Al-Amri,sa KSA,MF,Al-Qadsiah,26,1994,25.0,7,0,0,40,84,2,108,18,30,,,0,2020,7bee2789
+38,Mohammed Al-Amri,sa KSA,DF,Al-Wehda,28,1991,6.1,0,0,0,10,14,1,15,8,8,,,0,2020,6d020acc
+39,Saleh Al-Amri,sa KSA,MFFW,Abha,26,1993,28.8,3,0,0,29,74,5,124,34,34,,,0,2020,912fc5a8
+40,Rakan Al Anaze,sa KSA,MFFW,Al-Batin,22,1998,7.9,1,0,0,17,11,0,12,8,9,,,0,2020,c11a2a30
+41,Carolus Andriamatsinoro,mg MAD,FWMF,Al-Qadsiah,31,1989,20.3,2,0,0,31,30,8,18,6,6,,,0,2020,a7d39a16
+42,Domagoj Antolić,hr CRO,MF,Damac,30,1990,16.3,3,0,0,15,11,0,87,20,12,,,0,2020,545f5449
+43,Karim Aouadhi,tn TUN,MF,Abha,34,1986,22.5,5,0,0,50,54,5,9,49,34,,,0,2020,54d7cf43
+44,Giedrius Arlauskis,lt LTU,GK,Al-Shabab,32,1987,8.0,1,0,0,0,1,0,0,0,0,,,0,2020,1858bbf7
+45,Abdulaziz Asiri,sa KSA,DF,Damac,21,1998,0.5,0,0,0,1,1,0,2,2,2,,,0,2020,87dcf5e8
+46,Abdulfattah Asiri,sa KSA,MF,Al-Nassr,26,1994,3.1,0,0,0,4,7,0,21,0,2,,,0,2020,507de9f6
+47,Jaber Asiri,sa KSA,FW,Al-Wehda,22,1997,1.3,0,0,0,2,2,1,1,0,1,,,0,2020,4b12fc3b
+48,Ali Al Asmari,sa KSA,MF,Al-Ahli,23,1997,14.0,5,0,0,17,18,0,27,26,20,,,0,2020,5fc89dc8
+49,Hassan Al Asmari,sa KSA,DF,Al-Ittihad,17,2002,1.0,0,0,0,2,0,0,0,1,2,,,0,2020,0019fa28
+50,Ahmed Assiri,sa KSA,DF,Al-Taawoun,28,1991,17.5,6,0,0,7,6,2,0,23,11,,,0,2020,55905950
+51,Muhannad Assiri,sa KSA,FWMF,Al-Ahli,33,1986,0.6,0,0,0,1,1,2,0,0,0,,,0,2020,e64f7470
+52,Amine Atouchi,ma MAR,DF,Abha,28,1992,24.0,6,0,0,15,10,1,6,40,22,,,0,2020,fb526aa1
+53,Mohammed Attiah,sa KSA,MF,Damac,28,1991,5.7,0,0,0,4,15,0,7,6,5,,,0,2020,214ec85c
+54,Walid Azaro,ma MAR,FW,Al-Ettifaq,24,1995,21.7,3,1,0,49,41,20,22,8,9,,,0,2020,6a5c2e5e
+55,Nawaf bin Saleh Al Azizi,sa KSA,MF,Al-Qadsiah,,,1.0,0,0,0,3,1,0,1,2,0,,,0,2020,bb1ed003
+56,Albrahim Bager,,MF,Al-Ain,,,0.2,0,0,0,0,0,0,0,1,1,,,0,2020,a31c1afd
+57,Hattan Bahebri,sa KSA,MF,Al-Hilal,28,1992,3.0,2,0,0,5,2,1,9,1,9,,,0,2020,b4f50ff5
+58,Basil Al Bahrani,sa KSA,GK,Al-Fateh,25,1995,1.0,0,0,0,0,3,0,0,0,0,,,0,2020,1b08d7ff
+59,Ahmed Bahusayn,sa KSA,MF,Al-Ittihad,19,2001,0.2,0,0,0,0,0,0,0,0,0,,,0,2020,f59732ee
+60,Jamal Bajandouh,sa KSA,MF,Al-Shabab,27,1992,4.7,3,0,0,8,4,0,1,16,6,,,0,2020,3c749115
+61,Yazeid Al Bakr,sa KSA,DF,Al-Ahli,24,1995,6.5,0,0,0,8,3,0,12,16,12,,,0,2020,d4356234
+62,Waleed Bakshween,sa KSA,MF,Al-Wehda,30,1989,21.8,10,0,0,40,28,3,12,24,22,,,0,2020,c95bbd27
+63,Ageel Balghaith,sa KSA,DFMF,Al-Raed,33,1987,9.9,3,0,0,6,4,2,13,22,8,,,1,2020,de8628b3
+64,Éver Banega,ar ARG,MF,Al-Shabab,32,1988,25.8,8,1,0,27,55,1,157,7,16,,,0,2020,fa937f7a
+65,Abdulrahman Al-Barakah,sa KSA,MF,Abha,29,1990,14.8,2,0,0,27,8,0,10,11,13,,,0,2020,e678cb90
+66,Abdulelah Al Bariya,sa KSA,MF,Damac,23,1997,0.7,0,0,0,1,1,0,3,1,4,,,0,2020,d18a21c7
+67,Karam Barnawi,sa KSA,DF,Abha,33,1987,13.8,3,0,0,18,14,0,17,23,9,,,0,2020,d28c4002
+68,Yassin Barnawi,sa KSA,DF,Al-Taawoun,26,1993,19.1,2,0,0,26,35,0,52,20,30,,,0,2020,4bfcaa3d
+69,Mustafa Bassas,sa KSA,FWMF,Al-Faisaly,27,1993,0.4,0,0,0,1,1,0,2,0,1,,,0,2020,c5d96dc5
+70,Bastos,ao ANG,DF,Al-Ain,29,1991,21.5,5,0,0,34,21,3,0,36,18,,,0,2020,c01c66d9
+71,Mourad Batna,ma MAR,MF,Al-Fateh,30,1990,23.8,4,0,0,37,63,14,102,22,18,,,0,2020,ee28ca71
+72,Zaid Al Bawardi,sa KSA,GK,Al-Shabab,23,1997,22.0,3,0,0,0,0,0,0,4,0,,,0,2020,ae82309a
+73,Sofiane Bendebka,dz ALG,MF,Al-Fateh,27,1992,26.4,1,1,0,46,61,6,19,34,26,,,0,2020,0fdcd9ab
+74,Karim El Berkaoui,ma MAR,FW,Al-Raed,24,1995,17.9,3,0,0,14,44,17,20,6,5,,,0,2020,4e856e07
+75,Mansor Al Beshe,sa KSA,MF,Al-Raed,20,2000,0.3,0,0,0,0,0,0,5,1,0,,,0,2020,f4d4b2c8
+76,Saad Bguir,tn TUN,MF,Abha,26,1994,20.0,4,0,0,12,28,1,129,10,9,,,0,2020,020e13ff
+77,Fahad bin Jumayah,sa KSA,DFMF,Abha,25,1995,10.2,5,0,0,26,25,1,45,15,20,,,0,2020,b444c502
+78,Mohammed bin Nukhaylan,sa KSA,DF,Al-Faisaly,18,2002,1.0,1,0,0,1,0,0,1,2,1,,,0,2020,f0d81046
+79,Saud bin Zaydan,sa KSA,MF,Abha,20,1999,6.6,3,0,0,16,9,0,3,14,22,,,0,2020,6e7fb4db
+80,Abdulaziz Al-Bishi,sa KSA,MF,Al-Ittihad,26,1994,20.2,4,0,0,19,56,3,52,9,17,,,0,2020,778e66d1
+81,Abdullah Al-Bladi,sa KSA,FW,Al-Fateh,26,1993,0.9,0,0,0,2,2,0,0,2,0,,,0,2020,1caa152c
+82,Rayan Al Bloushi,sa KSA,FW,Al-Ettifaq,19,2001,0.0,0,0,0,1,1,0,0,0,1,,,0,2020,d6bc2917
+83,Ameen Bokhari,sa KSA,GK,Al-Ain,23,1997,19.7,2,0,0,0,9,0,0,0,1,,,0,2020,32a9aac0
+84,Mihai Bordeianu,ro ROU,MF,Al-Qadsiah,28,1991,11.3,2,0,0,21,15,0,49,13,8,,,0,2020,0fd37a3d
+85,Alberto Botía,es ESP,DF,Al-Wehda,31,1989,18.7,8,1,0,26,3,1,1,22,20,,,0,2020,7f6bff1f
+86,Nawaf Boushal,sa KSA,DF,Al-Fateh,,,27.1,7,0,0,44,39,2,56,65,45,,,0,2020,7dc1c2c6
+87,Filip Bradarić,hr CRO,MF,Al-Ain,28,1992,22.7,6,0,0,33,21,3,24,36,15,,,0,2020,605873e1
+88,Mohammed Al-Breik,sa KSA,DF,Al-Hilal,27,1992,23.8,2,0,0,41,38,4,117,30,26,,,0,2020,bd448676
+89,Tawfiq Bu Haymid,sa KSA,DF,Al-Fateh,33,1987,25.3,6,0,0,54,21,4,92,38,40,,,0,2020,e0571685
+90,Constantin Budescu,ro ROU,MFFW,Damac,31,1989,9.3,0,0,0,13,7,2,78,3,3,,,0,2020,2196d7d2
+91,Ali Al-Bulaihi,sa KSA,DF,Al-Hilal,30,1989,15.3,4,1,0,22,6,0,1,23,4,,,0,2020,8d7b2936
+92,Firas Al-Buraikan,sa KSA,FW,Al-Nassr,20,2000,5.1,2,0,0,9,8,3,0,4,2,,,0,2020,ac717a23
+93,Haroune Camara,sa KSA,FW,Al-Ittihad,22,1998,4.9,2,0,0,20,8,2,0,1,3,,,0,2020,804de447
+94,Martín Campaña,uy URU,GK,Al-Batin,31,1989,27.0,5,0,0,1,6,0,0,6,4,,,0,2020,a0f2f044
+95,André Carrillo,pe PER,MF,Al-Hilal,29,1991,22.9,3,0,0,39,10,7,143,18,12,,,0,2020,7527558b
+96,Cássio,pt POR,GK,Al-Taawoun,39,1980,28.0,1,0,0,2,1,0,0,1,1,,,1,2020,5d3888a5
+97,Farouk Chafaï,dz ALG,DF,Damac,30,1990,29.0,5,0,0,24,29,2,3,59,27,,,0,2020,c290409e
+98,Renato Chaves,br BRA,DF,Al-Batin,30,1990,23.0,8,0,0,30,24,3,4,47,19,,,0,2020,2a51efe8
+99,Ibrahim Chenihi,dz ALG,MF,Damac,30,1990,6.9,0,1,0,5,15,6,37,0,2,,,0,2020,ad11e268
+100,Gustavo Cuellar,co COL,MF,Al-Hilal,27,1992,22.4,4,0,0,35,23,1,12,32,31,,,0,2020,cdd22fcf
+101,Christian Cueva,pe PER,MF,Al-Fateh,28,1991,11.7,2,0,0,12,19,1,53,6,7,,,0,2020,57376761
+102,Ammar Al-Daheem,sa KSA,DF,Al-Fateh,26,1993,22.9,6,0,0,39,20,0,1,41,26,,,1,2020,3f870b06
+103,Abdulaziz Damdam,sa KSA,MF,Al-Batin,25,1995,2.3,0,0,0,10,8,1,0,4,8,,,0,2020,e5065e89
+104,Omar Damen,sa KSA,FW,Abha,24,1996,0.4,1,0,0,0,2,0,0,0,0,,,0,2020,053be758
+105,Jalal Daoudi,ma MAR,MF,Al-Raed,31,1988,9.7,4,0,0,28,16,2,58,4,5,,,0,2020,bbe905c5
+106,Faisel Darwish,sa KSA,MFDF,Al-Taawoun,29,1991,4.3,1,0,0,2,3,0,24,10,3,,,0,2020,f3492968
+107,Abdullaziz Al-Dawsari,sa KSA,MF,Al-Nassr,31,1988,0.8,0,0,0,1,0,0,1,1,1,,,0,2020,52817dac
+108,Khalifah Al Dawsari,sa KSA,DF,Al-Qadsiah,21,1999,22.8,6,1,1,32,19,2,9,29,31,,,0,2020,1560e629
+109,Nasser Al-Dawsari,sa KSA,MF,Al-Hilal,21,1998,6.7,6,0,0,18,1,0,35,7,8,,,0,2020,7709e4a6
+110,Salem Al-Dawsari,sa KSA,MF,Al-Hilal,28,1991,20.3,3,0,0,21,47,5,62,14,30,,,0,2020,60ee859c
+111,Mohammed Al-Dhafiri,sa KSA,FW,Al-Batin,,,0.4,1,0,0,0,0,0,1,1,0,,,0,2020,9c60e1ec
+112,Mohammed Sayed Al-Dhaw,sa KSA,FWMF,Al-Fateh,26,1993,0.4,0,0,0,2,2,0,1,0,0,,,0,2020,1ff30b38
+113,Khalid Dighriri,sa KSA,DF,Al-Faisaly,18,2001,6.7,3,0,0,18,11,1,6,17,15,,,0,2020,ed184a85
+114,Makhete Diop,sn SEN,FW,Al-Shabab,33,1987,6.9,2,0,0,7,12,6,4,1,0,,,0,2020,e9fcbebb
+115,Arnaud Djoum,cm CMR,MF,Al-Raed,31,1989,23.8,10,1,1,52,20,2,12,19,24,,,0,2020,91e1550b
+116,Abdurahman Al-Dossari,sa KSA,MF,Al-Nassr,22,1997,1.2,0,1,0,1,2,0,0,2,0,,,0,2020,77d0ff42
+117,Fahad Al Dossari,sa KSA,MF,Al-Ettifaq,18,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,66e5f463
+118,Mohammed Al Dossary,sa KSA,MFDF,Al-Raed,21,1999,13.3,4,0,0,17,15,0,42,18,24,,,0,2020,cec29666
+119,Souleymane Doukara,mr MTN,FWMF,Al-Ettifaq,28,1991,23.2,2,0,0,32,56,2,36,11,13,,,0,2020,c48cd71d
+120,Azzedine Doukha,dz ALG,GK,Al-Raed,33,1986,25.0,1,0,0,0,5,0,1,0,0,,,0,2020,1b7f3530
+121,Khalid Dubaysh,sa KSA,DF,Al-Shabab,21,1998,1.1,1,0,0,3,1,0,0,2,1,,,0,2020,6e5a2966
+122,Mitchell Duke,au AUS,MFFW,Al-Taawoun,29,1991,8.7,1,0,0,13,16,3,16,8,5,,,0,2020,293f5bf9
+123,Edson,br BRA,MF,Al-Qadsiah,29,1991,20.8,6,0,0,25,25,1,2,45,26,,,0,2020,041250aa
+124,Hussain Al Essa,sa KSA,MF,Al-Wehda,19,2000,15.3,3,0,0,19,42,1,20,13,19,,,0,2020,24a859fb
+125,Jaber Essa,sa KSA,MF,Al-Raed,23,1997,3.6,4,0,0,15,3,0,1,6,5,,,0,2020,05ffa4e1
+126,Abdullah Al-Fahad,sa KSA,DF,Al-Raed,26,1994,27.9,7,0,0,33,25,0,2,62,34,,,0,2020,03bb177f
+127,Sultan Fahran,sa KSA,MF,Al-Raed,23,1996,26.6,4,0,0,27,18,0,3,45,29,,,0,2020,9d854e95
+128,Hicham Faik,nl NED,MF,Al-Faisaly,28,1992,26.5,3,0,0,26,11,0,49,37,36,,,0,2020,a10e8c6a
+129,Hamed Falatah,sa KSA,MF,Al-Faisaly,27,1992,0.5,1,0,0,3,1,0,1,1,0,,,0,2020,545ef170
+130,Abdulmohsen Fallatah,sa KSA,DF,Al-Ittihad,26,1994,1.9,0,0,0,1,1,0,0,1,0,,,0,2020,70f91950
+131,Fawaz Fallatah,sa KSA,DF,Al-Raed,31,1989,0.7,2,1,1,2,0,0,0,0,0,,,0,2020,a1fe92f9
+132,Muhannad Fallatah,sa KSA,MF,Damac,24,1996,2.4,1,0,0,3,1,1,1,2,2,,,0,2020,d90583f9
+133,Salman Al-Faraj,sa KSA,MF,Al-Hilal,30,1989,13.6,2,0,0,18,20,1,31,19,16,,,0,2020,df145034
+134,Nawaf Al Farshan,sa KSA,DFMF,Al-Ain,22,1998,2.1,1,0,0,3,4,0,1,4,6,,,0,2020,b80a2694
+135,Mohammed Al Fatil,sa KSA,DF,Al-Ahli,28,1992,20.0,1,0,0,13,17,1,2,37,14,,,0,2020,688a1587
+136,Ljubomir Fejsa,rs SRB,MF,Al-Ahli,31,1988,18.3,3,0,0,44,19,0,2,37,32,,,0,2020,874d7a32
+137,Ronnie Fernández,cl CHI,FW,Al-Raed,29,1991,8.1,2,0,0,24,4,6,4,1,8,,,0,2020,4b364742
+138,Driss Fettouhi,ma MAR,MF,Al-Ahli,30,1989,16.2,5,0,0,35,27,3,63,10,11,,,0,2020,6287af5c
+139,Ahmed Al Fiqi,sa KSA,MF,Al-Hilal,27,1992,1.7,0,0,0,1,4,0,3,0,0,,,0,2020,4403fbc2
+140,Ahmed Al Fiqi,sa KSA,MFFW,Al-Faisaly,27,1992,15.4,1,0,0,10,21,0,26,11,3,,,0,2020,4403fbc2
+141,Hernâni Fortes,pt POR,MFFW,Al-Wehda,28,1991,20.8,2,0,0,11,22,7,118,10,4,,,0,2020,2327c29e
+142,Mohammed Fouad,eg EGY,MFFW,Al-Ain,30,1989,17.5,4,0,0,33,20,2,23,13,25,,,0,2020,9fc6bd25
+143,Mohamed Fouzair,ma MAR,MF,Al-Raed,28,1991,12.9,5,2,2,33,21,1,53,19,28,,,0,2020,1a2e7a2b
+144,Ahmed Al-Fraidi,sa KSA,MF,Al-Qadsiah,32,1988,0.1,0,0,0,1,0,0,0,0,2,,,0,2020,b5b18abc
+145,Mazyad Freeh,sa KSA,GK,Al-Batin,31,1989,3.0,1,0,0,0,1,0,0,0,1,,,0,2020,71dc1d1b
+146,Abraham Frimpong,gh GHA,DF,Al-Ain,27,1993,5.7,0,0,0,9,1,0,0,15,7,,,0,2020,1c90cd29
+147,Ali Fuad,sa KSA,DF,Al-Ettifaq,18,2001,4.2,0,0,0,3,2,0,5,11,3,,,0,2020,c61ef17b
+148,Mohammed Al-Fuhaid,sa KSA,MF,Al-Fateh,30,1990,22.8,7,1,1,42,50,0,3,44,29,,,0,2020,7d1b903f
+149,Getterson,br BRA,FWMF,Al-Ain,29,1991,24.7,3,0,0,21,40,3,23,7,12,,,0,2020,7c976f7a
+150,Abdulrahman Al-Ghamdi,sa KSA,FW,Al-Raed,25,1994,0.1,0,0,0,0,0,1,1,0,0,,,0,2020,d45e687c
+151,Ahmed Al Ghamdi,sa KSA,MF,Al-Ettifaq,18,2001,0.1,0,0,0,1,0,0,1,0,0,,,0,2020,fb6d0fd3
+152,Hamed Al-Ghamdi,sa KSA,MFFW,Al-Ettifaq,21,1999,3.6,2,0,0,5,1,0,23,5,2,,,0,2020,785b975b
+153,Hazzaa Al Ghamdi,sa KSA,MF,Al-Wehda,19,2001,5.0,1,0,0,9,9,1,9,5,5,,,0,2020,e04cf714
+154,Khalid Al-Ghamdi,sa KSA,DF,Al-Shabab,32,1988,1.8,0,0,0,3,0,0,4,4,1,,,0,2020,c97ab0b1
+155,Mohammed Al Ghamdi,sa KSA,DF,Al-Taawoun,28,1992,9.7,4,1,1,19,28,0,19,24,19,,,0,2020,5a36a99a
+156,Raed Al-Ghamdi,sa KSA,FWMF,Al-Nassr,26,1994,7.0,3,0,0,9,19,1,9,0,1,,,0,2020,9366f883
+157,Sultan Al-Ghanam,sa KSA,DF,Al-Nassr,26,1994,23.7,4,0,0,12,22,1,107,43,4,,,0,2020,0ea89f8d
+158,Khalid Al Ghannam,sa KSA,MF,Al-Nassr,19,2000,14.5,0,0,0,18,26,8,16,4,14,,,0,2020,c16843c7
+159,Abdulrahman Ghareeb,sa KSA,MF,Al-Ahli,23,1997,15.2,2,0,0,13,26,2,45,10,10,,,0,2020,8472683b
+160,Fahad Ghazi,sa KSA,DF,Al-Ettifaq,26,1994,16.1,5,0,0,27,16,1,33,31,23,,,0,2020,d60fd28e
+161,Sebastian Giovinco,it ITA,MFFW,Al-Hilal,33,1987,15.1,4,0,0,16,29,5,133,1,5,,,0,2020,2b7c18ae
+162,Bafétimbi Gomis,fr FRA,FW,Al-Hilal,34,1985,26.5,3,0,0,30,24,23,1,4,1,,,0,2020,3d6686f9
+163,Craig Goodwin,au AUS,MF,Abha,28,1991,14.7,2,0,0,8,24,3,56,6,7,,,0,2020,b2741e3d
+164,Marcelo Grohe,br BRA,GK,Al-Ittihad,33,1987,29.0,4,0,0,1,1,0,0,0,0,,,0,2020,69c26681
+165,Cristian Guanca,ar ARG,MFFW,Al-Shabab,27,1993,22.9,4,0,0,17,10,7,35,7,16,,,0,2020,05341453
+166,Guilherme,br BRA,MFFW,Al-Faisaly,25,1995,26.9,2,0,0,27,65,2,140,32,22,,,0,2020,58649f05
+167,Ahmed Al-Habib,sa KSA,DF,Abha,27,1993,3.6,1,0,0,4,0,0,0,3,3,,,0,2020,8c6f0010
+168,Hassan Al-Habib,sa KSA,MFFW,Al-Fateh,25,1994,7.9,0,1,0,14,13,1,14,3,5,,,0,2020,6431c256
+169,Abdullah Hadhariti,sa KSA,FW,Al-Qadsiah,27,1992,1.7,0,0,0,6,4,0,2,2,1,,,0,2020,843261b5
+170,Abdullah Al-Hafith,sa KSA,DF,Al-Wehda,27,1992,21.9,4,0,0,13,7,0,3,28,12,,,1,2020,95d8222d
+171,Asiri Haitham,sa KSA,FW,Al-Ahli,,,0.6,0,0,0,2,3,0,0,0,0,,,0,2020,9c08d5cd
+172,Othman Al Haj,sa KSA,FW,Al-Ahli,26,1994,0.3,0,0,0,1,1,1,0,0,0,,,0,2020,72d691c0
+173,Hussain Halawani,sa KSA,MF,Al-Ettifaq,24,1996,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,a669706e
+174,Hussain Halawani,sa KSA,MFDF,Al-Ain,24,1996,5.0,0,0,0,4,3,0,14,4,3,,,0,2020,a669706e
+175,Fahad Al Hamad,sa KSA,DF,Al-Taawoun,22,1998,5.0,1,0,0,5,1,1,0,6,5,,,0,2020,fa08000b
+176,Abderrazak Hamdallah,ma MAR,FW,Al-Nassr,29,1990,13.5,3,0,0,12,25,13,0,2,4,,,0,2020,fe73f8c6
+177,Abdullah Al Hamdan,sa KSA,FW,Al-Shabab,20,1999,9.3,4,0,0,14,10,5,3,1,5,,,0,2020,cc4b5436
+178,Abdullah Al Hamdan,sa KSA,MF,Al-Hilal,20,1999,2.1,1,0,0,4,4,0,2,0,2,,,0,2020,cc4b5436
+179,Saeed Al Hamsal,sa KSA,DF,Abha,24,1996,6.9,3,0,0,15,6,0,16,14,5,,,0,2020,1db95d4d
+180,Mansor Hamzi,sa KSA,MF,Damac,28,1992,17.7,2,0,0,12,66,2,59,17,7,,,0,2020,a76a5951
+181,Fahad Al Harbi,sa KSA,DF,Al-Fateh,23,1997,3.7,0,0,0,5,1,0,1,6,0,,,0,2020,9e0bbe31
+182,Hassan Al Harbi,sa KSA,DF,Al-Ain,25,1994,26.9,4,0,0,32,9,0,1,56,23,,,1,2020,a3b87aab
+183,Mansoor Al-Harbi,sa KSA,MF,Al-Raed,32,1987,2.9,0,0,0,3,0,0,15,5,2,,,0,2020,6ae9c5e1
+184,Moteb Al-Harbi,sa KSA,DFMF,Al-Shabab,,,10.5,0,0,0,9,18,1,31,26,9,,,0,2020,1d88554c
+185,Rakan Al Harbi,sa KSA,DF,Al-Wehda,19,2001,2.3,0,0,0,0,0,0,0,3,6,,,0,2020,0201cb7a
+186,Yousef Al Harbi,sa KSA,MF,Al-Ahli,23,1997,0.1,0,0,0,1,0,0,0,0,0,,,0,2020,87b5229b
+187,Amer Haroon,sa KSA,DF,Al-Ain,27,1992,0.0,0,0,0,0,0,0,0,0,0,,,0,2020,5d5d9169
+188,Nawaf Al Harthi,sa KSA,MF,Al-Ain,21,1998,5.5,0,0,0,2,4,3,13,1,8,,,0,2020,87759f59
+189,Abbas Al Hassan,sa KSA,MF,Al-Fateh,16,2004,3.4,0,0,0,9,2,0,0,4,6,,,0,2020,42015391
+190,Ali Al Hassan,sa KSA,MF,Al-Nassr,23,1997,17.6,4,0,0,33,23,0,11,26,16,,,1,2020,68b689fa
+191,Abdullah Hassun,sa KSA,DF,Al-Ahli,23,1997,21.7,10,1,1,41,28,2,39,27,31,,,0,2020,c62f17d0
+192,Motaz Hawsawi,sa KSA,DF,Al-Ahli,28,1992,20.4,6,1,0,21,19,1,0,44,14,,,0,2020,2d370b86
+193,Omar Hawsawi,sa KSA,DF,Al-Ittihad,34,1985,9.9,2,0,0,12,5,0,0,10,2,,,0,2020,6caca8e5
+194,Sanousi Al Hawsawi,sa KSA,DF,Al-Ettifaq,21,1998,14.0,3,0,0,26,20,1,28,24,19,,,0,2020,35eed93c
+195,Talal Hawsawi,sa KSA,DF,Al-Qadsiah,21,1998,0.3,0,0,0,0,1,0,0,1,0,,,0,2020,e23db250
+196,Arif Al Haydar,sa KSA,DF,Damac,23,1997,9.6,3,0,0,20,20,0,59,13,33,,,0,2020,70f9e558
+197,Hazaa Al-Hazaa,sa KSA,FWMF,Al-Ettifaq,28,1991,6.1,0,0,0,5,16,1,3,4,4,,,0,2020,1bbcb4c8
+198,Ali Hazazi,sa KSA,MF,Al-Ettifaq,26,1994,19.1,6,1,1,31,16,0,8,41,28,,,0,2020,7f093d00
+199,Naif Hazazi,sa KSA,MF,Al-Qadsiah,27,1992,17.7,1,0,0,16,9,0,6,21,8,,,0,2020,1a3644b4
+200,Sulaiman Hazazi,sa KSA,DF,Al-Wehda,17,2003,8.5,1,0,0,3,14,1,22,9,11,,,0,2020,c6c4a4c7
+201,Waleed Hazem,sa KSA,MF,Damac,25,1994,4.6,0,0,0,5,7,0,2,8,3,,,0,2020,188401af
+202,Abdullah Al Hazzan,sa KSA,DF,Al-Faisaly,21,1999,14.0,1,0,0,27,15,2,23,21,23,,,0,2020,7cab588e
+203,Ahmed Hegazi,eg EGY,DF,Al-Ittihad,29,1991,24.4,5,1,0,14,7,2,8,26,17,,,0,2020,5540c9dc
+204,Ayman Al Hejaili,sa KSA,MF,Damac,22,1998,3.3,0,0,0,1,4,0,6,2,2,,,0,2020,35eed102
+205,Alaa Al Hejji,sa KSA,MF,Al-Wehda,24,1995,12.5,4,0,0,31,18,0,13,18,14,,,0,2020,6d258576
+206,Bruno Henrique,br BRA,MF,Al-Ittihad,30,1989,14.6,0,0,0,26,10,0,89,11,14,,,0,2020,5a43b021
+207,Abdulbasit Hindi,sa KSA,DF,Al-Ahli,23,1997,8.5,2,0,0,11,4,0,5,9,13,,,0,2020,854e39bb
+208,Bassam Al Hurayji,sa KSA,MF,Al-Batin,20,2000,1.0,1,0,0,3,6,0,1,2,1,,,0,2020,981e66be
+209,Jehad Al-Hussain,sy SYR,MF,Al-Raed,38,1982,0.3,1,0,0,0,0,0,0,0,0,,,0,2020,5e6bf61f
+210,Saif Hussain,sa KSA,DF,Al-Ain,27,1993,18.0,5,0,0,34,14,2,14,42,18,,,0,2020,26979800
+211,Khaleem Hyland,tt TRI,MF,Al-Batin,31,1989,16.9,5,0,0,27,24,0,12,14,14,,,0,2020,4e755d03
+212,Jang Hyun-soo,kr KOR,DF,Al-Hilal,28,1991,24.1,2,0,0,16,12,0,3,19,14,,,0,2020,d0f6a36d
+213,Odion Ighalo,ng NGA,FW,Al-Shabab,31,1989,9.4,0,0,0,4,6,7,0,0,1,,,0,2020,03622183
+214,Abdullah Al Jadani,sa KSA,GK,Al-Hilal,28,1991,3.0,0,0,0,0,1,0,0,0,0,,,0,2020,d0e20c59
+215,Mohammed Jahfali,sa KSA,DF,Al-Hilal,29,1990,12.8,3,0,0,8,12,0,0,22,12,,,0,2020,65ed1735
+216,Faisel Al-Jamaan,sa KSA,FW,Al-Ain,34,1986,8.0,2,0,0,15,12,1,2,1,1,,,0,2020,3759d8d3
+217,Leke James,ng NGA,FW,Al-Qadsiah,27,1992,10.0,0,0,0,22,16,3,0,5,3,,,0,2020,2d45ce0a
+218,Youssef El Jebli,nl NED,MF,Al-Batin,27,1992,23.8,3,1,0,37,34,3,184,11,18,,,0,2020,3a225774
+219,Abdulaziz Al-Jebreen,sa KSA,MF,Al-Ittihad,30,1990,2.7,2,0,0,5,4,0,0,6,4,,,0,2020,cf6a0f9b
+220,Kim Jin-su,kr KOR,DF,Al-Nassr,28,1992,6.6,2,0,0,13,11,1,26,12,7,,,0,2020,8e6ff136
+221,Hamad Al-Jizani,sa KSA,DF,Al-Wehda,27,1993,22.4,4,1,0,43,12,4,52,28,33,,,0,2020,b97951ae
+222,Ziyad Al Johani,sa KSA,MF,Al-Ahli,18,2001,0.3,0,0,0,0,0,0,0,0,0,,,0,2020,ac0a9132
+223,Brad Jones,au AUS,GK,Al-Nassr,38,1982,24.0,1,0,0,0,2,0,0,0,0,,,0,2020,ffc1c226
+224,Abdullah Al-Jouei,sa KSA,MF,Al-Taawoun,25,1995,16.8,4,0,0,29,23,6,53,12,22,,,0,2020,78ccb727
+225,Haythem Jouini,tn TUN,FW,Al-Ain,27,1993,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,9943dcc4
+226,Saša Jovanović,rs SRB,FW,Al-Fateh,28,1991,3.8,0,0,0,9,0,5,8,0,1,,,0,2020,73c56892
+227,Juanpi,ve VEN,MFFW,Al-Ain,26,1994,15.5,4,0,0,13,37,1,88,12,8,,,0,2020,d79afcfc
+228,Khalid Kaabi,sa KSA,MFFW,Al-Faisaly,28,1992,7.6,2,1,1,12,12,1,12,7,7,,,0,2020,d3f1e57e
+229,Yahya Kabi,sa KSA,DFMF,Al-Ain,33,1987,18.1,4,1,0,23,17,2,74,31,20,,,0,2020,e74d87fd
+230,Hassan Kadesh,sa KSA,DF,Al-Taawoun,27,1992,20.8,4,0,0,30,15,2,63,44,25,,,0,2020,7165f2e9
+231,Kaku,py PAR,MF,Al-Taawoun,25,1995,9.6,0,0,0,3,8,2,76,4,4,,,0,2020,cb01ad74
+232,Majed Kanabah,sa KSA,MF,Al-Fateh,27,1993,5.7,2,0,0,9,12,0,5,7,2,,,0,2020,005fcf63
+233,Mohamed Kanno,sa KSA,MF,Al-Hilal,25,1994,11.6,3,0,0,18,13,3,6,21,20,,,0,2020,74ccf212
+234,Ahmed Al-Kassar,sa KSA,GK,Al-Faisaly,29,1991,3.0,0,0,0,0,2,0,0,0,0,,,0,2020,eedb42fd
+235,Mohammed Al-Khabrani,sa KSA,DF,Al-Ahli,26,1993,12.8,1,0,0,13,10,0,0,18,10,,,0,2020,614b7be3
+236,Abdullah Al-Khaibari,sa KSA,MF,Al-Nassr,23,1996,9.5,2,0,0,11,6,0,0,13,7,,,0,2020,ab47ae1c
+237,Ali Al Khaibari,sa KSA,DF,Al-Ain,31,1989,6.5,0,0,0,12,5,0,0,7,3,,,0,2020,d0dffdc7
+238,Abdulmalek Al-Khaibri,sa KSA,MF,Al-Shabab,34,1986,0.0,0,0,0,1,0,0,0,1,0,,,0,2020,b07bb1c8
+239,Saad Al Khairi,sa KSA,DF,Al-Batin,25,1995,22.3,4,1,0,29,30,1,73,42,46,,,0,2020,0342e8cb
+240,Osama Al-Khalaf,sa KSA,DFMF,Al-Nassr,23,1996,8.2,2,0,0,12,26,1,40,19,15,,,0,2020,1f4ea94e
+241,Ibrahim Khalil Eissa,,FW,Al-Qadsiah,,,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,53b97df1
+242,Awadh Khames,sa KSA,MF,Al-Raed,32,1988,2.1,0,0,0,1,8,0,1,0,0,,,0,2020,eb0eeb4a
+243,Omar Kharbin,sy SYR,MFFW,Al-Hilal,26,1994,3.9,2,0,0,6,7,3,5,2,2,,,0,2020,ac2c69d9
+244,Abdullah Khateeb,sa KSA,DF,Al-Ettifaq,25,1995,7.5,3,0,0,11,5,0,4,14,9,,,0,2020,9913d086
+245,Khalid Al-Khathlan,sa KSA,DFMF,Al-Raed,,,16.1,2,0,0,23,15,0,19,37,27,,,0,2020,15ba718b
+246,Awadh Khrees,sa KSA,DF,Al-Faisaly,29,1991,0.1,0,0,0,0,0,0,0,0,0,,,0,2020,8884f642
+247,Ayman Al-Khulaif,sa KSA,FWMF,Al-Wehda,23,1997,4.8,2,0,0,12,11,0,13,2,5,,,0,2020,e77f77bf
+248,Naif Kireiri,sa KSA,DF,Al-Wehda,22,1998,11.5,3,1,0,14,9,0,37,15,9,,,0,2020,6c70f634
+249,Filip Kiss,sk SVK,DFMF,Al-Ettifaq,29,1990,28.0,9,0,0,54,26,1,13,44,28,,,0,2020,2e88cabe
+250,Maksym Koval,ua UKR,GK,Al-Fateh,27,1992,29.0,3,0,0,2,4,0,0,4,0,,,0,2020,60713cb3
+251,Amiri Kurdi,sa KSA,DFMF,Al-Hilal,28,1991,4.8,1,0,0,15,8,0,16,2,6,,,0,2020,c07b6f2d
+252,Mohammed Al-Kwikbi,sa KSA,MF,Al-Ettifaq,25,1994,24.0,2,0,0,12,42,1,124,22,18,,,0,2020,f055c890
+253,Ali Lajami,sa KSA,DF,Al-Nassr,24,1996,9.7,2,0,0,12,5,0,4,17,7,,,0,2020,46f7ab4f
+254,Qassem Lajami,sa KSA,DF,Al-Fateh,24,1996,4.6,1,0,0,9,6,1,0,12,4,,,0,2020,9b6a4bd9
+255,Cristian Lema,ar ARG,DF,Damac,29,1990,10.2,4,1,0,18,8,0,1,21,8,,,0,2020,2c20f2fb
+256,Igor Lichnovsky,cl CHI,DF,Al-Shabab,26,1994,26.0,3,1,0,26,21,0,1,50,21,,,0,2020,3947fa95
+257,Lucas Lima,br BRA,DF,Al-Ahli,28,1991,25.8,5,0,0,47,28,3,114,38,25,,,0,2020,0f52f925
+258,Raïs M'Bolhi,dz ALG,GK,Al-Ettifaq,34,1986,18.0,3,0,0,1,3,0,0,1,0,,,0,2020,c121a641
+259,Abdullah Madu,sa KSA,DF,Al-Nassr,27,1993,16.7,4,0,0,21,10,0,1,12,7,,,0,2020,9c3523a4
+260,Ali Maedi,ee EST,DF,Abha,29,1991,4.0,2,1,1,5,6,1,7,12,7,,,0,2020,27d1d446
+261,Abdullah Magrashi,sa KSA,MF,Al-Raed,22,1997,4.7,1,0,0,10,5,0,1,4,5,,,0,2020,62fad6f8
+262,Ibrahim Mahnashi,sa KSA,MF,Al-Ettifaq,20,1999,4.0,3,0,0,11,10,0,4,7,10,,,0,2020,bcee44d8
+263,Maicon,br BRA,DF,Al-Nassr,31,1988,16.0,4,0,0,14,6,3,4,26,13,,,1,2020,2a8683b9
+264,Mohammed Al Majhad,sa KSA,MF,Al-Ahli,22,1998,3.1,0,0,0,7,3,0,2,6,4,,,0,2020,4d316353
+265,Abdulaziz Majrashi,sa KSA,MF,Damac,29,1991,9.0,3,1,0,11,14,1,15,6,7,,,0,2020,481acdc2
+266,Ali Majrashi,sa KSA,MF,Al-Shabab,20,1999,0.6,0,0,0,3,2,0,3,2,4,,,0,2020,cd23146c
+267,Ali Majrashi,sa KSA,DF,Al-Faisaly,20,1999,8.0,3,0,0,9,34,0,27,13,17,,,0,2020,cd23146c
+268,Mohammed Majrashi,sa KSA,MFFW,Al-Fateh,29,1991,5.9,1,0,0,15,5,2,1,2,1,,,0,2020,39425891
+269,Mustafa Malayekah,sa KSA,GK,Al-Faisaly,34,1986,27.0,4,0,0,3,5,0,0,1,1,,,0,2020,86c45703
+270,Abdulellah Al-Malki,sa KSA,MF,Al-Ittihad,25,1994,21.0,7,0,0,41,29,2,13,26,23,,,0,2020,3bcd2730
+271,Sandro Manoel,br BRA,MF,Al-Taawoun,32,1988,14.4,2,0,0,28,11,0,61,18,16,,,0,2020,75b66b24
+272,Hamad Al Mansour,sa KSA,DF,Al-Ittihad,27,1993,4.6,2,0,0,11,4,0,34,6,5,,,1,2020,121df375
+273,Marko Marin,de GER,MF,Al-Raed,31,1989,9.0,1,0,0,9,8,0,51,6,4,,,0,2020,a022e78c
+274,Marko Marin,de GER,MF,Al-Ahli,31,1989,6.0,0,0,0,1,6,1,23,2,2,,,0,2020,a022e78c
+275,Mohammed Marran,sa KSA,FW,Al-Nassr,19,2001,1.0,3,1,1,6,4,1,2,0,0,,,0,2020,42a3712b
+276,Fábio Martins,pt POR,MF,Al-Shabab,27,1993,23.0,7,0,0,52,76,7,65,24,29,,,0,2020,fb5022e4
+277,Naif Al Mas,sa KSA,DF,Al-Batin,20,2000,9.7,1,0,0,9,2,0,1,12,14,,,0,2020,8498374a
+278,Faisel Masrahi,sa KSA,GK,Al-Qadsiah,27,1993,27.5,2,0,0,0,7,0,1,1,0,,,0,2020,4bd0d221
+279,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,33,1987,19.0,1,0,0,0,3,0,1,1,0,,,0,2020,c3c96222
+280,Sultan Mendash,sa KSA,MF,Al-Ahli,25,1994,6.2,1,0,0,18,12,3,23,5,12,,,0,2020,8738a7a1
+281,Alexander Merkel,kz KAZ,MF,Al-Faisaly,28,1992,22.9,9,0,0,42,21,0,21,27,23,,,0,2020,5181e2cb
+282,Karol Mets,ee EST,DF,Al-Ettifaq,27,1993,20.4,2,0,0,16,3,1,3,25,12,,,0,2020,ef2ad14e
+283,Abdelali Mhamdi,ma MAR,GK,Abha,28,1991,30.0,4,0,0,0,4,0,0,3,3,,,0,2020,29b3f0d1
+284,Nemanja Miletić,rs SRB,DF,Al-Raed,29,1991,29.0,3,1,1,18,15,0,14,43,20,,,0,2020,903b3b77
+285,Alexandru Mitriță,ro ROU,MFFW,Al-Ahli,25,1995,16.2,1,0,0,17,37,4,21,4,9,,,0,2020,49db4b16
+286,Salman Al-Moasher,sa KSA,MFFW,Al-Ahli,31,1988,18.7,3,0,0,26,46,5,37,15,15,,,0,2020,2678bece
+287,Tariq Mohammed,sa KSA,DFMF,Damac,24,1995,21.3,4,0,0,24,20,0,82,36,26,,,0,2020,5fab7c9b
+288,Mohammed Mohsen Harzan,sa KSA,MF,Damac,31,1989,13.0,3,0,0,7,33,2,30,10,12,,,0,2020,1024431e
+289,Bader Monshi,sa KSA,MF,Damac,21,1999,8.4,6,1,1,26,6,0,2,11,16,,,0,2020,e8f7625c
+290,Hussain Al Moqahwi,sa KSA,MF,Al-Ahli,32,1988,11.3,1,0,0,18,39,6,24,4,11,,,0,2020,7dfe2bb0
+291,Anselmo de Moraes,br BRA,MF,Al-Wehda,31,1989,25.5,12,0,0,48,67,3,9,26,45,,,0,2020,2bb57ba0
+292,Danilo Moreno Asprilla,co COL,FWMF,Al-Qadsiah,31,1989,14.8,7,1,1,19,36,6,26,3,6,,,0,2020,33c21071
+293,Yasser Al Mosailem,sa KSA,GK,Al-Ahli,36,1984,3.2,0,0,0,0,0,0,0,0,0,,,0,2020,6869a0aa
+294,Nooh Al-Mousa,sa KSA,MF,Al-Ahli,29,1991,19.2,2,0,0,33,22,0,11,22,29,,,0,2020,7027b0fe
+295,Ryan Al-Mousa,sa KSA,MF,Al-Taawoun,26,1994,11.1,6,1,0,35,8,0,4,15,18,,,0,2020,ca06995b
+296,Amadou Moutari,ne NIG,MFFW,Al-Ain,26,1994,23.7,5,0,0,45,42,18,48,12,29,,,0,2020,1cfa1d37
+297,Hassan Muath Fallatah,sa KSA,DFMF,Al-Ain,34,1986,9.3,0,0,0,7,11,0,48,9,9,,,0,2020,7b086470
+298,Muteb Al Mufarrij,sa KSA,DF,Al-Hilal,23,1996,5.5,1,0,0,10,5,0,0,8,7,,,0,2020,247a033a
+299,Abdullah Al Mugren,sa KSA,MFFW,Al-Raed,23,1996,20.2,3,0,0,46,41,3,32,15,27,,,0,2020,9155d8fe
+300,Ahmed Musa,ng NGA,FW,Al-Nassr,27,1992,1.2,0,0,0,1,0,1,8,0,0,,,0,2020,b7084daf
+301,Adel Al Muwallad,sa KSA,DF,Al-Qadsiah,23,1997,1.8,2,0,0,4,3,0,0,3,1,,,0,2020,40a10787
+302,Fahad Al Muwallad,sa KSA,MFFW,Al-Ittihad,25,1994,16.6,1,0,0,21,40,2,25,12,10,,,0,2020,23f32ea1
+303,Mansour Al Muwallad,sa KSA,FW,Damac,23,1997,0.0,0,0,0,1,0,0,0,0,0,,,0,2020,7847f2df
+304,Alfred N'Diaye,sn SEN,MF,Al-Shabab,30,1990,25.3,4,0,0,40,22,0,4,27,18,,,0,2020,7789bf63
+305,Sumaihan Al-Nabet,sa KSA,MF,Al-Taawoun,24,1996,18.8,6,0,0,46,59,6,84,30,21,,,0,2020,f96e8e1a
+306,Mohamed Nahiri,ma MAR,MFDF,Al-Ain,28,1991,11.5,1,0,0,21,11,4,21,13,15,,,0,2020,50a25289
+307,Ammar Al-Najar,sa KSA,MF,Al-Shabab,23,1997,0.4,0,0,0,1,1,2,4,0,2,,,0,2020,374dd9bc
+308,Ammar Al-Najar,sa KSA,MF,Abha,23,1997,1.3,0,0,0,1,0,0,5,1,3,,,0,2020,374dd9bc
+309,Mansour Al Najar,sa KSA,MF,Al-Qadsiah,,,1.9,0,1,0,8,5,0,0,2,2,,,0,2020,5d97a43d
+310,Muhannad Al Najei,sa KSA,MF,Damac,26,1994,10.1,4,0,0,11,5,0,1,13,8,,,0,2020,8cd017d8
+311,Sami Al-Najei,sa KSA,MF,Al-Nassr,23,1997,15.3,2,0,0,33,30,3,26,10,8,,,0,2020,978e29d3
+312,Mohammed Naji,sa KSA,DF,Al-Fateh,26,1993,8.0,2,0,0,13,9,0,1,17,4,,,0,2020,21c394c4
+313,Raghid Najjar,sa KSA,GK,Al-Wehda,23,1996,3.0,0,0,0,0,1,0,0,0,0,,,0,2020,5acf5ee8
+314,Ibrahim Al Nakhli,sa KSA,DFMF,Damac,23,1997,8.2,3,1,1,11,7,0,3,27,10,,,0,2020,59c31a31
+315,Saleh Al Nashmi,sa KSA,DF,Al-Fateh,24,1995,3.2,1,0,0,6,0,0,6,5,4,,,0,2020,87abe0be
+316,Awad Al Nashri,sa KSA,MF,Al-Ittihad,18,2002,0.1,0,0,0,1,0,0,0,0,0,,,0,2020,57a52a08
+317,Hussain Al Nattar,sa KSA,MFFW,Al-Qadsiah,20,2000,5.5,4,0,0,14,14,0,10,5,7,,,0,2020,94b5f0dd
+318,Badou Ndiaye,sn SEN,MF,Al-Ain,29,1990,12.6,4,0,0,21,41,1,3,10,18,,,0,2020,960acc0a
+319,Ali Al Nemer,sa KSA,MF,Al-Taawoun,28,1991,4.7,2,0,0,10,17,2,15,3,6,,,0,2020,4d20e7a7
+320,Youssouf Niakaté,fr FRA,FW,Al-Wehda,27,1992,20.3,4,0,0,35,25,19,17,9,8,,,0,2020,a6f26c3b
+321,M'Baye Niang,sn SEN,FW,Al-Ahli,25,1994,1.4,0,0,0,2,2,0,0,0,0,,,0,2020,2054d037
+322,Gonzalo Nicolás Martínez,ar ARG,MF,Al-Nassr,27,1993,15.7,4,0,0,18,33,2,95,8,9,,,0,2020,cd00ceea
+323,Nemanja Nikolić,me MNE,FW,Al-Raed,27,1992,10.5,2,0,0,23,15,3,5,5,3,,,0,2020,2398dd36
+324,Peter Nworah,ng NGA,MF,Al-Ain,29,1990,0.9,1,0,0,4,2,0,2,1,4,,,0,2020,c5f5ed6a
+325,Abdulmajeed Obaid,sa KSA,MF,Al-Batin,24,1995,2.6,0,0,0,7,10,1,9,3,2,,,0,2020,4420cede
+326,Abdurahman Al-Obaid,sa KSA,DF,Al-Nassr,27,1993,16.4,4,0,0,32,16,1,74,27,30,,,0,2020,bd016f97
+327,Stanley Ohawuchi,ng NGA,MFFW,Al-Qadsiah,30,1990,27.9,4,1,0,54,72,6,45,20,14,,,0,2020,0ddbb51c
+328,Saleh Al Ohaymid,sa KSA,GK,Al-Ain,22,1998,2.8,0,0,0,0,1,0,0,0,0,,,0,2020,9f394f49
+329,Madallah Al-Olayan,sa KSA,DF,Al-Hilal,25,1994,5.1,1,0,0,6,9,0,15,5,9,,,0,2020,6a287291
+330,Ismail Omar,sa KSA,MFFW,Al-Faisaly,28,1992,6.0,1,0,0,11,14,1,11,5,9,,,0,2020,17c7ec02
+331,Nasser Al Omran,sa KSA,MF,Al-Shabab,23,1997,0.9,0,0,0,6,1,0,1,0,3,,,0,2020,57f65da4
+332,Thaar Al Otaibi,sa KSA,FW,Abha,20,1999,0.7,0,0,0,1,0,0,2,3,1,,,0,2020,b065dc0f
+333,Saqer Otaif,sa KSA,MF,Al-Fateh,29,1990,2.0,1,0,0,5,7,0,2,6,7,,,0,2020,2a3e2c5c
+334,Abdullah Otayf,sa KSA,MF,Al-Hilal,27,1992,7.5,0,0,0,5,13,0,2,10,6,,,0,2020,508d44cf
+335,Othman Al Othman,sa KSA,MF,Al-Fateh,17,2003,0.0,1,0,0,1,0,0,0,0,0,,,0,2020,98958274
+336,Omar Al Oudah,sa KSA,DF,Al-Batin,21,1998,15.3,3,0,0,9,14,2,36,26,13,,,0,2020,8308e199
+337,Mohammed Al Oufi,sa KSA,DF,Al-Ittihad,17,2002,0.2,0,0,0,0,1,0,6,1,1,,,0,2020,f0f56efb
+338,Mohammed Al-Owais,sa KSA,GK,Al-Ahli,28,1991,20.0,2,0,0,2,7,0,0,0,1,,,0,2020,f2c060c6
+339,Abdullah Al-Owaishir,sa KSA,GK,Al-Wehda,29,1991,27.0,3,0,0,1,13,0,0,0,1,,,0,2020,6a1fe279
+340,Samuel Owusu,gh GHA,MFFW,Al-Ahli,24,1996,7.6,1,0,0,7,8,5,11,10,5,,,0,2020,7c92cab0
+341,Pedrão,br BRA,DF,Al-Wehda,27,1992,16.0,3,0,0,15,4,0,4,13,10,,,0,2020,fbafd1b0
+342,Amahl Pellegrino,no NOR,MF,Damac,30,1990,6.3,0,0,0,5,8,1,4,7,3,,,0,2020,9d9e69df
+343,Dimitri Petratos,au AUS,MF,Al-Wehda,27,1992,17.4,0,0,0,24,7,3,128,5,4,,,0,2020,97a3b37e
+344,Petros,br BRA,MF,Al-Nassr,31,1989,25.7,8,0,0,35,69,3,3,24,36,,,0,2020,7773f73b
+345,Aleksandar Prijović,rs SRB,FW,Al-Ittihad,30,1990,17.7,1,0,0,26,7,7,13,7,0,,,0,2020,aec63b70
+346,Abdulkareem Al-Qahtani,sa KSA,MF,Al-Wehda,27,1993,0.4,0,0,0,0,1,0,1,0,1,,,0,2020,8728cc08
+347,Abdullah Al Qahtani,sa KSA,MFFW,Abha,21,1999,2.6,0,0,0,2,6,1,3,0,3,,,0,2020,8423251c
+348,Abdullah Al Qahtani,sa KSA,MF,Al-Faisaly,21,1999,1.7,0,0,0,6,2,1,3,2,3,,,0,2020,8423251c
+349,Abdulmohsen Al-Qahtani,sa KSA,MF,Al-Qadsiah,21,1999,1.3,0,0,0,0,3,1,2,1,2,,,0,2020,e92c0d8d
+350,Eid Al Qahtani,sa KSA,MF,Al-Ain,19,2000,0.0,0,0,0,0,0,0,0,0,1,,,0,2020,5388799d
+351,Hussain Al Qahtani,sa KSA,MF,Al-Shabab,25,1994,13.4,3,1,0,33,8,0,2,15,18,,,0,2020,b2bffddf
+352,Meshari Al Qahtani,sa KSA,MF,Al-Wehda,23,1997,0.5,0,0,0,2,1,0,4,0,0,,,0,2020,30c44bf3
+353,Dhaifallah Al-Qarni,sa KSA,MF,Al-Batin,31,1988,22.5,2,0,0,33,17,1,53,25,20,,,1,2020,55efbba6
+354,Fawaz Al-Qarni,sa KSA,GK,Al-Ittihad,28,1992,1.0,0,0,0,0,0,0,0,0,0,,,0,2020,5e08e9d2
+355,Mohammed Al-Qarni,sa KSA,MF,Al-Wehda,30,1989,11.7,4,0,0,15,15,1,2,19,17,,,0,2020,00cc0377
+356,Saeed Al Qarni,sa KSA,MF,Al-Ain,31,1989,9.0,4,0,0,6,11,0,0,15,5,,,0,2020,91bf7a40
+357,Hussain Qassem,sa KSA,DF,Al-Faisaly,22,1997,2.7,2,0,0,3,2,0,3,11,6,,,0,2020,d1c15013
+358,Mohammed Qassem,sa KSA,DF,Al-Faisaly,25,1995,26.3,5,0,0,29,39,3,150,33,15,,,0,2020,e9342cf8
+359,Hassan Al-Qeed,sa KSA,MF,Al-Ahli,22,1998,1.3,1,0,0,3,5,0,4,1,2,,,0,2020,cb5fedf6
+360,Saleh Al-Qumaizi,sa KSA,DF,Al-Ettifaq,28,1991,22.4,2,1,0,38,17,1,76,45,21,,,0,2020,d4a82c5a
+361,Hassan Raghfawi,sa KSA,DF,Al-Batin,24,1995,9.7,3,1,1,17,11,0,21,18,9,,,0,2020,6db697b8
+362,Raphael,br BRA,DF,Al-Faisaly,28,1992,26.0,7,0,0,36,26,0,6,39,24,,,0,2020,968b3d05
+363,Abdullah Al-Rashidi,sa KSA,MF,Al-Ain,,,0.3,0,0,0,0,0,0,2,0,1,,,0,2020,5ef375fd
+364,Fahad Al Rashidi,sa KSA,MF,Al-Taawoun,23,1997,2.4,0,0,0,4,2,0,8,2,0,,,0,2020,cadee715
+365,Noor Al Rashidi,sa KSA,DF,Al-Wehda,25,1995,3.5,0,0,0,3,6,1,3,10,4,,,0,2020,8971e7b7
+366,Mohamed Rayhi,nl NED,MFFW,Al-Batin,26,1994,22.0,0,0,0,45,52,7,61,19,28,,,0,2020,98f6d3e3
+367,Ahmed Al-Rehaili,sa KSA,GK,Al-Raed,25,1994,5.0,2,0,0,1,0,0,0,0,0,,,0,2020,cd9753ac
+368,Abdulrahman Al-Rio,sa KSA,DF,Damac,26,1994,4.6,3,0,0,2,7,0,18,14,8,,,0,2020,31c627aa
+369,Garry Rodrigues,cv CPV,MF,Al-Ittihad,29,1990,11.5,0,0,0,8,19,3,20,2,6,,,0,2020,149895bf
+370,Romarinho,br BRA,MFFW,Al-Ittihad,29,1990,28.2,1,0,0,19,52,11,54,12,7,,,0,2020,d73461ea
+371,Igor Rossi Branco,br BRA,DF,Al-Faisaly,31,1989,24.2,8,0,0,33,20,1,0,34,14,,,0,2020,ec84c4ab
+372,Masoud Al Rubaie,sa KSA,DF,Al-Batin,24,1995,3.8,1,0,0,3,4,0,0,9,3,,,0,2020,f9ee09d8
+373,Saeed Al Rubaie,sa KSA,DF,Al-Ettifaq,26,1994,15.4,1,0,0,34,7,0,4,19,14,,,1,2020,7d3de517
+374,Marwane Saâdane,ma MAR,DFMF,Al-Fateh,28,1992,24.8,7,0,0,37,11,1,1,57,26,,,1,2020,14f47102
+375,Mohammed Al-Saeed,sa KSA,MFFW,Al-Fateh,23,1996,12.0,2,0,0,13,11,2,92,6,6,,,0,2020,f17497b0
+376,Abdulrahman Al Safari,sa KSA,MF,Al-Qadsiah,27,1993,8.4,3,0,0,24,8,0,5,12,9,,,0,2020,b5ecf70f
+377,Mubarak Al Sagoor,sa KSA,DF,Al-Wehda,26,1994,0.6,1,0,0,2,0,0,0,3,1,,,1,2020,700b5071
+378,Ziyad Al-Sahafi,sa KSA,DF,Al-Ittihad,25,1994,20.0,4,0,0,16,8,0,1,15,4,,,0,2020,1141f1af
+379,Mohammed Al Sahlawi,sa KSA,FW,Al-Taawoun,33,1987,2.3,0,0,0,0,1,2,3,0,2,,,0,2020,2c330ad2
+380,Mohammed Al Sahli,sa KSA,FWMF,Al-Raed,28,1992,9.3,4,0,0,17,16,0,20,5,7,,,0,2020,53a6565b
+381,Mohammed Al-Saiari,sa KSA,MFFW,Al-Faisaly,27,1993,7.5,6,0,0,18,23,1,4,3,7,,,0,2020,36572437
+382,Bilel Saidani,tn TUN,MF,Damac,27,1993,12.2,4,0,0,20,8,2,27,6,18,,,0,2020,ae0e2db7
+383,Abdulla Al Salem,sa KSA,FW,Al-Ettifaq,27,1992,9.5,0,0,0,11,11,4,6,4,13,,,0,2020,e44fe653
+384,Aiman Salem,sa KSA,MFFW,Al-Nassr,19,2001,8.4,3,0,0,22,10,5,22,9,10,,,0,2020,650eaf9c
+385,Mohammed Salem,sa KSA,DF,Al-Shabab,34,1985,18.9,6,0,0,20,12,2,33,21,13,,,0,2020,47f78a2e
+386,Zakaria Sami,sa KSA,MF,Al-Batin,28,1992,24.1,7,0,0,30,33,2,13,31,40,,,0,2020,773db52f
+387,Abdullah Al-Samtai,sa KSA,MF,Damac,,,0.5,0,0,0,0,0,0,0,0,1,,,0,2020,efa25857
+388,Abdoulaye Sané,sn SEN,MFFW,Al-Taawoun,27,1992,14.9,0,0,0,22,20,4,21,6,6,,,0,2020,cfc59851
+389,Iago Santos,br BRA,DF,Al-Taawoun,28,1992,25.0,8,0,0,33,25,2,2,32,26,,,1,2020,3bc7ddbe
+390,Fawaz Al Saqour,sa KSA,DFMF,Al-Shabab,24,1996,15.2,2,0,0,15,19,2,42,9,5,,,0,2020,2f140e11
+391,Sultan Al-Sawadi,sa KSA,MF,Al-Wehda,27,1992,0.6,0,0,0,1,0,1,4,0,0,,,0,2020,1f95bb35
+392,Abdulmajeed Al-Sawat,sa KSA,MF,Al-Ittihad,25,1995,1.7,3,0,0,3,8,0,1,2,3,,,0,2020,70053fe3
+393,Ramzi Sawlan,sa KSA,FW,Damac,22,1998,0.9,0,0,0,2,5,0,6,0,0,,,0,2020,c6b19f7d
+394,Hamad Al Sayyaf,sa KSA,DF,Al-Ettifaq,18,2002,1.7,0,0,0,0,1,0,0,4,3,,,0,2020,4fff6806
+395,Xandro Schenk,nl NED,DF,Al-Batin,27,1993,24.0,3,0,0,15,3,1,5,30,9,,,0,2020,c3765c0d
+396,Sebá,br BRA,MFFW,Al-Shabab,28,1992,14.3,0,0,0,15,23,7,22,10,14,,,0,2020,64bac8b2
+397,Saad Al-Selouli,sa KSA,MFDF,Al-Ettifaq,22,1998,4.9,0,0,0,4,12,0,16,3,4,,,0,2020,af888475
+398,Hussain Shae'an,sa KSA,GK,Al-Taawoun,31,1989,2.0,0,0,0,0,0,0,0,0,0,,,0,2020,4049ea16
+399,Abdulaziz Al Shahrani,sa KSA,MF,Damac,25,1994,1.7,0,0,0,4,3,0,3,3,1,,,0,2020,ea8364d3
+400,Yasser Al-Shahrani,sa KSA,DF,Al-Hilal,28,1992,26.1,3,0,0,32,22,6,88,33,29,,,0,2020,251c164e
+401,Abdullah Al-Shamekh,sa KSA,MFDF,Al-Shabab,27,1993,5.4,2,0,0,4,8,0,25,11,6,,,0,2020,d4aeee27
+402,Mohammed Al Shammari,sa KSA,GK,Al-Ain,28,1991,7.5,0,0,0,2,5,0,0,0,0,,,0,2020,964d1bc6
+403,Yousef Al Shammari,sa KSA,MF,Al-Batin,22,1997,6.0,1,0,0,9,15,2,13,9,8,,,0,2020,5f2b7b58
+404,Abdulmalek Al-Shammeri,sa KSA,DFMF,Al-Batin,24,1995,18.5,4,0,0,24,17,0,51,28,23,,,0,2020,17a030fc
+405,Fahad Al Shammeri,sa KSA,FW,Al-Batin,,,3.8,2,0,0,6,3,2,38,5,8,,,0,2020,d03aaf5e
+406,Sajar Al Shammeri,,FW,Al-Ain,,,0.2,0,0,0,0,0,0,1,0,0,,,0,2020,85b40edd
+407,Hamdan Al-Shamrani,sa KSA,DF,Al-Ittihad,23,1996,12.6,2,0,0,19,16,0,26,29,23,,,0,2020,651e0c51
+408,Ahmed Sharahili,sa KSA,DF,Al-Shabab,26,1994,20.7,4,0,0,16,10,0,1,31,15,,,0,2020,8e9693fd
+409,Hassan Sharahili,sa KSA,FW,Al-Batin,27,1993,5.2,1,0,0,3,5,2,3,2,0,,,0,2020,1c9accbc
+410,Khalid Sharahili,sa KSA,GK,Damac,33,1987,8.0,1,0,0,0,0,0,0,0,0,,,0,2020,a890a99e
+411,Riyadh Sharahili,sa KSA,MF,Abha,27,1993,24.9,3,1,1,19,13,2,4,38,23,,,0,2020,3e8326a9
+412,Nader Abdullah Al Sharari,sa KSA,DF,Abha,,,15.4,3,0,0,18,17,0,6,56,16,,,0,2020,f869808c
+413,Abdulaziz Al-Sharid,sa KSA,MF,Al-Faisaly,26,1994,7.1,2,0,0,12,18,0,1,11,10,,,0,2020,f24c47c2
+414,Saleh Al-Shehri,sa KSA,FW,Al-Hilal,26,1993,4.7,1,0,0,16,9,1,3,2,6,,,0,2020,f4377d0f
+415,Yahya Al-Shehri,sa KSA,MF,Al-Nassr,30,1990,0.8,0,0,0,0,1,0,1,0,0,,,0,2020,858a6aab
+416,Muhannad Shenqeeti,sa KSA,DF,Al-Ittihad,21,1999,19.2,0,0,0,19,25,1,22,34,34,,,0,2020,a1f6778e
+417,Waleed Shenqeeti,sa KSA,FW,Al-Qadsiah,26,1994,2.7,1,0,0,7,4,1,2,0,1,,,0,2020,e6a3e459
+418,Ibrahim Al-Shoeil,sa KSA,DF,Al-Qadsiah,25,1994,14.5,6,1,1,16,27,0,50,29,25,,,0,2020,eecef89f
+419,Mohammed Al Shuraymi,sa KSA,MFDF,Al-Ain,25,1995,11.7,2,0,0,10,5,1,34,17,10,,,0,2020,ba8cac02
+420,Hussein Al Shuwaysh,sa KSA,DF,Al-Raed,31,1988,19.1,3,0,0,11,13,0,9,27,11,,,1,2020,a3b6202e
+421,Hani Al Sibyani,sa KSA,DF,Al-Ahli,21,1999,1.4,0,0,0,3,1,0,8,2,2,,,0,2020,cdcbe892
+422,Meshal Sibyani,sa KSA,MF,Al-Faisaly,19,2001,0.9,1,0,0,4,1,0,0,1,2,,,0,2020,1e2836ed
+423,Luis Gustavo Melere da Silva,br BRA,MF,Al-Wehda,29,1991,13.0,3,0,0,27,30,6,79,10,3,,,0,2020,ac72ed78
+424,Hassan Al Slis,sa KSA,FW,Al-Ettifaq,20,2000,0.9,1,0,0,5,2,0,1,2,1,,,0,2020,53346ffb
+425,Naïm Sliti,tn TUN,MF,Al-Ettifaq,28,1992,23.1,1,0,0,27,66,2,69,16,22,,,0,2020,2e0367a6
+426,Nawaf Al-Sobhi,sa KSA,DF,Al-Taawoun,30,1990,13.0,4,0,0,19,15,3,1,25,7,,,0,2020,4c5ed269
+427,Omar Al-Sohaymi,sa KSA,MFFW,Al-Ain,27,1993,11.7,3,0,0,14,25,1,17,16,25,,,1,2020,1705843b
+428,Omar Al Somah,sy SYR,FW,Al-Ahli,31,1989,23.1,2,0,0,19,38,6,10,5,6,,,0,2020,ab170826
+429,Hillel Soudani,dz ALG,MFFW,Al-Fateh,32,1987,9.9,4,0,0,27,20,11,14,7,10,,,0,2020,7a435eb3
+430,Souza,br BRA,MF,Al-Ettifaq,32,1988,28.2,6,0,0,36,28,0,67,52,37,,,0,2020,441dfe47
+431,Carlos Strandberg,se SWE,FW,Abha,24,1996,27.3,2,0,0,33,38,17,7,6,3,,,0,2020,8c70d3ee
+432,Mohammed Al Subaie,sa KSA,MF,Al-Raed,24,1995,0.5,0,0,0,1,1,0,0,0,3,,,0,2020,8d602abc
+433,Rabee Sufyani,sa KSA,MFFW,Al-Ain,33,1987,3.4,2,0,0,4,7,0,3,0,1,,,0,2020,f2ae48c3
+434,Abdulmajeed Al-Sulayhem,sa KSA,MF,Al-Nassr,26,1994,14.6,1,0,0,16,34,1,7,18,19,,,0,2020,c2543833
+435,Khaled Al-Sumairi,sa KSA,MF,Al-Faisaly,23,1997,3.5,0,0,0,7,10,0,5,3,8,,,0,2020,b822e811
+436,Khaled Al-Sumairi,sa KSA,MF,Al-Ittihad,23,1997,1.1,0,0,0,5,3,0,3,1,1,,,0,2020,b822e811
+437,Mehdi Tahrat,dz ALG,DF,Abha,30,1990,24.5,4,0,0,14,17,2,12,57,11,,,0,2020,ec1aa15e
+438,Saphir Taïder,dz ALG,MF,Al-Ain,28,1992,6.1,0,0,0,7,13,1,41,2,2,,,0,2020,a12d0c05
+439,Hassan Al Tambakti,sa KSA,DF,Al-Shabab,21,1999,6.8,2,0,0,10,8,0,1,13,6,,,0,2020,6d78c320
+440,Benjamin Tatar,ba BIH,MFFW,Abha,26,1994,5.3,3,0,0,13,3,1,12,2,6,,,0,2020,ab2f24b6
+441,Júlio Tavares,cv CPV,FW,Al-Faisaly,31,1988,29.2,3,0,0,26,34,13,16,7,5,,,0,2020,d520120b
+442,Léandre Tawamba,cm CMR,FW,Al-Taawoun,30,1989,26.1,5,0,0,52,47,22,14,10,7,,,0,2020,dcd160e4
+443,Mitchell te Vrede,sr SUR,FW,Al-Fateh,28,1991,18.8,2,0,0,41,12,10,7,4,1,,,0,2020,28ed34c2
+444,Fawaz Al Terais,sa KSA,MF,Al-Hilal,20,2000,0.3,0,0,0,2,2,0,3,0,0,,,0,2020,5495afea
+445,Hamad Al Tuhayfan,sa KSA,DF,Al-Qadsiah,21,1999,28.5,5,1,1,17,33,0,56,51,32,,,0,2020,b5f9be97
+446,Bruno Uvini,br BRA,DF,Al-Ittihad,29,1991,1.0,0,0,0,1,0,0,0,0,0,,,0,2020,ecfe4300
+447,Luciano Vietto,ar ARG,MFFW,Al-Hilal,26,1993,19.7,5,0,0,36,35,1,91,11,18,,,0,2020,2513a588
+448,Uroš Vitas,rs SRB,DF,Al-Qadsiah,28,1992,22.9,5,1,1,9,16,1,3,24,15,,,0,2020,2987ee02
+449,Sergio Vittor,ar ARG,DFMF,Damac,31,1989,25.3,9,1,1,23,7,0,9,64,25,,,0,2020,7abfa435
+450,Saleh Waheeb,sa KSA,MF,Al-Qadsiah,17,2002,0.6,0,0,0,0,1,0,4,0,2,,,0,2020,6ca52b92
+451,Mohammed Al-Waked,sa KSA,GK,Al-Qadsiah,28,1992,2.5,0,0,0,0,0,0,0,0,0,,,0,2020,be401296
+452,Habib Al Watyan,sa KSA,GK,Al-Hilal,23,1996,8.0,0,0,0,1,3,0,0,0,0,,,0,2020,e1e3c6a1
+453,Gustav Wikheim,no NOR,MF,Al-Fateh,27,1993,2.8,0,0,0,4,4,1,15,2,0,,,0,2020,063ae595
+454,Rhys Williams,au AUS,DF,Al-Qadsiah,32,1988,27.7,8,0,0,27,26,2,4,30,17,,,0,2020,a65030a2
+455,Abdulrahman Al Yami,sa KSA,FW,Al-Ittihad,23,1997,0.6,1,0,0,3,1,0,0,0,0,,,0,2020,4f13fe17
+456,Mohammed Al Yami,sa KSA,GK,Al-Ahli,22,1997,6.8,0,0,0,0,2,0,0,0,1,,,0,2020,0bb0f7c6
+457,Saad Yaslam,sa KSA,DF,Al-Taawoun,20,2000,1.1,0,0,0,3,1,0,2,1,5,,,0,2020,2aebc9f0
+458,Abdullah Al Yousif,sa KSA,DF,Al-Fateh,22,1997,4.7,2,0,0,9,2,0,23,12,9,,,0,2020,484b05c1
+459,Anas Zabani,sa KSA,DF,Al-Qadsiah,23,1997,2.5,0,0,0,3,4,1,12,6,3,,,0,2020,5fe45a42
+460,Motair Al Zahrani,sa KSA,MF,Al-Taawoun,25,1994,3.8,0,0,0,6,6,1,1,8,6,,,0,2020,c6203606
+461,Saeed Al-Zahrani,sa KSA,MF,Al-Ain,28,1992,1.7,0,0,0,2,5,0,2,0,1,,,0,2020,4980315a
+462,Ahmed Al-Zain,sa KSA,MF,Al-Raed,29,1991,20.2,4,0,0,21,51,4,97,26,26,,,0,2020,08e89ce0
+463,Ali Al Zaqan,sa KSA,MFFW,Al-Fateh,29,1991,17.2,2,0,0,27,20,9,99,14,12,,,0,2020,42311b65
+464,Omar Al Zayni,sa KSA,MF,Al-Qadsiah,24,1996,0.3,1,0,0,1,0,0,0,1,0,,,0,2020,7b165592
+465,Moustapha Zeghba,dz ALG,GK,Damac,29,1990,22.0,2,0,0,1,1,0,0,3,0,,,0,2020,83054751
+466,Emilio Zelaya,ar ARG,FW,Damac,33,1987,27.6,5,0,0,37,57,18,11,12,9,,,0,2020,c6500a29
+467,Abdullah Al-Zori,sa KSA,DF,Al-Shabab,32,1987,16.6,2,0,0,20,12,0,33,30,18,,,0,2020,15b79072
+468,Ali Al-Zubaidi,sa KSA,DF,Al-Wehda,27,1993,7.3,2,0,0,7,0,1,28,12,4,,,0,2020,a4674ccb
+469,Ibrahim Al-Zubaidi,sa KSA,DF,Al-Taawoun,31,1989,9.3,5,0,0,26,7,1,25,12,13,,,0,2020,e3c9e369
+470,Mohammed Al-Zubaidi,sa KSA,DFMF,Damac,22,1997,9.5,3,0,0,15,7,2,52,17,14,,,0,2020,ccff75bb
+1,Osama Aashor,sa KSA,DF,Abha,29,1990,7.4,3,0,0,9,4,0,9,9,7,0,0,0,2019,0c4b21fc
+2,Malek Al Abadalmanam,sa KSA,FW,Al-Taawoun,21,1998,1.6,1,0,0,9,1,0,0,0,0,,,0,2019,22cccb9f
+3,Saleh Al Abbas,sa KSA,FW,Abha,25,1993,13.4,1,0,0,17,22,12,8,2,10,0,0,0,2019,ac46f44a
+4,Faris Abdi,sa KSA,DF,Al-Wehda,20,1999,1.0,0,0,0,0,1,0,1,0,2,,,0,2019,d86952e5
+5,Ahmed Abdoh Jaber,sa KSA,FW,Al-Wehda,,,1.1,1,0,0,5,2,1,0,0,1,0,0,0,2019,de575e95
+6,Hussein Abdulghani,sa KSA,DFMF,Al-Ahli,42,1977,9.5,4,0,0,10,6,2,33,26,7,0,0,0,2019,2d903040
+7,Saud Abdulhamid,sa KSA,DF,Al-Ittihad,20,1999,23.3,8,0,0,31,33,0,68,39,36,0,0,0,2019,caa254e4
+8,Nawaf Al Abed,sa KSA,MF,Al-Hilal,29,1990,6.4,1,0,0,11,16,2,28,7,6,0,0,0,2019,bfef5c87
+9,Mazen Abo Shararah,sa KSA,FW,Al-Ahli,28,1991,2.2,1,0,0,4,11,0,7,4,2,,,0,2019,fb2c45c6
+10,Mazen Abo Shararah,sa KSA,FW,Damac,28,1991,3.2,1,0,0,2,8,1,4,0,3,0,0,0,2019,fb2c45c6
+11,Abdulrahman Al-Aboud,sa KSA,MFFW,Al-Ittihad,24,1995,11.9,3,0,0,13,28,3,43,16,17,0,0,0,2019,9bf54a3b
+12,Mohammed Abousaban,sa KSA,MF,Al-Taawoun,29,1990,4.9,3,0,0,13,8,0,0,5,8,,,0,2019,8ca1a8cd
+13,Mohammed Abousaban,sa KSA,MF,Damac,29,1990,9.3,3,0,0,16,11,0,3,7,13,0,0,0,2019,8ca1a8cd
+14,Talal Al-Absi,sa KSA,DF,Al-Taawoun,26,1993,19.4,4,0,0,20,19,0,2,25,21,,,0,2019,9373e369
+15,Abdulfattah Adam,sa KSA,FW,Al-Nassr,24,1995,3.1,0,0,0,1,1,0,0,0,1,,,0,2019,1193a1a8
+16,Imran Adam,ng NGA,DFMF,Al-Shabab,23,1996,4.7,1,0,0,6,7,1,10,13,7,0,0,0,2019,1a6c8b59
+17,Imran Adam,ng NGA,DFMF,Damac,23,1996,8.5,2,0,0,6,4,0,10,25,18,,,0,2019,1a6c8b59
+18,Khaled Adénon,bj BEN,DF,Al-Wehda,34,1985,1.0,0,0,0,2,0,0,0,3,0,0,0,0,2019,16714a62
+19,Muath Adnan Afaneh,jo JOR,FW,Abha,,,0.3,1,0,0,2,1,0,0,0,1,,,0,2019,417faca0
+20,Matías Aguirregaray,uy URU,DFMF,Al-Fateh,30,1989,21.1,2,1,0,24,31,4,73,26,28,0,1,0,2019,8617e3d9
+21,Karim El Ahmadi,ma MAR,MF,Al-Ittihad,34,1985,25.5,8,0,0,60,14,0,3,25,72,0,0,0,2019,0ff9eabc
+22,Mohammed Ahmed Alhaeti,sa KSA,GK,Al-Ettifaq,,,2.0,0,0,0,0,0,0,0,0,1,,,0,2019,cd36d655
+23,Mohamed Ahmed,SUD,FW,Damac,26,1993,0.6,0,0,0,0,0,0,1,0,0,0,0,0,2019,1cf110cf
+24,Ahmed Alanzy,sa KSA,MF,Al-Faisaly,,,1.0,0,0,0,3,3,0,0,2,5,,,0,2019,0cb56992
+25,Qasim Alawjami,sa KSA,DF,Al-Fateh,23,1996,0.3,1,0,0,1,0,0,0,0,1,,,0,2019,bfd265eb
+26,Danijel Aleksić,rs SRB,FW,Al-Ahli,28,1991,1.0,0,0,0,0,1,0,2,2,0,0,0,0,2019,d68cb24c
+27,Alemão,br BRA,DF,Al-Hazem,28,1990,29.0,4,0,0,29,32,1,6,57,53,0,0,1,2019,86686dc2
+28,Abdelaziz Ali Guechi,dz ALG,DF,Al-Adalah,28,1990,10.6,1,0,0,9,2,1,1,25,16,0,0,0,2019,9a6dff67
+29,Mashel Ali,,MF,Al-Faisaly,,,1.2,1,0,0,3,5,0,1,1,3,,,0,2019,846dfee0
+30,Mukhtar Ali,sa KSA,MF,Al-Nassr,21,1997,11.8,5,0,0,28,16,0,3,6,18,0,0,0,2019,d40cff47
+31,Mohammed Alkhaibari,sa KSA,DF,Al-Shabab,,,0.5,0,0,0,0,0,0,1,1,0,,,0,2019,e3c12d16
+32,André Almeida Pinto,pt POR,DF,Al-Fateh,29,1989,11.1,1,0,0,6,5,1,1,15,6,0,0,0,2019,ba6e52b0
+33,Haider Al-Amer,sa KSA,DF,Al-Adalah,29,1989,0.4,1,0,0,1,0,0,0,0,0,,,0,2019,0270ee56
+34,Cédric Amissi,bi BDI,MF,Al-Taawoun,29,1990,24.1,9,2,1,55,39,8,17,13,27,,,0,2019,99567a58
+35,Abdullah Al-Ammar,sa KSA,DF,Al-Ittihad,25,1994,2.2,0,0,0,0,0,0,0,2,1,,,0,2019,156ca542
+36,Turki Al Ammar,sa KSA,MF,Al-Shabab,19,1999,4.8,3,0,0,8,5,1,8,6,12,0,0,0,2019,eae082f7
+37,Najib Ammari,dz ALG,MF,Damac,27,1992,1.8,0,1,0,9,3,0,0,5,2,,,0,2019,04231a2a
+38,Sari Amr,sa KSA,DF,Al-Wehda,29,1989,2.0,1,0,0,5,1,1,11,2,6,0,0,0,2019,07f4b3bd
+39,Sari Amr,sa KSA,DF,Abha,29,1989,4.6,1,0,0,7,8,0,7,15,11,,,0,2019,07f4b3bd
+40,Nordin Amrabat,ma MAR,MF,Al-Nassr,32,1987,27.1,3,0,0,57,53,11,340,7,21,0,0,0,2019,7c2a398c
+41,Abdulelah Al-Amri,sa KSA,DF,Al-Nassr,22,1997,9.2,2,0,0,10,16,1,4,18,13,,,0,2019,fd0affe3
+42,Mohammed Al-Amri,sa KSA,DF,Al-Raed,27,1991,27.8,5,0,0,46,64,0,57,39,33,0,0,0,2019,6d020acc
+43,Saleh Al-Amri,sa KSA,MF,Al-Ettifaq,25,1993,8.0,2,0,0,9,16,0,26,5,6,0,0,0,2019,912fc5a8
+44,Rakan Al Anaze,sa KSA,MF,Al-Wehda,21,1998,3.1,3,0,0,7,6,0,3,3,3,0,0,0,2019,c11a2a30
+45,Carolus Andriamatsinoro,mg MAD,FWMF,Al-Adalah,30,1989,29.0,3,0,0,21,50,15,24,10,10,0,0,0,2019,a7d39a16
+46,Ghalab Al Anzi,sa KSA,MF,Al-Hazem,20,1999,0.2,0,0,0,0,0,0,1,0,0,,,0,2019,02aca2c9
+47,Karim Aouadhi,tn TUN,MF,Abha,33,1986,27.0,8,0,0,45,53,2,9,40,58,0,0,0,2019,54d7cf43
+48,Ahmed Al-Aoufi,sa KSA,MF,Al-Ittihad,27,1992,0.2,0,0,0,1,1,0,3,1,0,,,0,2019,e3938ce5
+49,Abdulaziz Al-Aryani,sa KSA,FW,Al-Ittihad,23,1996,1.4,1,0,0,1,3,1,3,0,3,0,0,0,2019,781b3ecf
+50,Ernest Asante,gh GHA,MF,Al-Hazem,30,1988,5.8,1,0,0,4,2,0,15,1,0,0,0,0,2019,46fcf2fb
+51,Abdulfattah Asiri,sa KSA,MF,Al-Ahli,25,1994,16.3,5,0,0,24,28,5,96,1,11,0,0,0,2019,507de9f6
+52,Jaber Asiri,sa KSA,FW,Al-Wehda,21,1997,0.4,0,0,0,0,1,2,1,0,0,,,0,2019,4b12fc3b
+53,Ali Al Asmari,sa KSA,MF,Al-Ahli,22,1997,12.8,3,0,0,22,7,1,8,24,23,0,0,0,2019,5fc89dc8
+54,Malik Asselah,dz ALG,GK,Al-Hazem,33,1986,29.0,3,0,0,2,10,0,0,2,1,0,1,0,2019,9e23b6c3
+55,Ahmed Assiri,sa KSA,DF,Al-Taawoun,27,1991,21.4,6,0,0,15,11,1,2,22,19,,,0,2019,55905950
+56,Muhannad Assiri,sa KSA,FWMF,Al-Ahli,32,1986,0.3,0,0,0,1,0,0,0,0,1,,,0,2019,e64f7470
+57,Rafael Assis,br BRA,MF,Al-Fayha,28,1990,8.0,3,0,0,11,25,0,2,16,8,0,0,0,2019,959f3344
+58,Abdulquddus Atiah,sa KSA,GK,Al-Wehda,22,1997,1.0,0,0,0,0,0,0,0,0,0,,,0,2019,94892f17
+59,Amine Atouchi,ma MAR,DF,Abha,27,1992,29.0,4,0,0,24,12,0,5,38,28,0,0,0,2019,fb526aa1
+60,Mohammed Attiah,sa KSA,MF,Al-Shabab,27,1991,0.0,0,0,0,0,0,0,0,0,0,,,0,2019,214ec85c
+61,Ghazi Ayadi,tn TUN,MFFW,Damac,23,1996,6.7,2,0,0,17,5,0,11,6,2,,,0,2019,cd434284
+62,Fares Al-Ayyaf,sa KSA,MFDF,Al-Hazem,27,1992,7.5,3,0,0,5,3,0,5,9,14,0,0,0,2019,e5311b09
+63,Walid Azaro,ma MAR,FW,Al-Ettifaq,23,1995,5.5,2,0,0,11,6,2,4,2,1,,,0,2019,6a5c2e5e
+64,Bander Ba Ajaj,sa KSA,DF,Damac,24,1995,1.1,0,0,0,0,0,0,0,0,0,0,0,0,2019,60f17807
+65,Anice Badri,tn TUN,MFFW,Al-Ittihad,28,1990,4.8,1,0,0,8,12,6,25,4,4,,,0,2019,b4006330
+66,Hattan Bahebri,sa KSA,MF,Al-Hilal,27,1992,5.8,1,0,0,15,7,2,28,5,10,0,0,0,2019,b4f50ff5
+67,Masood Bakheet,sa KSA,DF,Al-Hazem,,,1.7,2,1,1,2,0,0,7,2,3,0,1,1,2019,ccb876a6
+68,Yazeid Al Bakr,sa KSA,DF,Al-Ahli,23,1995,2.8,1,0,0,6,1,1,3,4,10,0,0,0,2019,d4356234
+69,Waleed Bakshween,sa KSA,MF,Al-Wehda,29,1989,25.5,9,0,0,43,27,1,7,36,41,0,0,0,2019,c95bbd27
+70,Ageel Balghaith,sa KSA,DF,Al-Faisaly,32,1987,2.8,0,0,0,1,0,0,2,3,8,,,0,2019,de8628b3
+71,Ahmed Bamsaud,td CHA,MFDF,Al-Fayha,23,1995,9.8,2,0,0,11,22,1,33,8,16,1,0,0,2019,d050e3bd
+72,Mohammed Al Baqawi,sa KSA,DF,Al-Shabab,24,1995,3.3,0,0,0,4,6,0,6,5,1,0,1,0,2019,5e138c20
+73,Mohammed Al Baqawi,sa KSA,DF,Al-Fayha,24,1995,10.8,1,0,0,9,18,0,28,8,11,,,0,2019,5e138c20
+74,Basim Al Baqi,sa KSA,GK,Al-Ahli,29,1989,1.0,0,0,0,1,0,0,0,0,0,,,0,2019,407eaed7
+75,Abdulrahman Al-Barakah,sa KSA,MF,Al-Fayha,28,1990,21.5,6,0,0,33,15,1,2,28,25,0,0,0,2019,e678cb90
+76,Khaled Al-Barakah,sa KSA,DF,Al-Ettifaq,28,1990,0.2,0,0,0,1,0,0,0,1,0,,,0,2019,a5510d11
+77,Karam Barnawi,sa KSA,DF,Abha,32,1987,20.9,8,3,2,41,25,5,21,30,39,0,0,0,2019,d28c4002
+78,Yassin Barnawi,sa KSA,DFMF,Al-Taawoun,25,1993,12.0,4,0,0,12,22,0,32,14,15,,,1,2019,4bfcaa3d
+79,Mohammad Al Bassas,sa KSA,DF,Al-Ahli,20,1998,1.6,1,0,0,2,1,0,0,6,5,,,0,2019,177f1152
+80,Mustafa Bassas,sa KSA,FWMF,Al-Ahli,26,1993,0.2,0,0,0,0,0,0,0,0,1,,,0,2019,c5d96dc5
+81,Mustafa Bassas,sa KSA,MFFW,Al-Faisaly,26,1993,1.8,0,0,0,4,4,0,4,1,0,,,0,2019,c5d96dc5
+82,Zaid Al Bawardi,sa KSA,GK,Al-Nassr,22,1997,1.3,0,0,0,0,0,0,0,0,0,,,0,2019,ae82309a
+83,Youcef Belaïli,dz ALG,MF,Al-Ahli,27,1992,10.6,4,0,0,19,39,2,44,5,14,0,0,0,2019,1a248246
+84,Hatim Belal,sa KSA,DF,Al-Wehda,25,1994,0.6,0,0,0,0,1,0,0,0,1,0,0,0,2019,66056020
+85,Farouk Ben Mustapha,tn TUN,GK,Al-Shabab,30,1989,24.3,3,0,0,0,3,0,0,0,2,0,0,0,2019,7b3c3cdf
+86,Sofiane Bendebka,dz ALG,MF,Al-Fateh,26,1992,13.2,4,0,0,24,27,2,20,11,19,,,0,2019,0fdcd9ab
+87,Djamel Benlamri,dz ALG,DF,Al-Shabab,29,1989,8.2,1,0,0,8,14,0,1,22,17,0,0,0,2019,2ab14aaa
+88,Saad Bguir,tn TUN,MFFW,Abha,25,1994,28.1,3,0,0,18,46,11,160,6,12,1,0,0,2019,020e13ff
+89,Fahad bin Jumayah,sa KSA,MFDF,Al-Nassr,24,1995,5.2,0,0,0,15,5,2,35,4,3,0,0,0,2019,b444c502
+90,Mohammed bin Nukhaylan,sa KSA,DF,Al-Faisaly,17,2002,0.1,0,0,0,0,0,0,0,0,0,,,0,2019,f0d81046
+91,Abdulaziz Al-Bishi,sa KSA,MF,Al-Ittihad,25,1994,14.5,4,1,1,28,39,5,47,6,17,0,0,0,2019,778e66d1
+92,Medwin Biteghe,ga GAB,MF,Al-Adalah,22,1996,27.3,3,0,0,18,43,0,47,35,31,0,0,0,2019,c97a32ba
+93,Roly Bonevacia,cw CUW,MF,Al-Faisaly,27,1991,19.0,2,0,0,48,33,2,32,15,22,0,0,0,2019,022873f4
+94,Wilfried Bony,ci CIV,FW,Al-Ittihad,30,1988,6.9,2,0,0,11,7,1,0,0,0,,,0,2019,61abe9b6
+95,Alberto Botía,es ESP,DF,Al-Wehda,30,1989,23.5,12,0,0,32,17,0,1,42,24,0,0,0,2019,7f6bff1f
+96,Salim Boukhanchouche,dz ALG,MF,Abha,27,1991,2.3,2,0,0,9,3,0,0,3,4,,,0,2019,65c522a8
+97,Nawaf Boushal,sa KSA,DF,Al-Fateh,,,13.5,3,0,0,22,20,2,25,32,25,0,0,0,2019,7dc1c2c6
+98,Mohammed Al-Breik,sa KSA,DF,Al-Hilal,26,1992,18.0,4,0,0,28,26,2,82,26,26,0,0,0,2019,bd448676
+99,Tawfiq Bu Haymid,sa KSA,DFMF,Al-Fateh,32,1987,18.7,7,1,1,38,33,5,59,31,33,0,1,0,2019,e0571685
+100,Ali Al-Bulaihi,sa KSA,DF,Al-Hilal,29,1989,12.3,2,1,1,16,8,0,2,17,7,0,0,0,2019,8d7b2936
+101,Firas Al-Buraikan,sa KSA,FW,Al-Nassr,19,2000,2.4,0,0,0,0,0,1,0,0,2,0,0,0,2019,ac717a23
+102,Murtadah Al Burayh,sa KSA,DF,Al-Adalah,29,1990,13.9,8,0,0,19,9,0,0,28,11,0,1,0,2019,1e8f90d9
+103,Jonathan Cafu,br BRA,MF,Al-Hazem,28,1991,12.9,4,0,0,42,40,3,12,3,14,,,0,2019,8d043f1d
+104,Haroune Camara,sa KSA,FW,Al-Ittihad,21,1998,6.9,1,0,0,20,6,5,3,0,4,0,0,0,2019,804de447
+105,André Carrillo,pe PER,MF,Al-Hilal,28,1991,19.2,3,0,0,31,15,6,94,15,10,0,0,0,2019,7527558b
+106,Cássio,pt POR,GK,Al-Taawoun,38,1980,29.0,4,0,0,0,6,0,1,2,1,,,0,2019,5d3888a5
+107,Farouk Chafaï,dz ALG,DF,Damac,29,1990,17.0,3,0,0,14,11,0,1,24,13,,,0,2019,c290409e
+108,Firas Chaouat,tn TUN,FW,Abha,23,1996,8.3,0,0,0,15,11,12,1,0,2,,,0,2019,7fa8ef98
+109,Renato Chaves,br BRA,DF,Al-Wehda,29,1990,24.8,5,1,1,30,12,3,3,68,25,0,0,0,2019,2a51efe8
+110,Ibrahim Chenihi,dz ALG,MF,Damac,29,1990,13.4,0,0,0,11,20,2,52,7,6,,,0,2019,ad11e268
+111,Aliou Cissé,sn SEN,MFFW,Al-Adalah,29,1990,22.0,5,0,0,45,52,4,11,19,17,0,0,0,2019,d53fdfb4
+112,Emre Çolak,tr TUR,MF,Al-Wehda,28,1991,1.0,0,0,0,0,1,2,7,1,1,0,0,0,2019,643b39a6
+113,Manuel da Costa,ma MAR,DF,Al-Ittihad,33,1986,7.0,0,0,0,11,1,0,1,25,10,0,0,0,2019,50e14b3c
+114,Rafael Costa,br BRA,MF,Damac,28,1991,3.0,1,0,0,9,6,0,25,0,2,,,0,2019,ab94daf0
+115,Gustavo Cuellar,co COL,MF,Al-Hilal,26,1992,23.2,6,0,0,29,16,0,7,30,42,0,0,0,2019,cdd22fcf
+116,Ammar Al-Daheem,sa KSA,DF,Al-Ittihad,25,1993,3.0,1,0,0,4,4,0,0,3,3,,,0,2019,3f870b06
+117,Nasser Al Dajani,sa KSA,MF,Al-Taawoun,22,1997,1.8,1,0,0,2,3,0,1,3,2,,,0,2019,f7a167bf
+118,Jalal Daoudi,ma MAR,MF,Al-Raed,30,1988,17.1,9,1,0,53,19,3,77,21,18,0,0,0,2019,bbe905c5
+119,Faisal Darisi,sa KSA,DF,Al-Raed,22,1997,1.0,0,0,0,0,0,0,0,2,1,,,0,2019,238d775d
+120,Faisel Darwish,sa KSA,MFDF,Al-Taawoun,28,1991,5.9,2,0,0,10,6,0,22,8,8,,,0,2019,f3492968
+121,Faisel Darwish,sa KSA,MF,Al-Wehda,28,1991,1.8,1,0,0,3,1,0,2,1,1,0,0,0,2019,f3492968
+122,Abdullaziz Al-Dawsari,sa KSA,MF,Al-Nassr,30,1988,0.9,1,0,0,1,0,0,2,0,0,,,0,2019,52817dac
+123,Abdullaziz Al-Dawsari,sa KSA,MF,Al-Faisaly,30,1988,4.5,0,0,0,1,2,1,8,1,9,0,0,0,2019,52817dac
+124,Nasser Al-Dawsari,sa KSA,MF,Al-Hilal,20,1998,2.6,0,0,0,5,2,0,1,5,6,0,0,0,2019,7709e4a6
+125,Salem Al-Dawsari,sa KSA,MF,Al-Hilal,27,1991,16.7,2,0,0,31,58,5,36,8,20,0,0,0,2019,60ee859c
+126,Mohammed Sayed Al-Dhaw,sa KSA,MF,Al-Fateh,25,1993,2.4,2,0,0,6,4,0,2,1,2,0,0,0,2019,1ff30b38
+127,Abdulaziz Al-Dhiyabi,sa KSA,MF,Damac,27,1992,0.6,0,0,0,1,1,1,0,1,1,,,0,2019,9a80857e
+128,Makhete Diop,sn SEN,FW,Al-Shabab,32,1987,10.5,2,1,1,23,21,4,13,0,5,,,0,2019,e9fcbebb
+129,Djaniny,cv CPV,FWMF,Al-Ahli,28,1991,19.5,3,0,0,27,42,8,27,4,15,0,0,0,2019,77ac1d89
+130,Arnaud Djoum,cm CMR,MF,Al-Raed,30,1989,28.3,4,0,0,52,46,1,5,19,38,0,0,0,2019,91e1550b
+131,Jumaan Al Dosari,sa KSA,DF,Damac,32,1987,6.6,6,1,1,11,4,0,3,8,10,0,0,0,2019,1a5e5436
+132,Abdurahman Al-Dossari,sa KSA,MF,Al-Nassr,21,1997,4.6,1,0,0,11,4,0,4,3,16,0,0,0,2019,77d0ff42
+133,Saeed Al-Dossari,sa KSA,MF,Al-Fateh,29,1990,2.4,1,0,0,8,0,0,5,1,3,0,0,0,2019,3e83c259
+134,Hamad Al Dossary,sa KSA,DFMF,Al-Adalah,25,1994,3.1,1,0,0,4,6,0,5,6,8,0,1,0,2019,e76e2974
+135,Marzouq Al Dossary,sa KSA,MF,Al-Shabab,17,2002,0.1,0,0,0,0,0,0,0,0,0,,,0,2019,b54fdb6f
+136,Mohammed Al Dossary,sa KSA,DF,Al-Raed,20,1999,21.5,1,0,0,16,30,0,40,33,39,0,1,0,2019,cec29666
+137,Souleymane Doukara,mr MTN,FWMF,Al-Ettifaq,27,1991,24.1,2,1,1,27,41,7,19,9,13,0,0,0,2019,c48cd71d
+138,Azzedine Doukha,dz ALG,GK,Al-Raed,32,1986,29.0,5,0,0,3,5,0,0,0,0,0,0,0,2019,1b7f3530
+139,Khalid Dubaysh,sa KSA,DFMF,Al-Adalah,20,1998,3.5,0,1,0,5,1,0,10,6,9,0,0,0,2019,6e5a2966
+140,Carlos Eduardo,br BRA,MF,Al-Hilal,29,1989,18.8,1,0,0,18,26,3,20,10,8,0,0,0,2019,1a234d32
+141,Hussain Al Essa,sa KSA,MFFW,Al-Adalah,18,2000,9.5,1,0,0,12,28,0,6,15,22,0,0,0,2019,24a859fb
+142,Jaber Essa,sa KSA,MF,Al-Wehda,22,1997,5.3,0,0,0,10,9,0,1,8,21,0,0,0,2019,05ffa4e1
+143,Abdullah Al-Fahad,sa KSA,DF,Al-Raed,25,1994,30.0,3,0,0,24,29,0,1,53,32,0,0,0,2019,03bb177f
+144,Sultan Fahran,sa KSA,MF,Al-Raed,22,1996,24.1,5,0,0,29,14,0,0,25,21,0,0,0,2019,9d854e95
+145,Abdulmohsen Fallatah,sa KSA,DF,Al-Ittihad,25,1994,5.4,1,0,0,6,0,1,0,9,6,0,0,0,2019,70f91950
+146,Muhannad Fallatah,sa KSA,MF,Al-Fayha,23,1996,5.2,2,0,0,6,4,0,1,5,6,0,0,0,2019,d90583f9
+147,Sultan Faqihi,sa KSA,DF,Al-Hazem,24,1995,2.3,0,0,0,3,1,0,3,5,1,,,0,2019,cdf29fb4
+148,Salman Al-Faraj,sa KSA,MF,Al-Hilal,29,1989,14.7,5,0,0,17,11,1,39,18,12,0,0,0,2019,df145034
+149,Mohammed Al Fatil,sa KSA,DF,Al-Ahli,27,1992,13.9,1,0,0,8,13,1,3,28,13,0,0,0,2019,688a1587
+150,Jorge Fellipe,br BRA,DF,Damac,30,1988,13.0,1,0,0,16,6,2,0,25,19,0,1,0,2019,76bdb21c
+151,Ronnie Fernández,cl CHI,FW,Al-Fayha,28,1991,15.0,4,0,0,40,32,6,11,3,5,0,0,1,2019,4b364742
+152,Driss Fettouhi,ma MAR,MF,Al-Hazem,29,1989,29.4,3,0,0,36,55,3,195,24,18,1,0,0,2019,6287af5c
+153,Ahmed Al Fiqi,sa KSA,MF,Al-Faisaly,26,1992,9.8,1,1,0,7,22,3,5,2,7,0,0,0,2019,4403fbc2
+154,Youssef Fouzai,tn TUN,FWMF,Al-Adalah,31,1987,8.6,0,0,0,7,13,0,26,4,9,0,0,0,2019,e40181bd
+155,Mohamed Fouzair,ma MAR,MF,Al-Raed,27,1991,26.9,5,0,0,67,72,7,80,28,65,0,0,0,2019,1a2e7a2b
+156,Moslem Al Freej,sa KSA,GK,Al-Fayha,31,1988,14.0,1,0,0,1,3,0,0,0,0,0,0,0,2019,3d438767
+157,Mohammed Al-Fuhaid,sa KSA,MF,Al-Fateh,29,1990,19.8,6,1,0,57,20,0,4,31,31,0,0,0,2019,7d1b903f
+158,Reuben Gabriel,ng NGA,MF,Abha,28,1990,15.4,3,0,0,29,16,1,4,28,21,0,1,0,2019,bc5ed7cb
+159,Gegé,cv CPV,DF,Al-Fayha,31,1988,22.6,0,1,0,24,7,0,1,28,7,0,0,0,2019,e78aef8d
+160,Savvas Gentsoglou,gr GRE,MFDF,Al-Adalah,28,1990,11.9,5,0,0,17,15,0,4,12,19,,,0,2019,8ed17872
+161,Abdullah Al-Ghamdi,sa KSA,GK,Damac,29,1990,0.2,0,0,0,1,0,0,0,0,1,,,0,2019,378657d2
+162,Abdulrahman Al-Ghamdi,sa KSA,FW,Al-Ittihad,24,1994,0.6,0,0,0,1,1,0,0,0,1,,,0,2019,d45e687c
+163,Hamed Al-Ghamdi,sa KSA,MFFW,Al-Ettifaq,20,1999,7.8,2,0,0,11,6,0,6,9,10,1,0,0,2019,785b975b
+164,Khalid Al-Ghamdi,sa KSA,DF,Al-Faisaly,31,1988,21.0,5,0,0,31,29,3,66,32,40,0,0,0,2019,c97ab0b1
+165,Raed Al-Ghamdi,sa KSA,FW,Al-Raed,25,1994,14.7,4,0,0,10,24,4,17,1,2,1,0,0,2019,9366f883
+166,Sultan Al-Ghanam,sa KSA,DF,Al-Nassr,25,1994,26.7,5,0,0,16,16,2,104,51,24,0,0,0,2019,0ea89f8d
+167,Khalid Al Ghannam,sa KSA,MFFW,Al-Nassr,18,2000,4.8,0,0,0,8,12,2,7,1,4,,,0,2019,c16843c7
+168,Abdulrahman Ghareeb,sa KSA,MFFW,Al-Ahli,22,1997,10.0,0,0,0,4,14,3,36,3,6,0,0,0,2019,8472683b
+169,Fahad Ghazi,sa KSA,DF,Al-Ettifaq,25,1994,1.7,0,0,0,0,0,0,4,3,0,,,0,2019,d60fd28e
+170,Fahad Ghazi,sa KSA,MFDF,Al-Shabab,25,1994,1.7,0,0,0,4,3,0,3,2,1,0,0,0,2019,d60fd28e
+171,Khalid Al Ghuwainem,sa KSA,MF,Al-Nassr,20,1999,0.0,0,0,0,0,1,0,1,0,0,,,0,2019,5621caa0
+172,Leonardo Gil,ar ARG,MF,Al-Ittihad,28,1991,9.4,6,0,0,15,31,0,56,11,3,,,0,2019,0ac8475f
+173,Sebastian Giovinco,it ITA,MF,Al-Hilal,32,1987,19.3,4,0,0,23,44,5,111,4,7,0,0,0,2019,2b7c18ae
+174,Élton José Xavier Gomes,br BRA,MF,Al-Wehda,33,1986,8.2,0,0,0,3,5,2,15,5,0,,,0,2019,76bbcfa9
+175,Bafétimbi Gomis,fr FRA,FW,Al-Hilal,33,1985,23.8,1,0,0,18,20,26,1,1,3,0,0,1,2019,3d6686f9
+176,Craig Goodwin,au AUS,MFFW,Al-Wehda,27,1991,28.0,5,0,0,29,54,2,172,16,18,2,0,0,2019,b2741e3d
+177,Marcelo Grohe,br BRA,GK,Al-Ittihad,32,1987,17.0,2,0,0,0,1,0,0,0,0,,,0,2019,69c26681
+178,Cristian Guanca,ar ARG,MFFW,Al-Shabab,26,1993,29.0,2,0,0,21,18,3,136,10,14,0,0,0,2019,05341453
+179,Guilherme,br BRA,MF,Al-Faisaly,24,1995,13.6,2,0,0,13,25,1,37,22,7,,,0,2019,58649f05
+180,Marcos Guilherme,br BRA,MFFW,Al-Wehda,23,1995,9.5,1,0,0,11,6,3,6,5,7,0,0,0,2019,d5ff6084
+181,Ahmed Al-Habib,sa KSA,DF,Abha,26,1993,6.2,4,0,0,7,3,1,1,11,6,0,0,0,2019,8c6f0010
+182,Hassan Al-Habib,sa KSA,MF,Al-Hazem,24,1994,11.1,2,0,0,39,19,3,6,14,6,0,0,0,2019,6431c256
+183,Musab Habkour,sa KSA,MF,Abha,20,1999,0.3,0,0,0,0,1,0,0,0,0,0,0,0,2019,fc1f02a2
+184,Oussama Haddadi,tn TUN,DF,Al-Ettifaq,27,1992,14.0,1,0,0,14,9,2,44,17,18,0,0,0,2019,ec400194
+185,Zakaria Hadraf,ma MAR,MFFW,Damac,29,1990,11.6,1,0,0,7,20,4,66,1,6,1,0,0,2019,5aa2ee3a
+186,Abdullah Al-Hafith,sa KSA,DF,Al-Hilal,26,1992,13.1,0,0,0,8,6,0,0,16,9,0,0,0,2019,95d8222d
+187,Marwan Al Haidari,sa KSA,GK,Al-Shabab,23,1996,5.0,0,0,0,0,2,0,1,0,0,,,0,2019,ad78b3d4
+188,Asiri Haitham,sa KSA,FW,Al-Ahli,,,0.1,3,1,1,1,1,0,0,0,1,,,0,2019,9c08d5cd
+189,Othman Al Haj,sa KSA,MF,Al-Fayha,25,1994,3.0,0,0,0,4,8,3,0,1,2,0,0,0,2019,72d691c0
+190,Muteb Al-Hamaad,sa KSA,FW,Damac,20,1998,0.0,0,0,0,0,0,0,0,0,0,,,0,2019,937f775c
+191,Fahad Al Hamad,sa KSA,DF,Al-Taawoun,21,1998,3.8,0,0,0,1,1,0,0,5,3,,,0,2019,fa08000b
+192,Abdullah Al Hamaien,sa KSA,MF,Al-Adalah,31,1988,3.3,1,1,0,7,11,0,0,3,5,0,0,0,2019,2b9cbb36
+193,Abderrazak Hamdallah,ma MAR,FW,Al-Nassr,28,1990,26.8,6,0,0,31,32,24,7,5,10,0,0,0,2019,fe73f8c6
+194,Abdullah Al Hamdan,sa KSA,FW,Al-Shabab,19,1999,13.2,3,0,0,25,23,6,8,2,8,0,0,0,2019,cc4b5436
+195,Yassin Hamzah,sa KSA,DF,Al-Wehda,28,1990,2.8,0,0,0,1,2,0,1,6,4,0,0,0,2019,94f31ace
+196,Mansor Hamzi,sa KSA,MF,Al-Hazem,27,1992,12.1,1,0,0,14,23,3,32,9,14,0,0,0,2019,a76a5951
+197,Mansoor Al-Harbi,sa KSA,DF,Al-Ittihad,31,1987,21.5,3,0,0,13,12,6,83,31,20,0,0,0,2019,6ae9c5e1
+198,Yousef Al Harbi,sa KSA,MF,Al-Ahli,22,1997,2.7,1,0,0,8,3,1,0,5,9,,,0,2019,87b5229b
+199,Ali Al Hassan,sa KSA,MF,Al-Fateh,22,1997,18.0,3,0,0,33,20,2,18,16,21,0,0,0,2019,68b689fa
+200,Abdullah Hassun,sa KSA,DF,Al-Ahli,22,1997,13.8,2,0,0,15,15,0,30,13,32,0,0,0,2019,c62f17d0
+201,Motaz Hawsawi,sa KSA,DF,Al-Ahli,27,1992,6.0,0,0,0,6,5,1,0,14,7,,,0,2019,2d370b86
+202,Omar Hawsawi,sa KSA,DF,Al-Nassr,33,1985,5.8,1,0,0,5,6,0,0,7,3,0,0,0,2019,6caca8e5
+203,Hazaa Al-Hazaa,sa KSA,FW,Al-Ettifaq,27,1991,10.1,1,0,0,7,15,3,5,3,8,0,0,0,2019,1bbcb4c8
+204,Ali Hazazi,sa KSA,MF,Al-Ettifaq,25,1994,14.5,5,0,0,23,15,0,6,18,24,0,0,0,2019,7f093d00
+205,Majed Hazazi,sa KSA,DF,Damac,31,1988,22.0,2,0,0,19,17,0,63,43,37,0,0,0,2019,73406e3b
+206,Naif Hazazi,sa KSA,FW,Al-Adalah,31,1988,5.1,1,0,0,5,4,2,1,1,3,,,0,2019,0471b1db
+207,Waleed Hazem,sa KSA,MF,Al-Shabab,24,1994,1.1,0,0,0,1,2,0,1,1,0,,,0,2019,188401af
+208,Abdullah Al Hazzan,sa KSA,DF,Al-Faisaly,20,1999,5.6,2,0,0,8,4,1,10,9,9,,,0,2019,7cab588e
+209,Saeed Hezam,sa KSA,MFFW,Damac,29,1990,3.3,2,0,0,4,6,4,5,0,2,0,0,0,2019,8f9836b1
+210,Abdulbasit Hindi,sa KSA,DF,Al-Ahli,22,1997,12.2,2,0,0,12,4,0,1,32,17,0,0,0,2019,854e39bb
+211,Ayman Yusef Al-Hujaili,it ITA,MF,Damac,21,1998,5.5,2,0,0,4,19,0,7,3,6,,,0,2019,ee3185f5
+212,Jehad Al-Hussain,sy SYR,MFFW,Al-Raed,37,1982,19.8,1,0,0,23,51,6,52,4,15,0,0,0,2019,5e6bf61f
+213,Saif Hussain,sa KSA,DF,Al-Hazem,26,1993,16.8,3,0,0,13,13,0,6,35,18,1,0,0,2019,26979800
+214,Khaleem Hyland,tt TRI,MF,Al-Faisaly,30,1989,23.9,12,0,0,39,34,0,9,17,16,0,0,0,2019,4e755d03
+215,Jang Hyun-soo,kr KOR,DF,Al-Hilal,27,1991,22.0,3,0,0,10,13,0,1,15,11,1,1,0,2019,d0f6a36d
+216,Mouhcine Iajour,ma MAR,FW,Damac,34,1985,11.6,0,0,0,2,5,5,0,0,1,0,0,0,2019,dcaa1378
+217,Faneva Imà Andriatsima,mg MAD,FW,Abha,35,1984,9.8,2,0,0,14,8,14,3,1,2,0,0,0,2019,efcfbafe
+218,Faneva Imà Andriatsima,mg MAD,FW,Al-Fayha,35,1984,11.8,1,0,0,35,12,14,2,0,4,,,0,2019,efcfbafe
+219,Hassan Jaafari,sa KSA,MF,Al-Fayha,28,1991,1.6,0,0,0,2,4,0,2,1,2,0,0,0,2019,831450cd
+220,Abdulwahab Jaafer,sa KSA,MF,Damac,25,1993,7.3,0,0,0,7,14,4,8,3,11,0,0,0,2019,4331184d
+221,Abdullah Al Jadani,sa KSA,GK,Al-Wehda,27,1991,18.0,1,0,0,0,5,0,0,1,1,0,0,1,2019,d0e20c59
+222,Mohammed Jahfali,sa KSA,DF,Al-Hilal,28,1990,12.6,3,0,0,12,12,1,1,13,7,0,0,0,2019,65ed1735
+223,Abdulaziz Al-Jamaan,sa KSA,MF,Abha,23,1996,1.1,0,0,0,0,1,0,2,0,1,,,0,2019,870158cc
+224,Michał Janota,pl POL,MF,Al-Fateh,29,1990,8.3,0,0,0,15,3,0,49,13,9,0,0,0,2019,adb557c4
+225,Hussain Al Jasim,sa KSA,FW,Al-Adalah,24,1994,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2019,dd1ef7ed
+226,Youssef El Jebli,nl NED,MF,Al-Faisaly,26,1992,25.4,2,0,0,35,36,7,144,6,9,0,0,0,2019,3a225774
+227,Abdulaziz Al-Jebreen,sa KSA,MF,Al-Nassr,29,1990,0.0,0,0,0,1,0,0,0,0,1,,,0,2019,cf6a0f9b
+228,Luis Jiménez,cl CHI,MFFW,Al-Ittihad,35,1984,1.6,0,0,0,5,4,0,0,3,3,0,0,0,2019,8e3320c6
+229,Hamad Al-Jizani,sa KSA,DF,Al-Wehda,26,1993,13.0,1,0,0,18,7,5,19,17,24,,,0,2019,b97951ae
+230,Hamad Al-Jizani,sa KSA,DFMF,Damac,26,1993,12.0,4,0,0,26,9,0,29,15,17,0,1,0,2019,b97951ae
+231,Jonas,br BRA,DF,Al-Ittihad,27,1991,1.5,1,0,0,1,0,0,0,2,2,,,0,2019,f2dbada6
+232,Brad Jones,au AUS,GK,Al-Nassr,37,1982,28.7,0,1,0,1,1,0,0,0,2,0,0,0,2019,ffc1c226
+233,Abdullah Al-Jouei,sa KSA,MF,Damac,24,1995,7.6,1,0,0,8,20,0,22,4,8,,,0,2019,78ccb727
+234,Saša Jovanović,rs SRB,FWMF,Al-Fateh,27,1991,0.3,0,0,0,1,1,2,0,0,0,1,0,0,2019,73c56892
+235,Hamad Al-Juhaim,sa KSA,FW,Al-Fayha,31,1987,4.2,3,0,0,8,4,3,5,1,5,0,0,0,2019,c2889712
+236,Khalid Kaabi,sa KSA,MF,Al-Faisaly,27,1992,14.8,2,0,0,22,23,1,16,3,19,0,0,0,2019,d3f1e57e
+237,Hassan Kadesh,sa KSA,DFMF,Al-Taawoun,26,1992,5.1,1,0,0,7,7,0,13,8,7,,,0,2019,7165f2e9
+238,Hassan Kadesh,sa KSA,DF,Al-Hilal,26,1992,5.6,0,0,0,2,4,0,14,12,5,0,0,0,2019,7165f2e9
+239,Bashkim Kadrii,dk DEN,FWMF,Al-Fateh,28,1991,9.7,0,0,0,2,6,2,47,0,1,,,0,2019,f6bb360b
+240,Majed Kanabah,sa KSA,MF,Al-Fateh,26,1993,6.5,4,0,0,14,14,0,6,3,3,0,0,0,2019,005fcf63
+241,Abdullah Kanno,sa KSA,DF,Al-Fayha,29,1990,2.2,0,0,0,2,2,0,1,4,2,,,0,2019,da7c3b22
+242,Mohamed Kanno,sa KSA,MF,Al-Hilal,24,1994,13.4,1,0,0,28,12,2,6,26,21,0,0,0,2019,74ccf212
+243,Ahmed Al-Kassar,sa KSA,GK,Al-Faisaly,28,1991,2.0,1,0,0,0,1,0,0,0,0,,,0,2019,eedb42fd
+244,Sami Kassar,sa KSA,MFDF,Damac,29,1990,3.8,0,0,0,2,2,1,3,5,2,0,0,0,2019,5ae76e74
+245,Mohammed Al-Khabrani,sa KSA,DF,Al-Ahli,25,1993,21.1,6,2,2,22,10,0,4,34,16,0,0,0,2019,614b7be3
+246,Abdullah Al-Khaibari,sa KSA,MF,Al-Nassr,22,1996,15.7,4,0,0,21,14,0,0,29,16,0,0,0,2019,ab47ae1c
+247,Ali Al Khaibari,sa KSA,DF,Al-Ettifaq,30,1989,0.9,0,0,0,0,0,0,0,1,1,,,1,2019,d0dffdc7
+248,Sami Al-Khaibari,sa KSA,DF,Al-Fayha,29,1989,23.6,2,0,0,20,21,0,2,56,27,0,0,0,2019,07e3e282
+249,Abdulmalek Al-Khaibri,sa KSA,MF,Al-Shabab,33,1986,12.4,1,2,0,20,8,0,2,28,10,0,0,0,2019,b07bb1c8
+250,Saad Al Khairi,sa KSA,DF,Al-Ettifaq,24,1995,8.5,3,0,0,18,6,0,6,15,28,0,1,0,2019,0342e8cb
+251,Osama Al-Khalaf,sa KSA,DF,Al-Hazem,22,1996,22.7,4,0,0,29,46,1,141,36,50,0,0,0,2019,1f4ea94e
+252,Awadh Khames,sa KSA,DF,Al-Nassr,31,1988,10.3,1,0,0,7,16,1,2,10,12,0,0,0,2019,eb0eeb4a
+253,Omar Kharbin,sy SYR,MFFW,Al-Hilal,25,1994,7.5,0,0,0,14,18,2,12,3,7,0,0,0,2019,ac2c69d9
+254,Abdullah Khateeb,sa KSA,DF,Al-Ettifaq,24,1995,9.9,2,0,0,8,9,0,0,17,10,0,0,0,2019,9913d086
+255,Khalid Al-Khathlan,sa KSA,DF,Abha,,,25.4,3,0,0,22,33,0,40,58,40,0,2,0,2019,15ba718b
+256,Awadh Khrees,sa KSA,DFMF,Al-Adalah,28,1991,7.2,4,1,1,9,8,1,20,9,10,,,0,2019,8884f642
+257,Awadh Khrees,sa KSA,DF,Al-Faisaly,28,1991,2.9,0,0,0,4,4,0,7,3,6,,,0,2019,8884f642
+258,Ayman Al-Khulaif,sa KSA,MF,Al-Wehda,22,1997,5.6,2,0,0,11,8,0,3,1,8,0,0,0,2019,e77f77bf
+259,Filip Kiss,sk SVK,MFDF,Al-Ettifaq,28,1990,23.3,4,0,0,41,21,1,7,24,31,0,0,0,2019,2e88cabe
+260,Aubin Kouakou,ci CIV,DFMF,Damac,27,1992,3.5,0,0,0,1,1,0,1,5,4,0,0,0,2019,12b267db
+261,Maksym Koval,ua UKR,GK,Al-Fateh,26,1992,18.0,4,0,0,2,2,0,0,2,0,0,1,0,2019,60713cb3
+262,Amiri Kurdi,sa KSA,DF,Al-Hilal,27,1991,4.0,2,0,0,8,5,0,8,2,2,0,0,0,2019,c07b6f2d
+263,Mohammed Al-Kwikbi,sa KSA,MF,Al-Ettifaq,24,1994,19.8,2,0,0,24,36,2,106,18,23,0,0,0,2019,f055c890
+264,Ali Lajami,sa KSA,DF,Al-Fateh,23,1996,21.0,3,0,0,19,18,0,3,56,18,0,0,0,2019,46f7ab4f
+265,Lucas Lima,br BRA,DF,Al-Ahli,27,1991,22.5,5,1,0,26,32,3,155,26,25,0,0,0,2019,0f52f925
+266,Raïs M'Bolhi,dz ALG,GK,Al-Ettifaq,33,1986,28.0,3,1,0,0,7,0,0,0,1,0,0,0,2019,c121a641
+267,Ricardo Machado,pt POR,DF,Al-Taawoun,30,1988,27.4,3,0,0,21,10,1,3,28,9,,,0,2019,5652e8f5
+268,Mousa Madkhali,sa KSA,FW,Al-Wehda,31,1987,0.7,1,0,0,1,1,0,0,0,0,,,0,2019,a650dc82
+269,Abdullah Madu,sa KSA,DF,Al-Nassr,26,1993,15.7,0,0,0,3,8,1,0,23,10,0,0,0,2019,9c3523a4
+270,Ali Maedi,ee EST,DF,Al-Faisaly,28,1991,1.5,1,0,0,5,0,0,6,1,5,,,0,2019,27d1d446
+271,Abdullah Magrashi,sa KSA,MFFW,Al-Raed,21,1997,3.1,0,0,0,2,2,0,0,4,5,,,0,2019,62fad6f8
+272,Ibrahim Mahnashi,sa KSA,MFDF,Al-Ettifaq,19,1999,23.4,9,1,1,44,34,1,13,46,53,0,0,0,2019,bcee44d8
+273,Maicon,br BRA,DF,Al-Nassr,30,1988,28.0,7,0,0,18,17,1,15,45,32,0,0,0,2019,2a8683b9
+274,Mohammed Al Majhad,sa KSA,MF,Al-Ahli,21,1998,5.1,1,0,0,11,11,0,7,9,6,0,0,0,2019,4d316353
+275,Abdulaziz Majrashi,sa KSA,DFMF,Al-Adalah,28,1991,7.0,2,0,0,8,10,1,31,13,8,0,0,0,2019,f653a25b
+276,Abdulaziz Majrashi,sa KSA,MFDF,Al-Hazem,28,1991,3.5,0,0,0,3,5,0,7,6,3,,,0,2019,481acdc2
+277,Fahad Majrashi,sa KSA,FW,Al-Ahli,17,2001,0.7,0,0,0,4,2,0,3,1,0,,,0,2019,6d6542f6
+278,Mohammed Majrashi,sa KSA,FWMF,Al-Fateh,28,1991,7.2,7,0,0,14,14,2,2,3,2,0,0,0,2019,39425891
+279,Mustafa Malayekah,sa KSA,GK,Al-Faisaly,33,1986,28.0,4,0,0,2,9,0,0,0,0,0,0,0,2019,86c45703
+280,Abdulellah Al-Malki,sa KSA,MF,Al-Ittihad,24,1994,22.9,9,1,1,60,33,1,26,44,34,0,0,0,2019,3bcd2730
+281,Ass Mandaw Sy,sn SEN,DF,Al-Adalah,30,1989,13.6,2,0,0,11,17,0,5,17,9,,,0,2019,09caac9d
+282,Sandro Manoel,br BRA,MF,Al-Taawoun,31,1988,28.1,4,0,0,37,15,0,54,38,26,,,0,2019,75b66b24
+283,Hamad Al Mansour,sa KSA,DF,Al-Nassr,26,1993,0.5,1,0,0,4,0,0,3,1,1,0,0,0,2019,121df375
+284,Marko Marin,de GER,MF,Al-Ahli,30,1989,6.4,1,0,0,12,4,2,43,1,5,,,0,2019,a022e78c
+285,Rayan Al Marshoud,sa KSA,FW,Al-Raed,20,1999,0.1,0,0,0,0,0,0,0,0,1,,,0,2019,4e17823b
+286,Naif Al Mas,sa KSA,DF,Al-Nassr,19,2000,3.7,0,0,0,1,1,0,1,4,3,,,0,2019,8498374a
+287,Aymen Mathlouthi,tn TUN,GK,Al-Adalah,34,1984,9.7,1,0,0,0,7,0,0,0,0,0,0,0,2019,dd1abe1b
+288,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,32,1987,27.0,0,0,0,0,4,0,0,3,1,0,0,0,2019,c3c96222
+289,Ali Al-Mazidi,sa KSA,GK,Al-Adalah,33,1985,18.0,1,0,0,0,4,0,0,0,1,,,1,2019,a75cacfd
+290,Sultan Mendash,sa KSA,MFFW,Al-Taawoun,24,1994,7.3,3,0,0,19,17,3,12,7,16,,,0,2019,8738a7a1
+291,Sultan Mendash,sa KSA,MF,Al-Ahli,24,1994,0.8,0,0,0,3,0,0,1,0,0,0,0,0,2019,8738a7a1
+292,Abdelali Mhamdi,ma MAR,GK,Abha,27,1991,30.0,0,0,0,0,9,0,0,2,0,0,0,0,2019,29b3f0d1
+293,Salman Al-Moasher,sa KSA,MFFW,Al-Ahli,30,1988,14.3,2,0,0,13,29,4,35,14,7,0,0,0,2019,2678bece
+294,Tariq Mohammed,sa KSA,DF,Al-Ittihad,23,1995,2.1,1,0,0,3,3,0,7,7,4,0,0,0,2019,5fab7c9b
+295,Mohammed Mohsen Harzan,sa KSA,MF,Al-Taawoun,30,1989,0.6,0,0,0,0,3,0,0,2,1,,,0,2019,1024431e
+296,Mohammed Mohsen Harzan,sa KSA,MF,Damac,30,1989,7.1,1,0,0,11,21,0,13,4,6,,,0,2019,1024431e
+297,Hussain Al Moqahwi,sa KSA,MF,Al-Ahli,31,1988,9.9,3,0,0,13,14,1,20,8,16,0,0,0,2019,7dfe2bb0
+298,Mohamed Al Moqahwi,sa KSA,GK,Al-Adalah,24,1995,2.3,0,0,0,0,0,0,0,1,0,,,0,2019,57106502
+299,Anselmo de Moraes,br BRA,MF,Al-Wehda,30,1989,23.9,10,0,0,55,45,2,10,19,53,0,0,0,2019,2bb57ba0
+300,Danilo Moreno Asprilla,co COL,MFFW,Al-Shabab,30,1989,27.5,3,0,0,34,58,12,92,10,9,1,0,0,2019,33c21071
+301,Yasser Al Mosailem,sa KSA,GK,Al-Ahli,35,1984,15.9,0,0,0,0,1,0,0,4,0,0,0,0,2019,6869a0aa
+302,Ahmed Mostafa,eg EGY,MF,Al-Adalah,21,1997,3.3,1,0,0,6,6,0,3,1,2,,,0,2019,77c54b28
+303,Ahmed Mostafa,eg EGY,MF,Abha,21,1997,2.8,0,0,0,0,1,0,1,1,2,0,0,0,2019,77c54b28
+304,Naif Al-Mousa,sa KSA,DFMF,Al-Hazem,32,1986,8.4,2,0,0,11,8,0,12,17,10,0,0,0,2019,ce449112
+305,Nooh Al-Mousa,sa KSA,MF,Al-Ahli,28,1991,4.8,2,0,0,10,1,0,1,8,4,0,0,0,2019,7027b0fe
+306,Ryan Al-Mousa,sa KSA,MF,Al-Taawoun,25,1994,9.5,5,0,0,20,5,0,2,14,15,,,1,2019,ca06995b
+307,Saeed Al Mowalad,sa KSA,DF,Al-Ahli,28,1991,13.7,3,0,0,9,9,1,53,36,10,0,0,0,2019,0816e7c8
+308,Hassan Muath Fallatah,sa KSA,DFMF,Al-Shabab,33,1986,18.0,1,0,0,17,13,1,62,17,16,0,0,0,2019,7b086470
+309,Muteb Al Mufarrij,sa KSA,DF,Al-Shabab,22,1996,3.3,0,0,0,6,4,0,0,5,4,0,0,0,2019,247a033a
+310,Abdullah Al Mugren,sa KSA,MF,Al-Raed,22,1996,2.2,1,0,0,9,8,0,5,3,2,0,0,0,2019,9155d8fe
+311,Muralha,br BRA,MF,Al-Hazem,26,1993,24.4,5,1,0,42,23,0,22,53,45,0,0,0,2019,3d2e5200
+312,Ahmed Musa,ng NGA,MFFW,Al-Nassr,26,1992,17.1,2,0,0,17,29,4,31,6,11,0,0,0,2019,b7084daf
+313,Abdullah Al-Mutairi,sa KSA,MF,Al-Fayha,33,1986,3.3,0,0,0,4,7,0,2,0,5,0,0,0,2019,ad8e96f2
+314,Muteb Al-Mutlaq,sa KSA,DF,Al-Raed,21,1997,0.1,0,0,0,0,0,0,0,1,0,0,0,0,2019,f20dce66
+315,Essam Al Muwallad,sa KSA,MF,Al-Ittihad,20,1999,0.5,1,0,0,3,1,0,0,0,2,0,0,0,2019,50427952
+316,Fahad Al Muwallad,sa KSA,FWMF,Al-Ittihad,24,1994,7.3,1,0,0,7,13,2,18,4,1,,,0,2019,23f32ea1
+317,Mansour Al Muwallad,sa KSA,FW,Al-Taawoun,22,1997,1.0,0,0,0,3,0,2,0,0,1,,,0,2019,7847f2df
+318,Nader Al-Muwallad,sa KSA,MF,Al-Adalah,27,1992,9.9,3,0,0,12,6,0,3,17,13,0,0,0,2019,85ffba12
+319,Omar Al-Muziel,sa KSA,MFDF,Abha,27,1992,2.0,1,0,0,3,1,0,7,5,5,,,0,2019,5392dc45
+320,Omar Al-Muziel,sa KSA,DF,Al-Fayha,27,1992,5.4,3,0,0,14,3,0,26,15,6,0,0,0,2019,5392dc45
+321,Alfred N'Diaye,sn SEN,MF,Al-Shabab,29,1990,21.1,10,2,1,37,19,0,3,32,26,0,0,0,2019,7789bf63
+322,Sumaihan Al-Nabet,sa KSA,MFFW,Al-Taawoun,23,1996,3.5,1,0,0,7,9,0,6,2,5,,,0,2019,f96e8e1a
+323,Sumaihan Al-Nabet,sa KSA,MF,Abha,23,1996,14.0,4,0,0,33,49,9,21,7,9,0,0,0,2019,f96e8e1a
+324,Ahmed Al-Nadhri,sa KSA,FWMF,Al-Adalah,26,1993,10.1,0,0,0,8,19,2,22,10,8,0,0,0,2019,9be1c263
+325,Mojammed Naif,,DF,Al-Hazem,,,3.3,0,0,0,4,2,0,7,5,5,,,0,2019,d4d00aeb
+326,Ahmed Al Najai,sa KSA,MF,Abha,24,1995,9.8,2,0,0,9,14,1,3,7,12,0,0,0,2019,63df6173
+327,Ammar Al-Najar,sa KSA,MF,Abha,22,1997,17.9,4,1,1,18,10,1,94,16,16,0,0,0,2019,374dd9bc
+328,Muhannad Al Najei,sa KSA,MF,Damac,25,1994,8.3,4,1,1,14,10,0,2,12,15,0,0,0,2019,8cd017d8
+329,Sami Al-Najei,sa KSA,MF,Damac,22,1997,7.3,4,0,0,16,13,0,4,4,7,0,0,0,2019,978e29d3
+330,Mohammed Naji,sa KSA,DF,Al-Fateh,25,1993,14.7,4,0,0,19,21,0,3,37,13,0,0,0,2019,21c394c4
+331,Majed Al-Najrani,sa KSA,MF,Al-Ettifaq,26,1993,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2019,bfa3eeab
+332,Bader Al-Nakhli,sa KSA,DF,Al-Adalah,31,1988,8.5,1,0,0,11,8,0,0,18,13,,,0,2019,847dbf5a
+333,Hussain Al Nakhli,sa KSA,FW,Al-Adalah,21,1998,2.7,0,0,0,4,5,4,14,0,4,0,0,0,2019,e2989a12
+334,Munther Nakhli,sa KSA,MF,Al-Fateh,,,1.8,0,0,0,0,1,0,13,1,1,0,0,0,2019,686fd5ae
+335,Abdulaziz Al Nashi,sa KSA,MF,Al-Hazem,31,1987,19.0,3,0,0,41,31,0,0,42,28,0,0,0,2019,ee48943a
+336,Awad Al Nashri,sa KSA,MF,Al-Ittihad,17,2002,0.1,0,0,0,1,0,0,0,0,2,,,0,2019,57a52a08
+337,Bander Nasser,sa KSA,DF,Al-Fayha,29,1990,17.0,4,0,0,20,6,0,63,29,16,0,1,0,2019,394bb33c
+338,Ali Al Nemer,sa KSA,MFFW,Al-Wehda,27,1991,6.7,1,1,0,14,22,0,12,4,10,0,0,0,2019,4d20e7a7
+339,Neto,br BRA,MF,Al-Fayha,27,1991,25.4,11,1,1,50,29,0,51,32,50,0,0,0,2019,ad5f543d
+340,Youssouf Niakaté,fr FRA,FW,Al-Wehda,26,1992,28.1,4,0,0,43,32,26,12,3,13,0,0,0,2019,a6f26c3b
+341,Arsénio Martins Lafuente Nunes,pt POR,MF,Al-Fayha,29,1989,24.9,3,1,0,25,34,3,161,7,9,0,0,0,2019,50e148af
+342,Abdurahman Al-Obaid,sa KSA,DFMF,Al-Nassr,26,1993,18.9,4,0,0,42,16,0,138,30,37,0,0,0,2019,bd016f97
+343,John Ogu,ng NGA,DF,Al-Adalah,31,1988,6.2,2,1,0,7,1,0,0,6,4,,,0,2019,194ace07
+344,Madallah Al-Olayan,sa KSA,DFMF,Al-Taawoun,24,1994,10.2,6,2,2,17,8,0,36,19,15,,,0,2019,6a287291
+345,Madallah Al-Olayan,sa KSA,DF,Al-Hilal,24,1994,7.4,2,0,0,8,10,1,22,6,6,,,0,2019,6a287291
+346,Youssouf Omar,ne NIG,MFFW,Al-Hazem,25,1994,5.9,0,0,0,16,7,5,1,3,3,0,1,0,2019,3047afc5
+347,Nasser Al Omran,sa KSA,MF,Al-Shabab,22,1997,5.8,3,0,0,20,6,0,0,9,13,0,0,0,2019,57f65da4
+348,Ibrahim Al Otaibi,sa KSA,MF,Al-Taawoun,22,1997,0.0,0,0,0,0,1,0,1,0,1,,,0,2019,d6b17c0f
+349,Radi Al Otaibi,sa KSA,DF,Al-Wehda,19,2000,0.3,0,0,0,1,1,1,1,0,0,,,0,2019,100ca079
+350,Thaar Al Otaibi,sa KSA,FW,Al-Taawoun,19,1999,0.9,0,0,0,1,4,0,2,1,2,,,0,2019,b065dc0f
+351,Thaar Al Otaibi,sa KSA,FW,Al-Hilal,19,1999,0.2,0,0,0,0,1,0,2,0,0,,,0,2019,b065dc0f
+352,Saqer Otaif,sa KSA,FW,Al-Fateh,28,1990,0.7,1,0,0,6,3,1,3,1,1,0,0,0,2019,2a3e2c5c
+353,Abdullah Otayf,sa KSA,MF,Al-Hilal,26,1992,3.6,1,0,0,4,5,0,1,3,4,0,0,0,2019,508d44cf
+354,Abdelkader Oueslati,tn TUN,MF,Al-Fateh,27,1991,1.5,0,0,0,1,1,1,4,0,2,0,0,0,2019,dc90d163
+355,Mohammed Al Oufi,sa KSA,DF,Al-Ittihad,16,2002,0.2,0,0,0,0,1,0,1,0,2,,,0,2019,f0f56efb
+356,Mohammed Al-Owais,sa KSA,GK,Al-Ahli,27,1991,12.2,2,0,0,0,2,0,0,0,0,0,0,0,2019,f2c060c6
+357,Abdullah Al-Owaishir,sa KSA,GK,Al-Shabab,28,1991,0.7,0,0,0,0,0,0,0,0,0,0,0,0,2019,6a1fe279
+358,Samuel Owusu,gh GHA,MF,Al-Fayha,23,1996,24.6,3,1,0,23,32,14,73,17,13,0,0,0,2019,7c92cab0
+359,Ezequiel Palomeque,co COL,DF,Al-Raed,26,1992,17.1,4,0,0,10,8,2,0,24,6,0,0,0,2019,bd354619
+360,Giuliano de Paula,br BRA,MF,Al-Nassr,29,1990,26.2,2,0,0,21,27,5,28,10,17,0,0,0,2019,ab1b205d
+361,Marco Pérez,co COL,FW,Al-Raed,28,1990,16.6,2,0,0,14,15,17,14,0,1,1,0,0,2019,2264e79b
+362,Nildo Petrolina,br BRA,MFDF,Al-Taawoun,33,1986,23.0,3,0,0,32,47,1,121,29,29,,,0,2019,9deb2fde
+363,Petros,br BRA,MF,Al-Nassr,30,1989,25.8,5,0,0,34,80,3,17,32,42,0,0,1,2019,7773f73b
+364,Aleksandar Prijović,rs SRB,FW,Al-Ittihad,29,1990,5.8,0,0,0,6,0,5,8,1,1,0,0,0,2019,aec63b70
+365,Abdulkareem Al-Qahtani,sa KSA,MFFW,Al-Fayha,26,1993,10.5,4,0,0,27,19,4,29,7,9,0,0,0,2019,8728cc08
+366,Abdullah Al Qahtani,sa KSA,MF,Abha,20,1999,5.7,1,0,0,9,10,2,4,3,8,,,0,2019,8423251c
+367,Hussain Al Qahtani,sa KSA,MF,Al-Faisaly,24,1994,19.9,3,0,0,25,10,0,3,22,21,,,0,2019,b2bffddf
+368,Mashari Al-Qahtani,sa KSA,MF,Al-Wehda,22,1997,1.8,1,0,0,3,3,0,0,2,2,0,0,0,2019,aac8db2d
+369,Abdullah Qaisi,sa KSA,MF,Abha,29,1990,4.0,1,0,0,3,8,1,4,1,2,0,0,0,2019,71357cb3
+370,Assaf Al-Qarni,sa KSA,GK,Al-Ittihad,35,1984,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2019,71ea7c96
+371,Fawaz Al-Qarni,sa KSA,GK,Al-Ittihad,27,1992,12.0,1,0,0,0,0,0,0,1,0,0,0,0,2019,5e08e9d2
+372,Mohammed Al-Qarni,sa KSA,MF,Al-Wehda,29,1989,10.2,4,0,0,16,13,0,2,19,19,,,0,2019,00cc0377
+373,Mohammed Qassem,sa KSA,DF,Al-Faisaly,24,1995,28.4,5,0,0,39,37,4,83,33,33,0,0,0,2019,e9342cf8
+374,Hassan Al-Qeed,sa KSA,MF,Abha,21,1998,9.0,3,0,0,22,11,1,18,12,16,,,0,2019,cb5fedf6
+375,Saleh Al-Qumaizi,sa KSA,DF,Al-Ettifaq,27,1991,24.2,2,0,0,35,30,3,99,49,35,1,0,0,2019,d4a82c5a
+376,Hussain Al Quraish,sa KSA,MF,Al-Faisaly,20,1999,1.3,0,0,0,5,0,0,0,4,4,0,0,0,2019,ee199d9b
+377,Saeed Al Rabiei,sa KSA,DF,Al-Ettifaq,25,1993,17.3,3,0,0,15,3,1,2,32,13,0,0,0,2019,1e318a33
+378,Radhi Al Radhi,sa KSA,DF,Al-Adalah,27,1991,16.0,6,1,0,26,12,0,2,25,26,0,0,0,2019,ca7d0a73
+379,Hassan Raghfawi,sa KSA,DFMF,Damac,23,1995,11.1,0,0,0,9,11,0,8,22,18,0,0,0,2019,6db697b8
+380,Hassan Al Raheb,sa KSA,FW,Al-Shabab,35,1983,0.3,0,0,0,0,0,1,0,0,1,,,0,2019,97573dd8
+381,Chamseddine Rahmani,dz ALG,GK,Damac,28,1990,12.0,2,0,0,0,1,0,0,1,1,0,0,0,2019,e441cac2
+382,Héldon Ramos,cv CPV,MFFW,Al-Taawoun,30,1988,22.0,5,1,1,15,43,12,192,12,12,,,0,2019,64ded08c
+383,Raphael,br BRA,DF,Al-Faisaly,27,1992,28.0,8,0,0,30,16,0,4,31,22,0,0,0,2019,968b3d05
+384,Fahad Al Rashidi,sa KSA,MFFW,Al-Taawoun,22,1997,5.0,1,0,0,9,5,1,15,4,9,,,0,2019,cadee715
+385,Murad Al Rashidi,sa KSA,DF,Damac,28,1991,1.1,0,0,0,5,1,0,0,0,0,,,0,2019,8ee766bd
+386,Ahmed Al-Rehaili,sa KSA,GK,Al-Raed,24,1994,1.0,1,0,0,0,0,0,0,0,0,,,0,2019,cd9753ac
+387,Ali Rie,,MF,Al-Ittihad,,,0.3,0,0,0,1,2,0,1,0,0,,,0,2019,3a508244
+388,Abdulrahman Al-Rio,sa KSA,DF,Al-Wehda,25,1994,3.5,0,0,0,2,5,0,6,9,5,0,0,0,2019,31c627aa
+389,Rogerinho,br BRA,MFFW,Al-Ettifaq,32,1987,9.4,0,0,0,10,17,3,13,3,3,0,0,0,2019,e559de59
+390,Romarinho,br BRA,MFFW,Al-Ittihad,28,1990,29.5,3,0,0,24,52,13,17,12,11,0,0,0,2019,d73461ea
+391,Igor Rossi Branco,br BRA,DF,Al-Faisaly,30,1989,30.0,2,0,0,28,25,3,0,38,15,0,0,1,2019,ec84c4ab
+392,Hamdan Al Ruwaili,sa KSA,MFDF,Al-Taawoun,24,1995,2.4,2,0,0,6,3,0,10,0,2,,,0,2019,c06ecb42
+393,Marwane Saâdane,ma MAR,DFMF,Al-Fateh,27,1992,27.7,7,1,0,43,17,3,9,32,36,0,1,0,2019,14f47102
+394,Dawod Al Saeed,sa KSA,GK,Al-Hazem,28,1991,1.0,0,0,0,0,0,0,0,0,0,,,0,2019,5e4fe378
+395,Mohammed Al-Saeed,sa KSA,DFMF,Al-Fateh,22,1996,6.6,0,0,0,12,12,1,19,4,10,0,0,0,2019,f17497b0
+396,Abdulrahman Al Safari,sa KSA,MF,Damac,26,1993,5.2,1,0,0,15,4,0,2,5,11,0,0,0,2019,b5ecf70f
+397,Ziyad Al-Sahafi,sa KSA,DF,Al-Ittihad,24,1994,13.8,4,0,0,11,6,1,0,16,14,0,0,1,2019,1141f1af
+398,Mohammed Al Sahlawi,sa KSA,FW,Al-Taawoun,32,1987,5.0,0,0,0,11,8,0,0,2,3,,,0,2019,2c330ad2
+399,Mohammed Al Sahlawi,sa KSA,FW,Al-Shabab,32,1987,0.9,0,0,0,4,0,0,0,0,1,0,0,0,2019,2c330ad2
+400,Mohammed Al Sahli,sa KSA,FW,Al-Raed,27,1992,3.7,1,0,0,7,8,1,5,2,4,0,0,0,2019,53a6565b
+401,Mohammed Al-Saiari,sa KSA,FW,Al-Wehda,26,1993,1.0,1,1,0,5,4,0,1,1,1,0,0,0,2019,36572437
+402,Mohammed Al-Saiari,sa KSA,FW,Al-Faisaly,26,1993,3.1,4,2,2,7,16,2,4,0,2,,,0,2019,36572437
+403,Bilel Saidani,tn TUN,MF,Damac,26,1993,14.9,5,0,0,17,13,3,16,15,18,,,0,2019,ae0e2db7
+404,Makhir Saleh,sa KSA,DF,Al-Fayha,20,1999,9.7,1,0,0,13,8,0,22,14,16,0,0,0,2019,19f1d85c
+405,Abdulla Al Salem,sa KSA,FW,Al-Ettifaq,26,1992,6.7,0,0,0,11,3,2,5,3,1,,,0,2019,e44fe653
+406,Aiman Salem,sa KSA,MF,Al-Nassr,18,2001,1.3,1,0,0,7,5,0,5,1,0,0,0,0,2019,650eaf9c
+407,Ali Ayesh Al-Salem,sa KSA,DFMF,Al-Adalah,,,3.1,1,0,0,3,4,0,2,3,3,,,0,2019,765a438a
+408,Mohammed Salem,sa KSA,DF,Al-Shabab,33,1985,27.0,10,0,0,33,27,2,14,46,25,0,0,0,2019,47f78a2e
+409,Awn Al Saluli,sa KSA,DF,Al-Fayha,20,1998,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2019,ace2627f
+410,Abdullah Al-Samtai,sa KSA,MF,Damac,,,6.1,2,0,0,11,4,0,2,9,11,,,0,2019,efa25857
+411,Fawaz Al Saqour,sa KSA,DF,Al-Wehda,23,1996,29.6,3,0,0,32,27,2,92,36,39,0,0,0,2019,2f140e11
+412,Elvis Sarić,ba BIH,MF,Al-Ahli,29,1990,20.5,7,0,0,62,20,1,21,42,26,0,0,0,2019,0063a224
+413,Babacar Sarr,sn SEN,DFMF,Damac,28,1991,12.2,0,0,0,19,7,1,2,13,11,0,0,0,2019,caf520fb
+414,Sultan Al-Sawadi,sa KSA,MF,Al-Wehda,26,1992,1.0,1,0,0,1,3,0,5,3,1,,,0,2019,1f95bb35
+415,Sultan Al-Sawadi,sa KSA,MFFW,Al-Raed,26,1992,2.2,1,0,0,5,3,0,8,3,0,0,0,0,2019,1f95bb35
+416,Abdulmajeed Al-Sawat,sa KSA,MFFW,Al-Taawoun,24,1995,14.6,0,0,0,23,43,1,8,6,8,,,0,2019,70053fe3
+417,Ramzi Sawlan,sa KSA,FW,Al-Faisaly,21,1998,1.5,1,0,0,5,6,0,1,0,3,,,0,2019,c6b19f7d
+418,Sebá,br BRA,MFFW,Al-Shabab,27,1992,24.6,7,1,1,44,32,4,66,13,29,0,0,0,2019,64bac8b2
+419,Saad Al-Selouli,sa KSA,MF,Al-Ettifaq,21,1998,9.0,0,0,0,7,25,2,13,4,8,0,0,0,2019,af888475
+420,Hussain Shae'an,sa KSA,GK,Al-Taawoun,30,1989,1.0,0,0,0,0,0,0,0,0,0,,,0,2019,4049ea16
+421,Amer Shafi,jo JOR,GK,Al-Fayha,37,1982,16.0,0,0,0,0,5,1,0,0,0,0,0,0,2019,daba9f12
+422,Abdulaziz Al Shahrani,sa KSA,MFFW,Damac,24,1994,9.0,2,0,0,10,16,1,11,3,11,0,0,0,2019,ea8364d3
+423,Mohammed Al-Shahrani,sa KSA,MF,Damac,23,1996,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2019,23b17efa
+424,Yasser Al-Shahrani,sa KSA,DF,Al-Hilal,27,1992,24.3,7,0,0,30,29,2,77,52,29,0,1,0,2019,251c164e
+425,Ali Al Shaikhi,sa KSA,MF,Al-Ahli,19,2000,0.0,0,0,0,0,0,0,0,0,0,,,0,2019,7bcf0a41
+426,Mohammad Al-Shalhoub,sa KSA,MF,Al-Hilal,38,1980,0.2,0,0,0,0,2,0,3,1,2,,,0,2019,e8c4f275
+427,Abdullah Al-Shamekh,sa KSA,DF,Al-Shabab,26,1993,18.6,5,1,0,30,29,0,31,32,44,0,0,0,2019,d4aeee27
+428,Abdullah Al-Shammari,sa KSA,DF,Al-Hazem,25,1993,15.2,4,0,0,18,7,1,0,35,13,0,0,0,2019,ef09050d
+429,Abdulmalek Al-Shammeri,sa KSA,MF,Al-Shabab,23,1995,1.5,0,0,0,5,1,0,2,2,5,0,0,0,2019,17a030fc
+430,Ahmed Al-Shamrani,sa KSA,DF,Al-Hazem,25,1994,6.3,0,0,0,3,4,1,4,4,10,0,0,0,2019,d0d8252d
+431,Hamdan Al-Shamrani,sa KSA,DFMF,Al-Ittihad,22,1996,22.3,5,1,1,28,30,4,37,36,24,0,0,0,2019,651e0c51
+432,Mohammed Al Shanqiti,sa KSA,DF,Al-Taawoun,20,1999,2.1,1,0,0,2,1,0,12,2,3,,,0,2019,26658b95
+433,Ahmed Sharahili,sa KSA,DF,Al-Shabab,25,1994,20.9,5,0,0,19,10,3,8,44,28,0,0,0,2019,8e9693fd
+434,Khalid Sharahili,sa KSA,GK,Damac,32,1987,2.0,0,0,0,0,1,0,0,0,1,,,0,2019,a890a99e
+435,Riyadh Sharahili,sa KSA,MF,Al-Adalah,26,1993,8.2,2,0,0,10,3,0,4,12,7,0,0,0,2019,3e8326a9
+436,Nader Abdullah Al Sharari,sa KSA,DF,Abha,,,6.8,2,0,0,7,6,0,2,18,6,,,0,2019,f869808c
+437,Mahar Sharoma,td CHA,FW,Al-Adalah,23,1996,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2019,5b866243
+438,Saleh Al-Shehri,sa KSA,FW,Al-Hilal,25,1993,5.1,2,0,0,19,10,4,0,1,5,0,0,0,2019,f4377d0f
+439,Yahya Al-Shehri,sa KSA,MF,Al-Nassr,29,1990,8.2,0,0,0,4,4,0,39,8,4,0,0,0,2019,858a6aab
+440,Muhannad Shenqeeti,sa KSA,DFMF,Al-Ittihad,20,1999,4.7,0,0,0,3,3,0,8,4,9,,,0,2019,a1f6778e
+441,Mohanad Al Shudukhi,sa KSA,MF,Al-Raed,20,1999,0.2,0,0,0,0,0,0,1,0,0,,,0,2019,6e8ee08b
+442,Mohammed Al Shuraymi,sa KSA,DF,Al-Raed,24,1995,9.3,0,0,0,8,11,0,7,10,10,,,0,2019,ba8cac02
+443,Hussein Al Shuwaysh,sa KSA,DF,Al-Raed,30,1988,13.8,4,1,0,12,3,0,4,10,6,0,0,0,2019,a3b6202e
+444,Hani Al Sibyani,sa KSA,DFMF,Al-Fayha,20,1999,9.8,0,0,0,7,8,0,28,10,9,0,0,0,2019,cdcbe892
+445,Luis Gustavo Melere da Silva,br BRA,MF,Al-Wehda,28,1991,15.2,3,0,0,18,31,3,77,8,7,,,0,2019,ac72ed78
+446,Luis Gustavo Melere da Silva,br BRA,MF,Al-Faisaly,28,1991,11.3,2,0,0,19,24,8,68,6,7,0,0,0,2019,ac72ed78
+447,Naïm Sliti,tn TUN,MF,Al-Ettifaq,27,1992,15.2,2,0,0,17,50,5,57,4,10,0,0,0,2019,2e0367a6
+448,Nawaf Al-Sobhi,sa KSA,DF,Al-Fayha,29,1990,13.2,3,0,0,15,9,4,2,20,9,0,0,0,2019,4c5ed269
+449,Omar Al Somah,sy SYR,FW,Al-Ahli,30,1989,23.1,1,0,0,26,19,9,9,6,5,0,0,0,2019,ab170826
+450,Somália,br BRA,MFDF,Al-Shabab,30,1988,6.0,0,0,0,4,10,1,10,7,4,0,0,0,2019,c1febb46
+451,Souza,br BRA,MF,Al-Ettifaq,31,1988,15.0,2,0,0,17,17,0,35,29,18,,,0,2019,441dfe47
+452,Josef de Souza,br BRA,MF,Al-Ahli,30,1989,18.1,5,0,0,42,20,1,6,20,33,0,0,0,2019,fb6530de
+453,Wesam Al-Sowayed,sa KSA,DF,Al-Hazem,31,1987,4.9,1,0,0,11,4,0,16,12,8,0,0,0,2019,fbbcb4fd
+454,Carlos Strandberg,se SWE,FW,Al-Hazem,23,1996,24.2,2,0,0,38,12,15,4,6,4,0,1,0,2019,8c70d3ee
+455,Rabee Sufyani,sa KSA,MFFW,Al-Taawoun,32,1987,14.2,0,0,0,10,36,6,8,1,4,,,0,2019,f2ae48c3
+456,Badr Al-Sulaitin,sa KSA,MF,Al-Adalah,29,1990,3.6,0,0,0,4,4,0,19,3,5,0,0,0,2019,1e3e96ea
+457,Abdulmajeed Al-Sulayhem,sa KSA,MF,Al-Shabab,25,1994,23.0,4,0,0,23,49,1,16,31,14,0,0,0,2019,c2543833
+458,Ahmed Al-Sultan,sa KSA,MFDF,Al-Adalah,26,1993,14.7,5,0,0,23,11,1,21,15,21,0,0,0,2019,7598b0b5
+459,Khaled Al-Sumairi,sa KSA,MF,Al-Ittihad,22,1997,8.1,3,0,0,18,10,0,12,11,17,0,0,0,2019,b822e811
+460,Mehdi Tahrat,dz ALG,DFMF,Abha,29,1990,24.8,4,0,0,17,27,2,8,54,26,0,0,0,2019,ec1aa15e
+461,Hassan Al Tambakti,sa KSA,DF,Al-Wehda,20,1999,7.0,3,0,0,11,2,0,0,13,9,0,0,0,2019,6d78c320
+462,Ibrahima Tandia,ml MLI,MF,Al-Hazem,26,1993,8.1,1,0,0,13,11,4,14,4,13,0,0,0,2019,cfc4b5ff
+463,Léandre Tawamba,cm CMR,FW,Al-Taawoun,29,1989,14.9,1,0,0,34,16,14,12,1,5,,,0,2019,dcd160e4
+464,Mitchell te Vrede,sr SUR,FW,Al-Fateh,27,1991,24.5,1,0,0,39,16,10,4,4,6,0,0,0,2019,28ed34c2
+465,Fawaz Al Terais,sa KSA,MF,Al-Ettifaq,19,2000,8.5,3,0,0,14,23,8,25,3,11,1,0,0,2019,5495afea
+466,Moshari Al-Thamali,sa KSA,MF,Al-Faisaly,27,1992,1.0,0,0,0,2,4,0,0,3,1,,,0,2019,011ffc00
+467,Adama Traoré,ml MLI,MFFW,Al-Adalah,24,1995,15.7,3,0,0,22,33,4,62,8,8,,,0,2019,f9edc384
+468,Bruno Uvini,br BRA,DF,Al-Ittihad,28,1991,16.0,2,0,0,10,7,0,0,23,5,,,0,2019,ecfe4300
+469,Emiliano Vecchio,ar ARG,MFFW,Al-Ittihad,30,1988,8.0,0,0,0,5,10,1,48,3,1,0,0,0,2019,e68e64a4
+470,Carlos Villanueva,cl CHI,MFFW,Al-Fayha,33,1986,15.9,2,0,0,16,23,1,96,7,19,,,0,2019,ff4e7684
+471,Carlos Villanueva,cl CHI,MF,Al-Ittihad,33,1986,9.8,0,0,0,10,9,0,42,8,14,1,0,0,2019,ff4e7684
+472,Sergio Vittor,ar ARG,DF,Damac,30,1989,17.0,1,0,0,12,9,0,1,36,12,,,0,2019,7abfa435
+473,Mohammed Al-Waked,sa KSA,GK,Al-Hilal,27,1992,3.0,0,0,0,0,1,0,0,0,0,0,0,0,2019,be401296
+474,Habib Al Watyan,sa KSA,GK,Al-Fateh,22,1996,12.0,0,0,0,0,1,0,1,0,0,,,0,2019,e1e3c6a1
+475,Gustav Wikheim,no NOR,MFFW,Al-Fateh,26,1993,21.2,3,0,0,23,27,6,78,7,11,0,0,0,2019,063ae595
+476,William,br BRA,FW,Al-Faisaly,27,1991,26.6,0,0,0,29,48,9,8,2,8,0,0,0,2019,aad1353d
+477,Cédric Yamberé,cf CTA,DF,Al-Ettifaq,28,1990,22.6,4,0,0,16,19,0,1,22,29,0,1,1,2019,1c344204
+478,Abdulrahman Al Yami,sa KSA,FWMF,Al-Hazem,22,1997,3.6,1,0,0,4,4,0,5,0,4,1,0,0,2019,4f13fe17
+479,Mohammed Al Yami,sa KSA,GK,Al-Ahli,21,1997,0.9,0,0,0,0,1,0,0,0,0,,,0,2019,0bb0f7c6
+480,Karim Yoda,fr FRA,MF,Al-Hazem,30,1988,8.5,0,0,0,8,6,0,10,3,6,,,0,2019,a7893629
+481,Abdullah Al-Yousaf,sa KSA,DF,Al-Adalah,,,19.5,8,1,1,16,13,2,72,32,31,1,0,0,2019,ea5636f3
+482,Abdullah Al Yousif,sa KSA,DF,Al-Fateh,21,1997,8.0,3,0,0,11,6,1,19,19,9,,,0,2019,484b05c1
+483,Khalid Zailai,fr FRA,MF,Abha,,,1.9,0,0,0,4,2,0,7,1,2,0,0,0,2019,b56a541f
+484,Ahmed Al-Zain,sa KSA,MF,Al-Raed,28,1991,19.3,4,0,0,25,33,5,54,14,19,0,1,0,2019,08e89ce0
+485,Ali Al Zaqan,sa KSA,MF,Al-Fateh,28,1991,18.4,7,0,0,37,18,5,88,15,24,1,0,0,2019,42311b65
+486,Moustapha Zeghba,dz ALG,GK,Al-Wehda,28,1990,11.0,0,0,0,0,6,0,0,0,0,0,0,0,2019,83054751
+487,Moustapha Zeghba,dz ALG,GK,Damac,28,1990,16.0,6,0,0,0,4,0,0,2,0,,,0,2019,83054751
+488,Emilio Zelaya,ar ARG,FW,Damac,32,1987,16.0,1,0,0,36,35,15,8,6,7,,,0,2019,c6500a29
+489,Zezinho,gw GNB,MF,Damac,26,1992,10.4,0,0,0,13,19,0,40,9,9,0,0,0,2019,21b45d64
+490,Abdullah Al-Zori,sa KSA,DF,Al-Shabab,31,1987,10.6,3,0,0,13,3,0,22,22,20,,,0,2019,15b79072
+491,Abdullah Al-Zori,sa KSA,DF,Al-Wehda,31,1987,11.5,3,0,0,8,5,2,13,19,10,0,0,0,2019,15b79072
+492,Jehad Al-Zowayed,sa KSA,MF,Abha,30,1989,1.4,0,0,0,0,3,0,1,0,0,,,0,2019,2efcd428
+493,Ibrahim Al-Zubaidi,sa KSA,DF,Al-Taawoun,30,1989,7.4,2,0,0,11,6,0,19,21,8,,,0,2019,e3c9e369
+494,Mohammed Al-Zubaidi,sa KSA,DF,Al-Hazem,21,1997,12.3,5,0,0,16,7,2,44,19,14,0,0,0,2019,ccff75bb
+495,Ervin Zukanović,ba BIH,DF,Al-Ahli,32,1987,3.0,1,0,0,4,0,0,0,0,0,0,0,0,2019,1253a12e
+1,Osama Aashor,sa KSA,DFMF,Ohod,28,1990,7.6,4,1,0,17,9,0,18,14,13,0,1,0,2018,0c4b21fc
+2,Mohamed Abdel-Shafy,eg EGY,DF,Al-Ahli,33,1985,22.0,1,0,0,18,17,1,57,48,18,0,2,0,2018,f948de7f
+3,Ghazi Abderrazzak,tn TUN,DF,Ohod,31,1986,13.0,1,0,0,16,13,3,44,16,26,1,0,0,2018,4b7dc8be
+4,Ahmed Abdoh Jaber,sa KSA,FW,Al-Wehda,,,14.4,1,0,0,29,24,14,2,7,14,1,2,0,2018,de575e95
+5,Omar Abdulaziz,sa KSA,MF,Al-Faisaly,34,1983,5.1,0,0,0,5,8,0,1,4,5,0,0,0,2018,6da62f98
+6,Hussein Abdulghani,sa KSA,DF,Al-Ahli,41,1977,3.0,3,0,0,5,5,0,10,8,2,0,0,0,2018,2d903040
+7,Hussein Abdulghani,sa KSA,DF,Ohod,41,1977,11.0,3,0,0,10,17,1,82,25,21,0,1,0,2018,2d903040
+8,Saud Abdulhamid,sa KSA,DF,Al-Ittihad,19,1999,13.5,3,0,0,23,13,0,27,53,29,0,0,0,2018,caa254e4
+9,Waleed Abdullah,sa KSA,GK,Al-Nassr,32,1986,6.1,0,0,0,0,1,0,0,1,0,0,0,0,2018,aec6d2a5
+10,Omar Abdulrahman,ae UAE,FWMF,Al-Hilal,26,1991,4.0,0,0,0,0,8,0,32,3,0,0,0,0,2018,ef8e0e73
+11,Nawaf Al Abed,sa KSA,MF,Al-Hilal,28,1990,3.6,1,0,0,5,10,0,26,2,3,0,0,0,2018,bfef5c87
+12,Mazen Abo Shararah,sa KSA,MFFW,Al-Raed,27,1991,3.2,1,0,0,7,12,2,3,2,4,0,0,0,2018,fb2c45c6
+13,Abdulrahman Al-Aboud,sa KSA,MFDF,Al-Ettifaq,23,1995,11.5,7,0,0,22,24,2,46,14,20,0,0,0,2018,9bf54a3b
+14,Mohammed Abousaban,sa KSA,MFFW,Al-Faisaly,28,1990,2.4,2,0,0,4,1,0,1,3,6,0,0,0,2018,8ca1a8cd
+15,Talal Al-Absi,sa KSA,DF,Al-Taawoun,25,1993,25.5,6,1,1,32,18,1,5,46,31,0,1,0,2018,9373e369
+16,Abdulfattah Adam,sa KSA,FW,Al-Taawoun,23,1995,12.2,3,0,0,22,16,7,7,3,4,2,0,0,2018,1193a1a8
+17,Matías Aguirregaray,uy URU,DF,Al-Fateh,29,1989,24.6,6,0,0,13,27,1,59,41,19,2,1,0,2018,8617e3d9
+18,Karim El Ahmadi,ma MAR,MF,Al-Ittihad,33,1985,22.7,8,0,0,52,25,0,19,24,67,0,1,0,2018,0ff9eabc
+19,Mohammed Ahmed Alhaeti,sa KSA,GK,Al-Ettifaq,,,1.5,1,0,0,1,1,0,1,0,0,0,1,0,2018,cd36d655
+20,Ahmed Akaïchi,tn TUN,FW,Al-Ettifaq,29,1989,9.8,1,0,0,11,8,13,15,1,2,0,0,0,2018,b9bf7735
+21,Joseph Akpala,ng NGA,FW,Al-Faisaly,31,1986,8.2,1,0,0,10,13,6,0,3,5,0,0,0,2018,a1737fe0
+22,Brahian Alemán,uy URU,MFFW,Al-Ettifaq,28,1989,23.7,4,2,1,30,83,2,137,27,25,0,0,0,2018,32a7d080
+23,Alemão,br BRA,DF,Al-Hazem,27,1990,29.0,4,0,0,27,43,0,4,87,66,0,2,0,2018,86686dc2
+24,Alexis,es ESP,DF,Al-Ahli,32,1985,6.9,2,1,0,9,7,0,0,16,4,0,0,0,2018,db0cd1ae
+25,Shaye Ali Sharahili,sa KSA,MFDF,Al-Qadsiah,28,1990,11.8,4,0,0,21,18,1,9,12,21,0,0,0,2018,60ad2f84
+26,Salem Ali,sa KSA,MF,Al-Hazem,19,1999,1.1,1,0,0,2,1,0,1,0,4,0,0,0,2018,703be27f
+27,Gilbert Álvarez,bo BOL,FW,Al-Hazem,26,1992,3.2,0,0,0,2,3,4,3,2,0,0,0,0,2018,9e243bfd
+28,Cédric Amissi,bi BDI,MF,Al-Taawoun,28,1990,25.0,8,1,1,59,23,3,13,35,38,0,0,0,2018,99567a58
+29,Abdullah Al-Ammar,sa KSA,DF,Al-Ittihad,24,1994,3.1,0,0,0,0,0,0,10,3,3,0,0,0,2018,156ca542
+30,Abdullah Al-Ammar,sa KSA,DF,Al-Fateh,24,1994,9.0,1,0,0,10,1,0,21,13,12,0,0,0,2018,156ca542
+31,Turki Al Ammar,sa KSA,MF,Al-Shabab,18,1999,0.9,1,0,0,1,3,0,2,2,3,0,0,0,2018,eae082f7
+32,Sari Amr,sa KSA,DF,Al-Wehda,28,1989,7.6,2,0,0,16,7,0,20,16,25,0,1,0,2018,07f4b3bd
+33,Nordin Amrabat,ma MAR,MF,Al-Nassr,31,1987,23.6,4,0,0,76,63,22,166,5,19,0,0,0,2018,7c2a398c
+34,Abdulelah Al-Amri,sa KSA,DF,Al-Wehda,21,1997,11.2,1,0,0,13,9,0,3,35,18,0,0,0,2018,fd0affe3
+35,Hassan Al-Amri,sa KSA,MF,Al-Qadsiah,24,1994,2.6,4,1,1,8,14,2,4,1,10,0,0,0,2018,7bee2789
+36,Mohammed Al-Amri,sa KSA,DFMF,Al-Raed,26,1991,17.5,4,0,0,27,30,2,37,17,22,1,1,0,2018,6d020acc
+37,Saleh Al-Amri,sa KSA,MFFW,Al-Wehda,24,1993,6.7,3,0,0,12,11,4,27,4,9,0,1,0,2018,912fc5a8
+38,Rakan Al Anaze,sa KSA,FW,Al-Nassr,20,1998,0.6,0,0,0,1,0,0,1,0,1,0,0,0,2018,c11a2a30
+39,Fahad Al Ansari,kw KUW,MF,Al-Faisaly,31,1987,24.6,2,0,0,19,25,2,51,28,23,0,0,0,2018,907d3e49
+40,Luiz Antônio,br BRA,MF,Al-Shabab,27,1991,28.4,3,0,0,36,31,1,49,29,40,0,0,0,2018,b462c35b
+41,Muhanna Al Anzi,sa KSA,DF,Al-Batin,34,1983,24.1,5,0,0,19,69,0,35,47,28,0,0,0,2018,2d434f0a
+42,Apodi,br BRA,MFDF,Ohod,31,1986,14.0,1,0,0,18,29,5,46,13,16,1,0,0,2018,affbe6bc
+43,Johan Arango,co COL,MFFW,Al-Batin,27,1991,8.6,4,0,0,17,18,1,32,5,13,0,0,0,2018,570bc7f6
+44,Ramón Arias,uy URU,DF,Al-Ettifaq,26,1992,25.3,7,0,0,28,31,7,5,61,37,0,4,0,2018,8b6d7b27
+45,Arthur,br BRA,MFFW,Al-Shabab,26,1992,10.3,0,0,0,10,33,6,22,13,6,0,0,0,2018,4a870f60
+46,Abdulaziz Al-Aryani,sa KSA,FW,Al-Ittihad,22,1996,2.7,0,0,0,4,5,0,2,1,0,0,0,0,2018,781b3ecf
+47,Abdulfattah Asiri,sa KSA,MFFW,Al-Ahli,24,1994,12.2,3,0,0,18,31,7,59,3,10,2,0,0,2018,507de9f6
+48,Jaber Asiri,sa KSA,FW,Al-Wehda,20,1997,0.4,0,0,0,0,0,1,0,0,0,0,0,0,2018,4b12fc3b
+49,Ali Al Asmari,sa KSA,MF,Ohod,21,1997,10.4,1,0,0,16,14,0,30,9,13,0,0,0,2018,5fc89dc8
+50,Malik Asselah,dz ALG,GK,Al-Hazem,32,1986,30.0,4,1,1,0,13,0,0,0,2,0,0,0,2018,9e23b6c3
+51,Ahmed Assiri,sa KSA,DF,Al-Ittihad,26,1991,18.0,3,0,0,16,9,0,0,43,25,0,2,0,2018,55905950
+52,Muhannad Assiri,sa KSA,FW,Al-Ahli,31,1986,6.5,3,0,0,9,13,6,2,1,5,0,0,0,2018,e64f7470
+53,Mohammed Attiah,sa KSA,MF,Ohod,26,1991,17.5,5,0,0,21,47,4,72,10,15,1,0,0,2018,214ec85c
+54,Mohamed Atwa,eg EGY,DF,Al-Raed,28,1990,26.9,1,0,0,11,14,0,4,48,21,0,1,1,2018,2190d204
+55,Mohamed Awad,eg EGY,GK,Al-Wehda,26,1992,26.6,1,0,0,2,5,0,0,2,4,0,2,0,2018,f8eac44d
+56,Mohammed Awaji,sa KSA,GK,Al-Shabab,23,1994,2.0,1,0,0,1,0,0,0,0,0,0,1,0,2018,05280490
+57,Fares Al-Ayyaf,sa KSA,MF,Al-Hazem,26,1992,14.2,2,0,0,15,16,0,5,18,20,0,0,0,2018,e5311b09
+58,Claudio Baeza,cl CHI,MF,Al-Ahli,24,1993,10.8,3,0,0,19,7,1,4,16,31,0,0,0,2018,9ba1c30c
+59,Hattan Bahebri,sa KSA,MF,Al-Hilal,26,1992,3.0,2,0,0,14,4,1,9,2,4,0,0,0,2018,b4f50ff5
+60,Hattan Bahebri,sa KSA,MF,Al-Shabab,26,1992,10.5,4,0,0,28,18,3,32,12,19,0,0,0,2018,b4f50ff5
+61,Abdullah Al Bahri,sa KSA,GK,Al-Ettifaq,23,1995,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,064c8835
+62,Jamal Bajandouh,sa KSA,MF,Al-Ittihad,25,1992,13.2,3,0,0,19,7,0,2,26,23,0,0,0,2018,3c749115
+63,Masood Bakheet,sa KSA,DF,Al-Hazem,,,23.7,8,2,1,24,9,0,33,25,26,0,1,0,2018,ccb876a6
+64,Yazeid Al Bakr,sa KSA,DF,Al-Faisaly,22,1995,21.6,2,0,0,14,21,0,26,35,43,2,0,0,2018,d4356234
+65,Waleed Bakshween,sa KSA,MF,Al-Wehda,28,1989,18.3,5,0,0,33,35,1,6,32,41,0,0,0,2018,c95bbd27
+66,Ageel Balghaith,sa KSA,DF,Al-Faisaly,31,1987,15.7,3,1,0,18,9,0,13,30,19,0,2,0,2018,de8628b3
+67,Ahmed Bamsaud,td CHA,MFDF,Al-Fayha,22,1995,6.4,2,0,0,6,6,0,9,15,21,0,0,0,2018,d050e3bd
+68,Alkhaly Bangoura,gn GUI,MF,Al-Fateh,22,1996,8.4,3,0,0,14,11,1,30,3,13,0,0,0,2018,f0885403
+69,Ismaël Bangoura,gn GUI,FW,Al-Raed,33,1985,7.1,1,1,0,13,9,3,3,2,1,0,0,0,2018,d255c356
+70,Ismaël Bangoura,gn GUI,FW,Al-Batin,33,1985,4.9,1,0,0,10,8,5,7,0,4,0,0,0,2018,d255c356
+71,Mohammed Al Baqawi,sa KSA,DF,Al-Hilal,23,1995,2.0,0,0,0,1,3,0,8,3,0,0,0,0,2018,5e138c20
+72,Mohammed Al Baqawi,sa KSA,MF,Al-Shabab,23,1995,2.1,0,0,0,1,2,0,2,1,2,0,0,0,2018,5e138c20
+73,Baraka,br BRA,MF,Al-Batin,32,1986,28.0,2,0,0,52,23,3,8,43,55,0,1,0,2018,5f747dd3
+74,Abdulrahman Al-Barakah,sa KSA,MF,Al-Fayha,27,1990,23.6,3,0,0,27,20,1,8,40,29,1,1,0,2018,e678cb90
+75,Khaled Al-Barakah,sa KSA,DF,Al-Hazem,27,1990,23.5,7,0,0,32,16,1,52,51,37,0,2,0,2018,a5510d11
+76,Yassin Barnawi,sa KSA,DF,Al-Ittihad,24,1993,2.0,0,0,0,3,1,0,2,3,2,0,0,0,2018,4bfcaa3d
+77,Yassin Barnawi,sa KSA,DF,Al-Qadsiah,24,1993,11.2,3,0,0,6,21,0,22,18,13,0,1,0,2018,4bfcaa3d
+78,Bader Basheer,sa KSA,MF,Al-Faisaly,20,1997,0.8,0,0,0,2,0,0,0,2,2,0,0,0,2018,b8019e05
+79,Abdu Al Basisi,sa KSA,GK,Ohod,41,1977,2.8,1,0,0,1,2,0,0,1,0,0,1,0,2018,52a92714
+80,Rami Bedoui,tn TUN,DFMF,Al-Fayha,28,1990,5.7,1,0,0,4,2,1,2,10,4,0,0,0,2018,bc844eb7
+81,Aymen Belaïd,tn TUN,DF,Ohod,29,1989,8.0,1,0,0,7,6,0,0,9,11,0,0,0,2018,5a050d70
+82,Hatem Belal,sa KSA,MF,Al-Qadsiah,24,1994,8.7,2,0,0,27,6,0,0,11,18,0,0,0,2018,1805a551
+83,Hicham Belkaroui,dz ALG,DF,Al-Raed,27,1990,17.0,4,0,0,16,9,0,1,29,7,0,2,0,2018,a88b5479
+84,Mokhtar Belkhiter,dz ALG,DF,Al-Qadsiah,26,1992,13.0,3,0,0,13,8,0,54,26,13,0,1,0,2018,5e58e41e
+85,Farouk Ben Mustapha,tn TUN,GK,Al-Shabab,29,1989,27.0,2,0,0,4,11,0,0,2,1,0,3,0,2018,7b3c3cdf
+86,Fakhreddine Ben Youssef,tn TUN,MFFW,Al-Ettifaq,27,1991,13.9,3,0,0,16,18,4,19,7,8,0,0,0,2018,ca6f10e6
+87,Djamel Benlamri,dz ALG,DFMF,Al-Shabab,28,1989,24.3,8,1,0,30,62,0,4,53,59,0,1,0,2018,2ab14aaa
+88,Nahir Besara,se SWE,FWMF,Al-Fayha,27,1991,8.0,0,0,0,4,11,3,32,4,4,0,0,0,2018,2fadcd15
+89,Seif Bin Hussein,sa KSA,DF,Al-Hazem,,,1.0,0,0,0,0,1,0,0,2,0,0,0,0,2018,196593d2
+90,Fahad bin Jumayah,sa KSA,MF,Al-Nassr,23,1995,5.5,1,0,0,13,13,0,28,5,10,0,0,0,2018,b444c502
+91,Khalid bin Shuwayyi,sa KSA,DF,Al-Nassr,22,1996,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,bfc5e12b
+92,Abdulaziz Al-Bishi,sa KSA,MF,Al-Ittihad,24,1994,5.2,1,0,0,5,26,0,15,2,9,1,0,0,2018,778e66d1
+93,Abdulaziz Al-Bishi,sa KSA,MF,Al-Faisaly,24,1994,11.2,1,0,0,15,29,1,21,5,19,0,0,0,2018,778e66d1
+94,Abdullah Al Bishi,sa KSA,DF,Al-Qadsiah,22,1996,1.6,1,0,0,3,1,0,1,8,3,0,0,0,2018,99d8165a
+95,Jufain Al-Bishi,sa KSA,DF,Al-Taawoun,31,1987,2.4,1,0,0,2,2,0,1,9,1,0,0,0,2018,d9158585
+96,Cristian Bonilla,co COL,GK,Al-Fayha,25,1993,15.0,1,0,0,1,4,0,0,3,0,0,0,0,2018,d7f032a0
+97,Alberto Botía,es ESP,DF,Al-Hilal,29,1989,25.4,8,1,1,40,11,2,1,36,18,1,0,0,2018,7f6bff1f
+98,Aziz Bouhaddouz,ma MAR,FW,Al-Batin,31,1987,9.3,0,0,0,18,14,3,4,6,8,0,0,0,2018,2c143d6c
+99,M'barek Boussoufa,ma MAR,MF,Al-Shabab,33,1984,12.7,3,0,0,30,25,1,60,11,17,0,0,0,2018,da17c670
+100,Mohammed Al-Breik,sa KSA,DF,Al-Hilal,25,1992,25.3,8,0,0,35,36,0,134,44,40,2,0,0,2018,bd448676
+101,Tawfiq Bu Haymid,sa KSA,DFMF,Al-Fayha,31,1987,17.8,6,1,1,36,27,6,50,34,33,0,1,1,2018,e0571685
+102,Constantin Budescu,ro ROU,MFFW,Al-Shabab,29,1989,16.4,2,0,0,18,19,3,123,7,5,0,0,0,2018,2196d7d2
+103,Ali Al-Bulaihi,sa KSA,DF,Al-Hilal,28,1989,24.1,7,0,0,24,20,0,2,48,15,0,2,0,2018,8d7b2936
+104,Firas Al-Buraikan,sa KSA,FW,Al-Nassr,18,2000,1.1,0,0,0,0,0,0,0,0,0,0,0,0,2018,ac717a23
+105,Diego Calderón Caicedo,co COL,FWMF,Al-Faisaly,28,1989,23.9,5,0,0,23,45,11,24,11,19,1,0,0,2018,fa0f3441
+106,Haroune Camara,sa KSA,FW,Al-Qadsiah,20,1998,20.0,3,0,0,46,25,26,12,3,15,2,0,0,2018,804de447
+107,Thiago Carleto,br BRA,DFMF,Al-Ittihad,29,1989,3.8,1,0,0,7,7,0,31,2,4,0,0,0,2018,1c50ba0b
+108,André Carrillo,pe PER,MFFW,Al-Hilal,27,1991,18.8,2,1,0,33,9,4,83,9,35,0,0,0,2018,7527558b
+109,Cássio,pt POR,GK,Al-Taawoun,37,1980,29.0,3,0,0,3,4,0,1,2,6,0,2,0,2018,5d3888a5
+110,Iury de Castilho,br BRA,FW,Al-Fayha,22,1995,1.3,0,0,0,5,2,0,1,0,2,0,0,0,2018,555311f2
+111,Renato Chaves,br BRA,DF,Al-Wehda,28,1990,28.0,6,0,0,27,7,1,2,53,38,0,0,1,2018,2a51efe8
+112,Ibrahim Chenihi,dz ALG,MFFW,Al-Fateh,28,1990,27.7,0,0,0,19,25,5,100,11,17,1,0,0,2018,ad11e268
+113,Amine Chermiti,tn TUN,FW,Al-Fayha,30,1987,4.9,0,0,0,12,7,6,5,0,5,0,0,0,2018,fec0a1f5
+114,Emre Çolak,tr TUR,MFFW,Al-Wehda,27,1991,10.0,0,0,0,5,17,0,36,5,8,0,0,0,2018,643b39a6
+115,Manuel da Costa,ma MAR,DF,Al-Ittihad,32,1986,11.0,0,0,0,16,10,0,0,24,9,0,1,0,2018,50e14b3c
+116,Crysan,br BRA,MFFW,Al-Batin,22,1996,25.6,4,0,0,54,74,6,74,14,45,3,0,0,2018,70acbadc
+117,Jhonnattann Da Conceicao,br BRA,FW,Al-Taawoun,29,1989,2.5,1,0,0,6,6,0,12,2,2,0,0,0,2018,df71cf8d
+118,Jhonnattann Da Conceicao,br BRA,MFFW,Al-Batin,29,1989,13.2,4,0,0,10,17,2,61,18,3,0,0,0,2018,df71cf8d
+119,Nasser Al-Daajani,de GER,DF,Al-Taawoun,,,0.3,0,0,0,0,0,0,2,0,0,0,0,0,2018,9e5feb14
+120,Ammar Al-Daheem,sa KSA,DF,Al-Ittihad,24,1993,4.7,4,0,0,7,5,0,0,5,5,0,0,0,2018,3f870b06
+121,Faisal Darisi,sa KSA,DF,Al-Ahli,21,1997,0.3,0,0,0,0,0,0,0,0,1,0,0,0,2018,238d775d
+122,Faisel Darwish,sa KSA,DFMF,Al-Wehda,27,1991,14.9,3,0,0,14,7,2,20,29,23,0,0,0,2018,f3492968
+123,Jonathan David Gómez,ar ARG,MFFW,Al-Fayha,28,1989,5.2,3,1,1,7,21,1,19,6,4,0,0,0,2018,c911d311
+124,Nasser Al-Dawsari,sa KSA,MF,Al-Hilal,19,1998,4.6,4,1,1,22,4,0,9,4,13,0,0,0,2018,7709e4a6
+125,Salem Al-Dawsari,sa KSA,MFFW,Al-Hilal,26,1991,21.4,3,1,1,33,45,9,52,12,29,1,1,0,2018,60ee859c
+126,Sultan Al-Deayea,sa KSA,DF,Al-Fateh,25,1993,0.8,0,0,0,0,1,0,0,1,1,0,0,0,2018,bd303049
+127,Miloš Degenek,au AUS,DFMF,Al-Hilal,24,1994,9.9,3,0,0,14,5,0,0,13,11,0,0,0,2018,c8e65157
+128,Denílson,br BRA,FW,Al-Faisaly,23,1995,7.4,1,0,0,5,10,4,1,4,2,0,0,0,2018,4447f575
+129,Mohammed Al-Dhafiri,sa KSA,MF,Al-Batin,,,3.2,0,0,0,4,14,0,1,4,1,0,0,0,2018,9c60e1ec
+130,Omar Dhakel,sa KSA,MF,Al-Ittihad,19,1999,0.2,2,1,1,2,2,0,0,0,0,0,0,0,2018,c3d58cf2
+131,Mohammed Sayed Al-Dhaw,sa KSA,MF,Ohod,24,1993,14.1,6,0,0,33,38,6,13,7,25,1,0,0,2018,1ff30b38
+132,Abdulrahman Al Dhifeeri,sa KSA,MF,Al-Batin,,,0.8,0,0,0,3,0,0,0,4,3,0,0,0,2018,da72d05e
+133,Paulo Díaz,cl CHI,DFMF,Al-Ahli,23,1994,23.1,7,2,1,36,22,1,5,46,27,0,1,0,2018,3906e923
+134,Djaniny,cv CPV,FW,Al-Ahli,27,1991,16.8,1,0,0,20,37,9,30,8,13,1,0,0,2018,77ac1d89
+135,Jumaan Al Dosari,sa KSA,DF,Al-Fateh,31,1987,5.5,3,1,1,6,6,0,9,12,13,0,0,0,2018,1a5e5436
+136,Abdurahman Al-Dossari,sa KSA,MF,Al-Nassr,20,1997,4.0,1,0,0,5,2,1,0,10,7,0,0,0,2018,77d0ff42
+137,Jamaan Al-Dossari,sa KSA,DF,Al-Faisaly,24,1993,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,fd874fb6
+138,Saeed Al-Dossari,sa KSA,MF,Al-Taawoun,28,1990,5.0,0,0,0,5,1,1,8,6,8,0,0,0,2018,3e83c259
+139,Saeed Al-Dossari,sa KSA,MF,Al-Hazem,28,1990,1.0,0,0,0,1,1,0,0,3,1,0,0,0,2018,3e83c259
+140,Azzedine Doukha,dz ALG,GK,Al-Raed,31,1986,29.0,3,0,0,2,9,0,0,2,2,0,0,0,2018,1b7f3530
+141,Jack Duncan,au AUS,GK,Al-Qadsiah,25,1993,28.5,1,0,0,0,4,0,2,0,0,0,0,0,2018,99002f6f
+142,Carlos Eduardo,br BRA,MF,Al-Hilal,28,1989,24.5,2,1,0,33,55,4,124,11,10,5,0,0,2018,1a234d32
+143,Haroon Eissa,sa KSA,MF,Ohod,25,1993,1.6,0,0,0,0,0,1,3,0,0,0,0,0,2018,86e0b3c7
+144,Jaber Essa,sa KSA,MF,Al-Ittihad,21,1997,1.4,0,0,0,4,2,0,3,1,6,0,0,0,2018,05ffa4e1
+145,Euller,br BRA,DFMF,Al-Shabab,23,1995,8.9,2,1,0,11,17,2,30,13,8,0,1,0,2018,45ef868f
+146,Adriano Facchini,br BRA,GK,Al-Batin,35,1983,24.8,2,0,0,0,4,0,0,0,1,0,0,0,2018,ceb48718
+147,Abdullah Al-Fahad,sa KSA,DF,Al-Raed,24,1994,14.8,3,1,1,15,24,0,13,31,22,0,0,0,2018,03bb177f
+148,Sultan Fahran,sa KSA,MF,Al-Raed,21,1996,21.1,4,0,0,31,13,0,5,35,35,0,0,0,2018,9d854e95
+149,Abdulmohsen Fallatah,sa KSA,DF,Al-Qadsiah,24,1994,4.3,2,0,0,4,0,0,1,6,2,0,0,0,2018,70f91950
+150,Adnan Fallatah,sa KSA,DF,Al-Qadsiah,34,1983,14.8,5,1,1,11,22,0,29,38,12,0,0,0,2018,41de0f37
+151,Fawaz Fallatah,sa KSA,DF,Al-Qadsiah,29,1989,6.2,3,0,0,6,4,0,0,14,13,0,1,0,2018,a1fe92f9
+152,Muhannad Fallatah,sa KSA,MF,Al-Fayha,22,1996,8.1,2,0,0,8,7,0,1,13,16,0,0,0,2018,d90583f9
+153,Mukhtar Fallatah,sa KSA,FW,Al-Qadsiah,30,1987,1.6,1,0,0,5,7,0,0,0,1,1,0,0,2018,dfd4ab7a
+154,Salman Al-Faraj,sa KSA,MF,Al-Hilal,28,1989,6.0,2,0,0,6,8,0,9,5,7,1,0,0,2018,df145034
+155,Nawaf Al Farshan,sa KSA,MF,Al-Nassr,20,1998,0.8,0,0,0,3,1,0,0,1,3,0,0,0,2018,b80a2694
+156,Mohammed Fatau,gh GHA,MF,Al-Qadsiah,25,1992,8.5,2,0,0,20,13,0,0,11,15,0,1,0,2018,b4dd30a0
+157,Mohammed Al Fatil,sa KSA,DF,Al-Ahli,26,1992,21.6,5,0,0,27,10,0,3,40,29,0,0,0,2018,688a1587
+158,Carlos Feraud,ec ECU,MF,Al-Hazem,27,1990,6.9,0,0,0,10,12,0,23,12,21,0,1,0,2018,a3aff379
+159,Fernandão,br BRA,FW,Al-Wehda,31,1987,9.3,2,0,0,14,10,4,1,3,3,0,0,0,2018,7fcdacec
+160,Ronnie Fernández,cl CHI,FW,Al-Fayha,27,1991,12.9,1,0,0,35,29,5,3,3,8,1,0,0,2018,4b364742
+161,Bismark Ferreira,br BRA,MFFW,Al-Qadsiah,25,1993,26.9,2,0,0,40,68,8,67,23,31,0,0,0,2018,8e51ef77
+162,Ahmed Al Fiqi,sa KSA,MF,Al-Hilal,25,1992,2.1,0,0,0,3,3,1,8,2,3,0,0,0,2018,4403fbc2
+163,Mohamed Fouzair,ma MAR,MF,Ohod,26,1991,7.8,2,0,0,16,29,2,22,9,22,1,0,0,2018,1a2e7a2b
+164,Ahmed Al-Fraidi,sa KSA,MF,Al-Nassr,30,1988,2.1,0,0,0,3,2,0,0,2,2,0,0,0,2018,b5b18abc
+165,Moslem Al Freej,sa KSA,GK,Al-Fayha,30,1988,2.2,0,0,0,0,1,0,0,0,1,0,0,0,2018,3d438767
+166,Mohammed Al-Fuhaid,sa KSA,MFDF,Al-Fateh,28,1990,26.6,8,1,0,37,25,0,4,51,43,0,1,0,2018,7d1b903f
+167,Joao Gabriel,br BRA,DF,Al-Batin,29,1989,2.0,1,0,0,4,0,0,0,3,3,0,0,0,2018,bc4c2a0b
+168,Valerică Găman,ro ROU,DF,Al-Shabab,29,1989,27.0,6,0,0,30,17,3,6,55,15,0,0,1,2018,cf41510e
+169,Gegé,cv CPV,DF,Al-Fayha,30,1988,19.7,4,0,0,14,6,1,2,42,14,0,2,0,2018,e78aef8d
+170,Ibrahim Ghaleb,sa KSA,MFDF,Al-Nassr,27,1990,7.0,0,0,0,13,19,0,3,16,11,0,0,0,2018,fb3d909c
+171,Abdulrahman Al-Ghamdi,sa KSA,MFFW,Al-Ittihad,23,1994,9.9,1,0,0,22,19,4,8,4,12,0,0,0,2018,d45e687c
+172,Feras Al Ghamdi,sa KSA,MF,Al-Ahli,18,1999,0.5,0,0,0,0,1,0,2,0,0,0,0,0,2018,969fff6e
+173,Hamed Al-Ghamdi,sa KSA,MF,Al-Ettifaq,19,1999,0.4,0,0,0,1,0,0,2,2,2,0,0,0,2018,785b975b
+174,Khalid Al-Ghamdi,sa KSA,DF,Al-Raed,30,1988,3.1,1,0,0,4,6,0,8,15,3,0,0,0,2018,c97ab0b1
+175,Raed Al-Ghamdi,sa KSA,MF,Ohod,24,1994,0.7,0,0,0,0,0,0,0,0,2,0,0,0,2018,9366f883
+176,Raed Al-Ghamdi,sa KSA,FW,Al-Batin,24,1994,9.6,1,0,0,8,16,2,5,2,6,0,0,0,2018,9366f883
+177,Sultan Al-Ghanam,sa KSA,DF,Al-Nassr,24,1994,26.0,5,0,0,42,34,2,71,49,47,0,1,0,2018,0ea89f8d
+178,Yassine El Ghanassy,be BEL,MFFW,Al-Raed,28,1990,9.8,1,0,0,5,12,4,31,8,11,0,0,0,2018,0049d544
+179,Khalid Al Ghannam,sa KSA,MF,Al-Qadsiah,17,2000,0.2,0,0,0,0,0,0,0,0,2,0,0,0,2018,c16843c7
+180,Abdulrahman Ghareeb,sa KSA,FWMF,Al-Ahli,21,1997,6.6,0,0,0,6,13,0,15,3,6,0,0,0,2018,8472683b
+181,Fahad Ghazi,sa KSA,MFDF,Al-Shabab,24,1994,6.7,3,0,0,20,2,2,28,9,13,0,0,0,2018,d60fd28e
+182,Sultan Ghunaiman,sa KSA,DF,Al-Batin,28,1989,15.9,4,0,0,17,9,3,8,45,13,0,0,1,2018,e663a9f9
+183,Sebastian Giovinco,it ITA,MFFW,Al-Hilal,31,1987,6.4,1,0,0,10,17,3,52,1,3,0,0,0,2018,2b7c18ae
+184,Ahmed Gomaa,eg EGY,FW,Ohod,29,1988,5.5,1,0,0,10,9,2,0,1,2,0,0,0,2018,8f508aa9
+185,Élton José Xavier Gomes,br BRA,MFFW,Al-Qadsiah,32,1986,27.0,3,0,0,24,15,7,123,18,21,0,0,0,2018,76bbcfa9
+186,Bafétimbi Gomis,fr FRA,FW,Al-Hilal,32,1985,28.2,1,0,0,28,24,31,6,1,5,2,0,0,2018,3d6686f9
+187,Cristian Guanca,ar ARG,FWMF,Al-Ettifaq,25,1993,26.3,1,0,0,30,20,7,40,13,18,0,0,0,2018,05341453
+188,Marcos Guilherme,br BRA,MFFW,Al-Wehda,22,1995,27.4,4,0,0,20,12,4,32,6,16,0,0,0,2018,d5ff6084
+189,Nawaf Al Habashi,sa KSA,FW,Al-Shabab,20,1998,0.5,0,0,0,2,0,0,2,0,0,0,0,0,2018,73cfd4fe
+190,Ahmed Al-Habib,sa KSA,DF,Al-Ettifaq,25,1993,7.1,4,0,0,19,6,0,0,20,4,0,0,0,2018,8c6f0010
+191,Hassan Al-Habib,sa KSA,MF,Al-Ettifaq,23,1994,7.5,3,1,0,20,22,5,6,7,8,0,0,0,2018,6431c256
+192,Ali Al-Habsi,om OMA,GK,Al-Hilal,36,1981,20.8,2,0,0,1,4,0,0,0,0,0,1,0,2018,032f766b
+193,Rakan Al-Hafdhi,sa KSA,FWMF,Ohod,22,1995,3.9,1,0,0,13,6,1,1,1,5,0,0,0,2018,288b382a
+194,Abdullah Al-Hafith,sa KSA,DF,Al-Ettifaq,25,1992,8.2,0,0,0,6,6,0,0,8,8,0,1,0,2018,95d8222d
+195,Tamer Haj Mohamad,sy SYR,MF,Ohod,30,1988,23.6,7,0,0,32,10,0,5,56,43,0,0,0,2018,7b805063
+196,Othman Al Haj,sa KSA,MFFW,Al-Ahli,24,1994,1.8,0,0,0,2,0,2,3,2,1,0,0,0,2018,72d691c0
+197,Muteb Al-Hamaad,sa KSA,FW,Al-Batin,19,1998,1.1,2,0,0,1,3,1,0,1,1,0,0,0,2018,937f775c
+198,Fahad Hamad,sa KSA,MF,Ohod,28,1989,5.2,3,0,0,12,7,1,16,6,10,0,0,0,2018,b22aff4e
+199,Abderrazak Hamdallah,ma MAR,FW,Al-Nassr,27,1990,24.4,5,0,0,37,34,14,4,5,7,7,1,0,2018,fe73f8c6
+200,Abdullah Al Hamdan,sa KSA,FW,Al-Shabab,18,1999,2.1,2,0,0,5,5,1,3,1,5,0,0,0,2018,cc4b5436
+201,Salem Al-Hamdan,sa KSA,DF,Al-Hazem,26,1992,1.0,0,0,0,1,1,0,4,1,1,0,0,0,2018,e5371c90
+202,Ahmed Hamoudane,ma MAR,MFFW,Al-Raed,27,1991,24.9,6,0,0,29,35,4,52,13,20,3,0,0,2018,99b2347f
+203,Yassin Hamzah,sa KSA,DF,Al-Fateh,27,1990,17.7,2,0,0,15,15,1,1,32,18,0,2,1,2018,94f31ace
+204,Mansor Hamzi,sa KSA,MF,Al-Fateh,26,1992,19.7,2,0,0,20,49,7,36,18,21,2,0,0,2018,a76a5951
+205,Mansoor Al-Harbi,sa KSA,DF,Al-Ittihad,30,1987,22.5,0,0,0,19,12,2,89,36,19,0,0,0,2018,6ae9c5e1
+206,Yousef Al Harbi,sa KSA,MF,Al-Ahli,21,1997,4.5,4,1,1,17,4,1,5,4,13,0,0,0,2018,87b5229b
+207,Nawaf Al Harthi,sa KSA,MF,Al-Wehda,19,1998,0.4,0,0,0,0,0,0,0,0,1,0,0,0,2018,87759f59
+208,Ferhan Hasani,mk MKD,MF,Al-Raed,28,1990,19.3,1,0,0,17,48,0,60,18,15,1,0,0,2018,73f4cba4
+209,Ali Al Hassan,sa KSA,MFFW,Al-Fateh,21,1997,8.5,2,0,0,12,7,0,6,16,15,0,0,0,2018,68b689fa
+210,Abdullah Hassun,sa KSA,DF,Al-Ahli,21,1997,4.8,0,0,0,10,2,1,19,10,10,0,0,0,2018,c62f17d0
+211,Abdullah Hussain Al Hawsawi,sa KSA,DF,Al-Faisaly,33,1985,3.0,1,0,0,1,3,0,1,6,4,0,0,0,2018,b922ac10
+212,Motaz Hawsawi,sa KSA,DF,Al-Ahli,26,1992,0.7,0,0,0,1,1,0,0,2,0,0,0,0,2018,2d370b86
+213,Omar Hawsawi,sa KSA,DF,Al-Nassr,32,1985,13.0,0,0,0,15,8,1,0,22,11,0,1,0,2018,6caca8e5
+214,Osama Hawsawi,sa KSA,DF,Al-Wehda,34,1984,11.8,0,0,0,5,5,0,0,12,6,1,0,1,2018,af5c59c3
+215,Hazaa Al-Hazaa,sa KSA,FWMF,Al-Ettifaq,26,1991,6.2,2,0,0,2,10,8,3,2,2,0,0,0,2018,1bbcb4c8
+216,Ali Hazazi,sa KSA,MF,Al-Ettifaq,24,1994,23.4,5,1,1,39,17,2,4,54,53,1,0,0,2018,7f093d00
+217,Majed Hazazi,sa KSA,DF,Al-Fateh,30,1988,3.0,0,0,0,3,2,0,6,12,3,0,0,0,2018,73406e3b
+218,Majed Hazazi,sa KSA,DF,Ohod,30,1988,12.4,0,1,0,18,5,1,43,27,15,0,0,0,2018,73406e3b
+219,Naif Hazazi,sa KSA,MF,Al-Qadsiah,25,1992,15.3,3,0,0,23,11,1,9,30,22,0,3,0,2018,1a3644b4
+220,Naif Hazazi,sa KSA,MF,Ohod,30,1988,1.6,1,0,0,6,0,1,1,0,1,0,0,0,2018,0471b1db
+221,Waleed Hazem,sa KSA,MF,Al-Shabab,23,1994,2.6,1,0,0,6,10,0,0,5,6,0,0,0,2018,188401af
+222,Abdulbasit Hindi,sa KSA,DF,Al-Ahli,21,1997,7.9,3,0,0,8,4,0,3,19,9,0,1,0,2018,854e39bb
+223,Zeyad Al Hunayti,sa KSA,MFDF,Ohod,21,1997,2.4,0,0,0,4,1,0,0,11,1,0,1,0,2018,8bb255be
+224,Jehad Al-Hussain,sy SYR,MFFW,Al-Taawoun,36,1982,18.7,1,0,0,16,35,4,19,10,13,3,0,0,2018,5e6bf61f
+225,Saif Hussain,sa KSA,DF,Al-Hazem,25,1993,16.3,5,0,0,25,11,0,0,34,22,0,2,2,2018,26979800
+226,Khaleem Hyland,tt TRI,MF,Al-Faisaly,29,1989,28.0,6,0,0,40,31,0,10,25,41,0,0,0,2018,4e755d03
+227,Kennedy Igboananike,ng NGA,FWMF,Al-Hazem,29,1989,6.4,0,0,0,5,8,2,5,3,2,0,0,0,2018,c434903d
+228,Hassan Jaafari,sa KSA,MFFW,Al-Fayha,27,1991,8.7,2,0,0,15,13,4,21,11,14,0,0,0,2018,831450cd
+229,Abdulwahab Jaafer,sa KSA,MF,Al-Hazem,24,1993,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2018,4331184d
+230,Abdullah Al Jadani,sa KSA,GK,Al-Wehda,26,1991,3.4,2,0,0,0,1,0,0,0,1,0,0,0,2018,d0e20c59
+231,Mohammed Jahfali,sa KSA,DF,Al-Hilal,27,1990,5.3,2,0,0,5,3,0,0,17,6,0,0,0,2018,65ed1735
+232,John Jairo Ruiz,cr CRC,MF,Al-Fayha,24,1994,2.7,1,0,0,7,5,0,15,5,3,0,0,0,2018,9cdef765
+233,Taisir Al-Jassim,sa KSA,MF,Al-Ahli,34,1984,3.5,2,0,0,15,10,0,1,6,2,0,0,0,2018,ef5c4d7d
+234,Taisir Al-Jassim,sa KSA,MF,Al-Wehda,34,1984,5.6,0,0,0,8,5,0,2,2,2,0,0,0,2018,ef5c4d7d
+235,Issam Jebali,tn TUN,MFFW,Al-Wehda,26,1991,9.3,0,0,0,24,12,4,18,3,13,0,0,0,2018,4b751020
+236,Abdulaziz Al-Jebreen,sa KSA,MF,Al-Nassr,28,1990,9.5,5,0,0,20,21,0,2,18,31,0,0,0,2018,cf6a0f9b
+237,Fahad Al-Johani,sa KSA,MF,Al-Batin,26,1991,11.3,3,0,0,31,12,1,21,9,11,0,0,0,2018,a9bafb60
+238,Jonas,br BRA,MF,Al-Ittihad,26,1991,12.3,4,0,0,27,18,0,2,36,32,0,2,0,2018,f2dbada6
+239,Brad Jones,au AUS,GK,Al-Nassr,36,1982,23.4,1,0,0,0,7,0,0,1,0,0,0,0,2018,ffc1c226
+240,Jorginho,br BRA,MFFW,Al-Qadsiah,27,1991,7.5,1,1,0,10,11,6,4,9,11,0,0,0,2018,1f809750
+241,Abdullah Al-Jouei,sa KSA,MF,Al-Taawoun,23,1995,0.1,0,0,0,1,1,0,0,0,0,0,0,0,2018,78ccb727
+242,Saša Jovanović,rs SRB,MFFW,Al-Fateh,26,1991,7.8,1,0,0,14,10,8,14,2,3,0,0,0,2018,73c56892
+243,Hamad Al-Juhaim,sa KSA,FW,Al-Fateh,30,1987,10.9,3,0,0,25,17,9,4,9,6,1,0,0,2018,c2889712
+244,Matthew Jurman,au AUS,DF,Al-Ittihad,28,1989,10.9,3,0,0,10,5,0,1,13,12,0,0,0,2018,f57920cc
+245,Khalid Kaabi,sa KSA,MFFW,Al-Shabab,26,1992,8.0,2,0,0,12,20,4,9,12,7,1,0,0,2018,d3f1e57e
+246,Hassan Kadesh,sa KSA,DF,Al-Hilal,25,1992,10.4,2,0,0,12,10,0,40,19,22,0,1,0,2018,7165f2e9
+247,Tareq Al-Kaebi,sa KSA,DF,Al-Hazem,25,1992,1.5,1,0,0,3,1,0,1,1,3,0,0,0,2018,c2cac662
+248,Youssef Kalfa,sy SYR,MF,Al-Qadsiah,25,1993,4.9,0,0,0,3,9,0,9,11,6,0,0,0,2018,904beb3f
+249,Youssef Kalfa,sy SYR,MFFW,Al-Hazem,25,1993,14.8,1,0,0,18,33,3,61,8,29,1,0,0,2018,904beb3f
+250,Majed Kanabah,sa KSA,MFFW,Al-Batin,25,1993,19.0,6,0,0,45,22,1,11,26,19,0,0,0,2018,005fcf63
+251,Abdullah Kanno,sa KSA,DFFW,Al-Fayha,28,1990,9.5,5,1,1,14,11,1,2,21,20,0,0,0,2018,da7c3b22
+252,Mohamed Kanno,sa KSA,MF,Al-Hilal,23,1994,27.6,4,1,1,48,18,0,12,40,41,0,0,0,2018,74ccf212
+253,Kanu,br BRA,MF,Al-Raed,30,1987,10.4,3,0,0,29,17,1,5,8,19,0,0,0,2018,a489cd68
+254,Kabongo Kasongo,cd COD,FW,Al-Wehda,24,1994,3.9,0,0,0,5,6,1,0,0,6,1,0,0,2018,09d8842d
+255,Sami Kassar,sa KSA,MFDF,Ohod,28,1990,15.4,0,0,0,21,15,8,39,10,13,0,1,0,2018,5ae76e74
+256,Mohammed Al-Khabrani,sa KSA,DF,Al-Qadsiah,24,1993,23.8,5,0,0,17,11,0,2,39,20,0,0,1,2018,614b7be3
+257,Abdullah Al-Khaibari,sa KSA,MF,Al-Shabab,21,1996,9.2,3,0,0,12,13,0,2,18,7,0,0,0,2018,ab47ae1c
+258,Abdullah Al-Khaibari,sa KSA,MF,Al-Nassr,21,1996,6.3,0,0,0,5,7,0,1,3,10,0,0,0,2018,ab47ae1c
+259,Ali Al Khaibari,sa KSA,DF,Al-Ettifaq,29,1989,6.0,1,0,0,5,2,2,0,9,7,0,0,0,2018,d0dffdc7
+260,Sami Al-Khaibari,sa KSA,DF,Al-Fayha,28,1989,26.3,10,1,1,28,21,0,4,61,40,0,2,0,2018,07e3e282
+261,Abdulmalek Al-Khaibri,sa KSA,MF,Al-Hilal,32,1986,3.1,0,0,0,3,1,1,1,9,2,0,0,0,2018,b07bb1c8
+262,Saad Al Khairi,sa KSA,DFMF,Al-Ettifaq,23,1995,3.0,1,0,0,5,3,0,4,6,8,0,0,0,2018,0342e8cb
+263,Osama Al-Khalaf,sa KSA,DFMF,Al-Ettifaq,21,1996,5.0,1,0,0,12,12,0,8,15,5,0,1,0,2018,1f4ea94e
+264,Osama Al-Khalaf,sa KSA,MFDF,Al-Hazem,21,1996,11.8,2,0,0,29,25,0,21,33,27,0,0,0,2018,1f4ea94e
+265,Awadh Khames,sa KSA,DFMF,Al-Nassr,30,1988,13.8,4,0,0,11,23,3,12,28,14,0,0,0,2018,eb0eeb4a
+266,Omar Kharbin,sy SYR,FW,Al-Hilal,24,1994,1.2,0,0,0,1,2,0,3,3,0,1,0,0,2018,ac2c69d9
+267,Ali Khormi,sa KSA,MF,Al-Hazem,27,1990,3.6,0,0,0,9,9,4,12,3,4,0,0,0,2018,01423d69
+268,Awadh Khrees,sa KSA,DF,Al-Faisaly,27,1991,3.0,1,0,0,8,4,0,10,5,3,0,1,0,2018,8884f642
+269,Ayman Al-Khulaif,sa KSA,MF,Al-Ahli,21,1997,1.4,0,0,0,2,3,0,4,1,1,0,0,0,2018,e77f77bf
+270,Filip Kiss,sk SVK,MF,Al-Ettifaq,27,1990,21.0,6,0,0,60,19,0,4,23,55,0,1,1,2018,2e88cabe
+271,Nikita Korzun,by BLR,MF,Al-Fateh,23,1995,10.5,5,0,0,20,9,0,2,26,32,0,0,0,2018,22b752ee
+272,Maksym Koval,ua UKR,GK,Al-Fateh,25,1992,29.0,2,0,0,1,11,0,0,4,0,0,1,0,2018,60713cb3
+273,Mohammed Al-Kwikbi,sa KSA,MF,Al-Ettifaq,23,1994,23.2,4,0,0,25,33,5,72,32,34,0,1,0,2018,f055c890
+274,Zouheir Laaroubi,ma MAR,GK,Ohod,34,1984,15.2,2,0,0,1,5,0,1,4,2,0,1,0,2018,1d9a7213
+275,Ali Lajami,sa KSA,DF,Al-Fateh,22,1996,13.6,2,0,0,11,12,1,4,47,32,0,0,0,2018,46f7ab4f
+276,Daniel Lopes Amora,br BRA,MF,Al-Raed,30,1987,28.6,5,0,0,34,10,2,11,33,40,0,0,0,2018,0504edb1
+277,Raïs M'Bolhi,dz ALG,GK,Al-Ettifaq,32,1986,21.3,3,0,0,3,7,0,0,0,1,0,2,0,2018,c121a641
+278,Moussa Maâzou,ne NIG,FW,Ohod,29,1988,2.0,0,0,0,2,1,3,3,0,0,0,0,0,2018,2e3a2bd9
+279,Ricardo Machado,pt POR,DF,Al-Taawoun,29,1988,19.5,4,0,0,14,15,1,0,30,14,0,0,0,2018,5652e8f5
+280,Abdullah Madu,sa KSA,DF,Al-Nassr,25,1993,4.8,0,0,0,8,1,0,3,1,6,0,0,0,2018,9c3523a4
+281,Ismael Al-Maghrebi,sa KSA,FW,Al-Taawoun,27,1991,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2018,c833fff2
+282,Ismael Al-Maghrebi,sa KSA,FW,Ohod,27,1991,2.6,1,0,0,2,4,1,2,0,1,0,0,0,2018,c833fff2
+283,Abdullah Magrashi,sa KSA,DF,Al-Ahli,20,1997,0.3,0,0,0,0,0,0,1,3,0,0,0,0,2018,62fad6f8
+284,Abdullah Magrashi,sa KSA,MF,Ohod,20,1997,1.9,1,0,0,3,3,0,0,1,6,0,0,0,2018,62fad6f8
+285,Ibrahim Mahnashi,sa KSA,MF,Al-Ettifaq,18,1999,8.0,1,0,0,12,20,0,3,16,10,0,0,0,2018,bcee44d8
+286,Maicon,br BRA,DF,Al-Nassr,29,1988,7.0,0,0,0,3,2,1,0,8,6,0,0,0,2018,2a8683b9
+287,Mohammed Al Majhad,sa KSA,MFDF,Al-Fateh,20,1998,21.1,3,0,0,30,25,2,67,35,36,0,0,0,2018,4d316353
+288,Abdulaziz Majrashi,sa KSA,DF,Al-Ettifaq,27,1991,2.0,1,0,0,2,2,0,1,5,5,0,0,0,2018,f653a25b
+289,Abdulaziz Majrashi,sa KSA,MF,Al-Batin,27,1991,7.9,1,0,0,5,6,1,6,10,13,0,0,0,2018,481acdc2
+290,Ali Majrashi,sa KSA,MF,Al-Shabab,18,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,cd23146c
+291,Mohammed Majrashi,sa KSA,MFFW,Al-Faisaly,27,1991,4.3,2,0,0,7,4,1,0,0,2,0,0,0,2018,39425891
+292,Mohammed Majrashi,sa KSA,MFFW,Ohod,27,1991,8.2,1,1,0,14,8,2,2,8,2,0,1,0,2018,39425891
+293,Mustafa Malayekah,sa KSA,GK,Al-Faisaly,32,1986,30.0,1,0,0,0,6,0,0,1,1,0,0,0,2018,86c45703
+294,Osama Malik,au AUS,MFDF,Al-Batin,27,1990,4.4,0,0,0,4,4,0,0,8,2,0,0,0,2018,5a62ac58
+295,Abdulellah Al-Malki,sa KSA,MF,Al-Wehda,23,1994,9.1,6,0,0,21,9,0,1,15,9,0,0,0,2018,3bcd2730
+296,Sandro Manoel,br BRA,MF,Al-Taawoun,30,1988,25.2,6,0,0,47,21,1,73,55,60,0,0,0,2018,75b66b24
+297,Hamad Al Mansour,sa KSA,DF,Al-Nassr,25,1993,10.1,2,0,0,15,16,0,35,13,22,0,0,0,2018,121df375
+298,José Manuel Jurado,es ESP,MFFW,Al-Ahli,32,1986,14.2,2,0,0,7,28,1,74,3,13,0,0,0,2018,71d4e271
+299,Hamed Al Maqati,sa KSA,MFFW,Al-Hazem,,,2.6,0,0,0,4,8,1,1,1,6,0,0,0,2018,aaa62be8
+300,Naif Al Mas,sa KSA,DF,Al-Nassr,18,2000,1.0,0,0,0,2,0,0,0,1,1,0,1,0,2018,8498374a
+301,Nawaf Mashea,sa KSA,MF,Ohod,,,0.3,0,0,0,0,3,0,0,0,0,0,0,0,2018,5f8dec85
+302,Faisel Masrahi,sa KSA,GK,Al-Qadsiah,25,1993,1.5,1,0,0,0,2,0,0,0,0,0,0,0,2018,4bd0d221
+303,Khalifa Al-Masrahi,sa KSA,DF,Al-Ettifaq,,,1.9,0,0,0,0,0,0,2,5,1,0,0,0,2018,5d767832
+304,Sultan Masrahi,sa KSA,DF,Al-Batin,31,1987,17.2,2,0,0,12,5,0,1,26,16,0,0,0,2018,3766951d
+305,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,31,1987,9.2,0,0,0,0,2,0,0,1,1,0,0,0,2018,c3c96222
+306,Ali Al-Mazidi,sa KSA,GK,Al-Fateh,32,1985,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,a75cacfd
+307,Ilombe Mboyo,be BEL,FWMF,Al-Raed,31,1987,9.9,2,0,0,16,7,6,16,2,5,0,0,0,2018,5b88e820
+308,Zidane Mebarakou,dz ALG,DF,Al-Wehda,29,1989,10.5,1,0,0,7,4,3,7,19,8,0,0,0,2018,54bdbf17
+309,Carl Medjani,dz ALG,MF,Ohod,33,1985,13.4,1,0,0,14,9,5,7,13,9,0,0,0,2018,70c2f41a
+310,Sultan Mendash,sa KSA,MF,Al-Faisaly,23,1994,14.7,2,0,0,17,27,5,22,5,32,0,0,0,2018,8738a7a1
+311,Sahow Metlaq,sa KSA,MF,Al-Batin,30,1988,1.0,1,0,0,3,2,0,0,1,3,0,0,0,2018,d7205e43
+312,Bruno Michel,br BRA,MFFW,Ohod,19,1999,5.1,0,0,0,2,16,3,33,2,5,0,0,0,2018,244629a5
+313,Salman Al-Moasher,sa KSA,MF,Al-Ahli,29,1988,14.4,2,0,0,17,23,5,39,14,12,0,0,0,2018,2678bece
+314,Nayed Mohammad Kariri,sa KSA,DF,Al-Fayha,,,0.7,1,0,0,1,0,0,0,1,0,0,0,0,2018,2b9318a3
+315,Omar Mohammed Hawsawi,sa KSA,DF,Ohod,25,1993,18.5,8,1,0,24,16,0,4,37,44,0,2,0,2018,b014f99e
+316,Tariq Mohammed,sa KSA,DF,Al-Ittihad,22,1995,1.6,0,0,0,3,2,0,3,3,11,0,0,0,2018,5fab7c9b
+317,Mohammed Mohsen Harzan,sa KSA,MF,Al-Hazem,29,1989,4.2,0,0,0,5,15,0,2,3,3,0,0,0,2018,1024431e
+318,Hussain Al Moqahwi,sa KSA,MFFW,Al-Ahli,30,1988,12.4,2,0,0,13,41,2,30,10,23,2,0,0,2018,7dfe2bb0
+319,Anselmo de Moraes,br BRA,MF,Al-Wehda,29,1989,17.4,5,1,1,40,11,0,1,24,59,0,0,0,2018,2bb57ba0
+320,Danilo Moreno Asprilla,co COL,FWMF,Al-Fayha,29,1989,27.8,6,0,0,27,71,13,59,10,11,2,0,0,2018,33c21071
+321,Yasser Al Mosailem,sa KSA,GK,Al-Ahli,34,1984,4.0,0,0,0,0,2,0,0,0,0,0,0,0,2018,6869a0aa
+322,Naif Al-Mousa,sa KSA,DF,Al-Taawoun,31,1986,3.8,1,0,0,9,2,0,9,10,2,0,0,0,2018,ce449112
+323,Nooh Al-Mousa,sa KSA,MF,Al-Ahli,27,1991,14.4,3,0,0,37,11,0,13,21,32,0,0,0,2018,7027b0fe
+324,Ryan Al-Mousa,sa KSA,MF,Al-Taawoun,24,1994,6.2,4,0,0,15,4,0,1,11,10,0,0,0,2018,ca06995b
+325,Saeed Al Mowalad,sa KSA,DFMF,Al-Ahli,27,1991,24.2,5,0,0,19,17,1,65,54,29,0,4,0,2018,0816e7c8
+326,Hassan Muath Fallatah,sa KSA,DFFW,Al-Ittihad,32,1986,4.2,2,0,0,7,2,0,11,8,0,0,0,0,2018,7b086470
+327,Hassan Muath Fallatah,sa KSA,DF,Al-Shabab,32,1986,10.5,2,1,1,11,10,1,50,8,6,0,0,0,2018,7b086470
+328,Muteb Al Mufarrij,sa KSA,DF,Al-Taawoun,21,1996,15.0,3,0,0,17,12,2,0,23,12,0,0,0,2018,247a033a
+329,Abdullah Al Mugren,sa KSA,MFFW,Al-Raed,21,1996,4.1,0,0,0,8,7,0,7,3,8,0,0,0,2018,9155d8fe
+330,Mojahed Al-Munee,sa KSA,FW,Al-Hazem,22,1996,2.7,1,0,0,7,3,2,0,3,4,0,0,0,2018,259309ca
+331,Muralha,br BRA,MF,Al-Hazem,25,1993,27.9,6,0,0,49,25,3,15,66,63,0,0,0,2018,3d2e5200
+332,Ahmed Musa,ng NGA,MF,Al-Nassr,25,1992,21.9,0,0,0,23,26,4,50,17,13,0,0,0,2018,b7084daf
+333,Yahya Al Musallam,sa KSA,DF,Al-Raed,31,1987,1.3,0,0,0,0,3,0,1,3,1,0,0,0,2018,3b1e3bbb
+334,Ismael Musallami,sa KSA,MF,Al-Hazem,,,3.2,0,0,0,6,5,1,3,3,6,0,0,0,2018,34c635f3
+335,Abdullah Al-Mutairi,sa KSA,MF,Al-Fayha,32,1986,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2018,ad8e96f2
+336,Maher Al Mutairi,sa KSA,MF,Al-Hazem,19,1999,0.3,0,0,0,0,1,0,0,0,1,0,0,0,2018,9572f699
+337,Muteb Mansour Al-Mutairi,sa KSA,DF,Al-Batin,,,1.0,0,0,0,3,4,0,2,2,4,0,0,0,2018,b85c7fba
+338,Muteb Al-Mutlaq,sa KSA,DF,Al-Raed,20,1997,9.2,0,0,0,5,5,2,28,27,10,0,0,0,2018,f20dce66
+339,Essam Al Muwallad,sa KSA,MF,Al-Ittihad,19,1999,0.1,0,0,0,0,1,0,1,1,0,0,0,0,2018,50427952
+340,Fahad Al Muwallad,sa KSA,MFFW,Al-Ittihad,23,1994,20.0,6,0,0,30,39,16,68,3,18,2,0,0,2018,23f32ea1
+341,Mansour Al Muwallad,sa KSA,FW,Al-Taawoun,21,1997,0.0,0,0,0,1,0,0,0,0,0,0,0,0,2018,7847f2df
+342,Omar Al-Muziel,sa KSA,DFMF,Al-Ittihad,26,1992,7.5,3,0,0,20,9,0,23,22,10,0,1,0,2018,5392dc45
+343,Omar Al-Muziel,sa KSA,DFMF,Al-Fayha,26,1992,6.6,5,1,1,8,2,3,17,12,4,0,0,0,2018,5392dc45
+344,Mohamed Naamani,dz ALG,DF,Al-Fateh,27,1990,15.8,5,0,0,21,4,2,2,20,21,0,0,0,2018,8c7a0357
+345,Ahmed Al-Nadhri,sa KSA,MF,Al-Fateh,25,1993,3.8,0,0,0,1,6,0,4,3,0,1,0,0,2018,9be1c263
+346,Guy-Hervé Nady,ci CIV,MF,Al-Qadsiah,26,1991,10.7,1,0,0,12,5,0,4,18,15,0,0,0,2018,7775f6ee
+347,Ammar Al-Najar,sa KSA,MF,Al-Ittihad,21,1997,0.1,0,0,0,1,0,0,1,0,1,0,0,0,2018,374dd9bc
+348,Ammar Al-Najar,sa KSA,DF,Al-Fateh,21,1997,1.2,1,0,0,3,1,0,12,0,4,0,0,0,2018,374dd9bc
+349,Mansour Al Najar,sa KSA,DFMF,Al-Qadsiah,,,7.1,2,1,1,11,15,0,6,17,20,0,1,0,2018,5d97a43d
+350,Sami Al-Najei,sa KSA,MF,Al-Qadsiah,21,1997,1.7,0,0,0,3,5,0,1,1,2,0,0,0,2018,978e29d3
+351,Rakan Najjar,sa KSA,GK,Al-Ittihad,23,1995,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,1102da02
+352,Majed Al-Najrani,sa KSA,MF,Al-Fayha,25,1993,2.7,0,0,0,4,4,0,2,2,5,0,0,0,2018,bfa3eeab
+353,Mesfer Al Najrani,sa KSA,MF,Al-Qadsiah,24,1994,0.1,0,0,0,0,0,0,2,0,0,0,0,0,2018,1d158419
+354,Bader Badi Al-Nakhli,sa KSA,DF,Ohod,29,1988,0.5,1,0,0,2,1,0,2,0,0,0,0,0,2018,a954efe3
+355,Hussain Al Nakhli,sa KSA,FW,Al-Fayha,20,1998,1.1,1,0,0,4,7,1,0,1,0,0,0,0,2018,e2989a12
+356,Munther Nakhli,sa KSA,MF,Al-Fateh,,,0.4,0,0,0,1,0,0,0,0,0,0,0,0,2018,686fd5ae
+357,Naldo,br BRA,MF,Al-Fayha,28,1990,2.6,0,0,0,3,1,1,2,2,1,0,0,0,2018,6d904d98
+358,Bander Nasser,sa KSA,DF,Al-Batin,28,1990,25.0,5,0,0,17,12,1,44,58,44,0,0,0,2018,394bb33c
+359,Ali Al Nemer,sa KSA,MF,Al-Wehda,26,1991,15.0,2,0,0,27,41,1,31,15,22,1,1,0,2018,4d20e7a7
+360,Ignatiy Nesterov,uz UZB,GK,Ohod,35,1983,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,282fe401
+361,Abdurahman Al-Obaid,sa KSA,DF,Al-Nassr,25,1993,11.0,2,0,0,10,13,0,87,17,19,0,0,0,2018,bd016f97
+362,Carlos Ohene,gh GHA,MF,Ohod,25,1993,13.6,3,1,1,29,39,3,16,22,16,0,0,0,2018,84792a7a
+363,Madallah Al-Olayan,sa KSA,DF,Al-Taawoun,23,1994,24.3,5,1,1,28,40,1,57,63,47,1,0,0,2018,6a287291
+364,Nasser Al Omran,sa KSA,MF,Al-Shabab,21,1997,0.5,0,0,0,0,1,0,0,0,0,0,0,0,2018,57f65da4
+365,Ibrahim Al Otaibi,sa KSA,MF,Al-Taawoun,21,1997,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2018,d6b17c0f
+366,Saqer Otaif,sa KSA,FW,Al-Raed,27,1990,0.3,0,0,0,1,0,0,1,0,0,0,0,0,2018,2a3e2c5c
+367,Saqer Otaif,sa KSA,MF,Ohod,27,1990,2.6,1,0,0,6,9,1,6,4,5,0,0,0,2018,2a3e2c5c
+368,Yahya Otain,sa KSA,MF,Al-Raed,28,1990,1.3,0,0,0,1,0,0,0,2,0,0,0,0,2018,12521c67
+369,Abdullah Otayf,sa KSA,MF,Al-Hilal,25,1992,10.2,1,0,0,11,20,0,6,19,24,0,0,0,2018,508d44cf
+370,Rómulo Otero,ve VEN,MFFW,Al-Wehda,25,1992,22.1,3,0,0,46,84,4,149,10,27,1,0,0,2018,96fdc3c0
+371,Omar Al Oudah,sa KSA,DFMF,Al-Fayha,19,1998,7.9,4,1,1,11,10,2,23,19,8,0,0,0,2018,8308e199
+372,Abdelkader Oueslati,tn TUN,MFFW,Al-Fateh,26,1991,17.6,3,0,0,26,14,3,47,5,10,0,0,0,2018,dc90d163
+373,Aboubakar Oumarou,cm CMR,FW,Al-Qadsiah,31,1987,4.2,1,0,0,9,9,2,5,0,3,1,0,0,2018,a1d351b4
+374,Zied Ounalli,tn TUN,MFFW,Al-Batin,24,1994,10.0,5,0,0,16,35,4,16,6,17,2,0,0,2018,ab6b622a
+375,Mohammed Al-Owais,sa KSA,GK,Al-Ahli,26,1991,26.0,2,0,0,0,4,0,0,1,0,0,0,0,2018,f2c060c6
+376,Abdullah Al-Owaishir,sa KSA,GK,Al-Nassr,27,1991,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2018,6a1fe279
+377,Abdullah Al-Owaishir,sa KSA,GK,Ohod,27,1991,6.0,1,0,0,0,2,0,0,0,0,0,0,0,2018,6a1fe279
+378,John Pajoy,co COL,MF,Al-Hazem,29,1988,23.9,3,0,0,38,44,14,85,17,21,1,0,0,2018,2e46b7e3
+379,Giuliano de Paula,br BRA,MF,Al-Nassr,28,1990,29.7,0,0,0,16,31,2,96,18,21,1,0,0,2018,ab1b205d
+380,Aleksandar Pešić,rs SRB,FW,Al-Ittihad,26,1992,8.9,1,0,0,15,13,6,5,0,1,0,0,0,2018,a2f2d806
+381,Nildo Petrolina,br BRA,MF,Al-Taawoun,32,1986,12.1,2,0,0,23,29,4,73,8,19,0,0,0,2018,9deb2fde
+382,Petros,br BRA,MF,Al-Nassr,29,1989,25.4,3,1,0,46,83,1,13,30,56,0,1,1,2018,7773f73b
+383,Aleksandar Prijović,rs SRB,FW,Al-Ittihad,28,1990,9.2,0,0,0,8,9,6,10,1,1,1,0,0,2018,aec63b70
+384,Ante Puljić,hr CRO,DF,Al-Faisaly,30,1987,19.6,2,0,0,15,7,4,1,22,16,1,1,0,2018,5a8e0f9c
+385,Abdulkareem Al-Qahtani,sa KSA,MFDF,Al-Fayha,25,1993,12.9,3,0,0,16,21,1,62,15,12,0,1,0,2018,8728cc08
+386,Abdulmohsen Al-Qahtani,sa KSA,MF,Al-Qadsiah,19,1999,2.1,0,0,0,0,5,0,1,0,2,0,0,0,2018,e92c0d8d
+387,Hussain Al Qahtani,sa KSA,MF,Al-Faisaly,23,1994,3.4,1,0,0,8,2,0,0,2,6,0,1,0,2018,b2bffddf
+388,Assaf Al-Qarni,sa KSA,GK,Al-Ittihad,34,1984,7.0,0,0,0,0,0,0,0,1,0,0,0,0,2018,71ea7c96
+389,Dhaifallah Al-Qarni,sa KSA,MF,Al-Fayha,29,1988,13.5,0,0,0,22,10,1,16,17,20,0,0,0,2018,55efbba6
+390,Fawaz Al-Qarni,sa KSA,GK,Al-Ittihad,26,1992,22.0,0,0,0,0,6,0,0,0,3,0,0,0,2018,5e08e9d2
+391,Mohammed Al-Qarni,sa KSA,MF,Al-Wehda,28,1989,6.4,3,0,0,8,4,0,2,15,17,0,1,0,2018,00cc0377
+392,Hussain Qassem,sa KSA,DF,Al-Ettifaq,20,1997,4.3,2,1,0,10,6,0,10,4,13,0,1,0,2018,d1c15013
+393,Mohammed Qassem,sa KSA,DF,Al-Ittihad,23,1995,0.1,1,0,0,1,2,0,0,0,0,0,0,0,2018,e9342cf8
+394,Mohammed Qassem,sa KSA,DF,Al-Fayha,23,1995,2.1,0,0,0,4,6,0,8,6,4,0,1,0,2018,e9342cf8
+395,Mohammed Al-Qathami,sa KSA,MF,Al-Wehda,25,1993,0.3,0,0,0,0,1,0,1,0,1,0,0,0,2018,419e8e20
+396,Saleh Al-Qumaizi,sa KSA,DF,Al-Ettifaq,26,1991,1.5,0,0,0,1,0,0,3,0,2,0,0,0,2018,d4a82c5a
+397,Saleh Al-Qumaizi,sa KSA,DF,Al-Shabab,26,1991,10.1,2,0,0,18,8,2,33,27,6,0,0,0,2018,d4a82c5a
+398,Saeed Al Rabiei,sa KSA,DF,Al-Ettifaq,24,1993,14.3,10,0,0,28,4,2,0,46,18,0,3,0,2018,1e318a33
+399,Hassan Al Raheb,sa KSA,FW,Al-Shabab,34,1983,1.9,1,0,0,1,4,3,0,0,0,0,0,0,2018,97573dd8
+400,Christian Ramos,pe PER,DF,Al-Nassr,29,1988,8.8,2,1,1,10,2,1,1,8,9,0,0,0,2018,87196c85
+401,Héldon Ramos,cv CPV,MFFW,Al-Taawoun,29,1988,24.3,4,0,0,34,41,18,131,20,17,3,0,0,2018,64ded08c
+402,Fahad Al Rashidi,sa KSA,FW,Al-Hilal,21,1997,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2018,cadee715
+403,Fahad Al Rashidi,sa KSA,FW,Ohod,21,1997,0.8,0,0,0,0,1,0,3,0,0,0,0,0,2018,cadee715
+404,Mohammed Reeman,sa KSA,DF,Al-Ittihad,21,1996,1.0,1,0,0,3,0,0,0,2,1,0,0,0,2018,295a28f1
+405,Misael Riascos,co COL,FWMF,Al-Batin,27,1991,5.5,0,0,0,5,9,0,5,3,3,0,0,0,2018,0fe649bb
+406,Ribamar,br BRA,FW,Ohod,21,1997,10.5,1,0,0,17,25,3,5,4,10,0,0,0,2018,2d1494d9
+407,Abdulrahman Al-Rio,sa KSA,DFMF,Al-Hazem,24,1994,10.3,1,0,0,13,8,0,12,20,16,0,1,0,2018,31c627aa
+408,Gelmin Rivas,ve VEN,FW,Al-Hilal,29,1989,4.9,1,0,0,13,1,3,3,0,1,0,0,0,2018,c1ad37dc
+409,Rodolfo,br BRA,MFFW,Al-Hazem,25,1993,22.6,4,0,0,37,39,8,112,19,18,0,2,0,2018,0e122410
+410,Garry Rodrigues,cv CPV,MFFW,Al-Ittihad,27,1990,8.3,0,0,0,7,11,9,24,1,8,0,0,0,2018,149895bf
+411,Rogerinho,br BRA,MFFW,Al-Faisaly,31,1987,27.1,1,0,0,28,63,5,33,9,10,1,0,0,2018,e559de59
+412,Romarinho,br BRA,MFFW,Al-Ittihad,27,1990,21.9,2,0,0,25,48,6,9,9,13,0,0,0,2018,d73461ea
+413,Igor Rossi Branco,br BRA,DF,Al-Faisaly,29,1989,26.9,7,1,1,23,29,1,3,33,15,0,1,1,2018,ec84c4ab
+414,Saeed Al Rubaie,sa KSA,DF,Al-Ettifaq,24,1994,1.1,1,0,0,2,0,1,0,2,0,0,0,0,2018,7d3de517
+415,Hamdan Al Ruwaili,sa KSA,DF,Al-Taawoun,23,1995,5.0,0,0,0,10,20,0,17,16,6,2,0,0,2018,c06ecb42
+416,Mohammed Al-Saeed,sa KSA,MF,Al-Fateh,21,1996,0.5,0,0,0,0,1,1,1,2,1,0,0,0,2018,f17497b0
+417,Ziyad Al-Sahafi,sa KSA,DF,Al-Ittihad,23,1994,13.7,2,1,0,20,10,0,1,23,10,0,1,0,2018,1141f1af
+418,Mohammed Al Sahlawi,sa KSA,FWMF,Al-Nassr,31,1987,4.0,0,0,0,4,3,1,2,2,1,0,0,0,2018,2c330ad2
+419,Mohammed Al-Saiari,sa KSA,FW,Al-Hazem,25,1993,21.6,8,0,0,53,52,17,15,4,12,1,0,0,2018,36572437
+420,Abdallah Said,eg EGY,MFFW,Al-Ahli,33,1985,12.2,1,0,0,12,6,3,15,6,3,0,0,0,2018,b29aec24
+421,Abdullah Al Saleh,sa KSA,GK,Al-Ettifaq,28,1989,6.2,0,0,0,0,2,0,1,0,1,0,0,0,2018,60f83f9c
+422,Ahmed Saleh,eg EGY,DF,Ohod,41,1977,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2018,9646e70b
+423,Abdulla Al Salem,sa KSA,MF,Al-Nassr,25,1992,1.6,0,0,0,4,2,1,2,2,1,1,0,0,2018,e44fe653
+424,Abdulla Al Salem,sa KSA,FWMF,Al-Fayha,25,1992,7.2,0,0,0,4,9,3,5,4,6,0,0,0,2018,e44fe653
+425,Mohammed Salem,sa KSA,DF,Al-Shabab,32,1985,25.0,5,0,0,21,23,1,5,57,34,1,0,0,2018,47f78a2e
+426,Diogo Salomão,pt POR,MFFW,Al-Hazem,29,1988,8.9,0,0,0,8,6,4,35,12,5,0,0,0,2018,45e4d136
+427,Awn Al Saluli,sa KSA,DF,Al-Ittihad,19,1998,3.5,1,0,0,4,1,0,2,8,7,0,0,0,2018,ace2627f
+428,Sékou Sanogo,ci CIV,MF,Al-Ittihad,29,1989,7.8,4,0,0,24,13,0,2,10,7,0,0,0,2018,90d7dda6
+429,Jorge Santos Silva,br BRA,FWMF,Al-Qadsiah,31,1987,5.5,3,0,0,4,3,3,11,1,1,1,0,0,2018,36d1a82c
+430,Aderlan Santos,br BRA,DF,Al-Ahli,29,1989,8.0,0,0,0,7,3,1,1,11,12,0,0,0,2018,847e4cd8
+431,João Pedro Pereira dos Santos,br BRA,FW,Al-Fateh,25,1993,13.3,4,0,0,22,26,5,1,2,10,1,1,0,2018,e3895ab6
+432,Sultan Al-Sawadi,sa KSA,MF,Al-Raed,25,1992,8.0,0,0,0,15,12,1,49,9,11,0,0,0,2018,1f95bb35
+433,Abdulmajeed Al-Sawat,sa KSA,MF,Al-Taawoun,23,1995,1.9,0,0,0,4,7,1,1,0,4,0,0,0,2018,70053fe3
+434,Ramzi Sawlan,sa KSA,MFFW,Al-Batin,20,1998,4.7,1,0,0,8,14,0,4,4,5,0,0,0,2018,c6b19f7d
+435,Hussein El Sayed,eg EGY,DF,Al-Ettifaq,26,1991,21.4,9,1,0,32,37,1,34,47,27,0,0,0,2018,9fedfef4
+436,Sebá,br BRA,MFFW,Al-Shabab,26,1992,9.7,2,1,0,16,20,2,22,2,9,0,0,0,2018,64bac8b2
+437,Saad Al-Selouli,sa KSA,MF,Al-Ettifaq,20,1998,0.4,0,0,0,0,1,0,0,0,1,0,0,0,2018,af888475
+438,Islam Seraj,sa KSA,FWMF,Ohod,29,1989,8.0,0,0,0,8,9,7,7,1,6,0,1,0,2018,36fd662a
+439,Hussain Shae'an,sa KSA,GK,Al-Taawoun,29,1989,1.0,0,0,0,0,1,0,0,0,0,0,0,0,2018,4049ea16
+440,Amer Shafi,jo JOR,GK,Al-Fayha,36,1982,12.8,2,0,0,2,6,0,0,1,0,0,0,0,2018,daba9f12
+441,Yasser Al-Shahrani,sa KSA,DF,Al-Hilal,26,1992,21.0,4,1,0,31,22,3,69,37,38,0,0,0,2018,251c164e
+442,Mohammad Al-Shalhoub,sa KSA,MF,Al-Hilal,37,1980,3.3,0,0,0,3,10,0,17,1,5,0,0,0,2018,e8c4f275
+443,Abdullah Al-Shamekh,sa KSA,DF,Al-Raed,25,1993,24.7,3,0,0,31,43,0,98,42,55,1,0,0,2018,d4aeee27
+444,Yousef Al Shammari,sa KSA,MF,Al-Batin,20,1997,3.5,2,0,0,8,9,1,0,2,6,0,0,0,2018,5f2b7b58
+445,Abdullah Al-Shammeri,sa KSA,GK,Al-Raed,26,1991,1.0,0,0,0,0,0,0,0,2,0,0,0,0,2018,dcee5a82
+446,Abdulmalek Al-Shammeri,sa KSA,DFMF,Al-Shabab,22,1995,17.8,2,1,0,47,20,0,43,38,36,0,1,0,2018,17a030fc
+447,Ahmed Al-Shamrani,sa KSA,DF,Al-Wehda,24,1994,1.0,0,0,0,1,0,0,0,1,0,0,0,0,2018,d0d8252d
+448,Hamdan Al-Shamrani,sa KSA,DF,Al-Faisaly,21,1996,23.9,3,1,0,41,26,1,90,62,61,0,0,0,2018,651e0c51
+449,Nasser Al-Shamrani,sa KSA,FW,Al-Ittihad,34,1983,0.2,0,0,0,0,0,1,0,0,0,0,0,0,2018,1ccf216e
+450,Nasser Al-Shamrani,sa KSA,FW,Al-Shabab,34,1983,15.8,1,0,0,8,12,9,11,5,6,0,0,0,2018,1ccf216e
+451,Ahmed Sharahili,sa KSA,DF,Al-Hilal,24,1994,1.2,0,0,0,2,1,0,0,0,1,0,1,0,2018,8e9693fd
+452,Hassan Sharahili,sa KSA,FW,Al-Batin,25,1993,0.7,0,0,0,0,1,0,0,0,0,0,0,0,2018,1c9accbc
+453,Khalid Sharahili,sa KSA,GK,Ohod,31,1987,4.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,a890a99e
+454,Abdulaziz Al-Sharid,sa KSA,MF,Al-Fateh,24,1994,2.5,0,0,0,2,4,0,0,2,3,0,0,0,2018,f24c47c2
+455,Saleh Al-Shehri,sa KSA,FWMF,Al-Raed,24,1993,17.5,7,1,1,41,39,12,6,3,14,0,0,0,2018,f4377d0f
+456,Yahya Al-Shehri,sa KSA,MF,Al-Nassr,28,1990,11.5,1,0,0,3,7,3,51,10,10,0,0,0,2018,858a6aab
+457,Jedaan Al Shemmari,sa KSA,MFDF,Al-Batin,26,1992,10.3,2,0,0,13,10,0,1,12,13,0,0,0,2018,378b6295
+458,Ibrahim Al-Shoeil,sa KSA,DF,Al-Qadsiah,23,1994,9.5,3,0,0,15,13,2,27,16,23,0,0,0,2018,eecef89f
+459,Mohanad Al Shudukhi,sa KSA,MF,Al-Raed,19,1999,0.6,0,0,0,1,2,0,1,0,1,0,0,0,2018,6e8ee08b
+460,Mohammed Al Shuraymi,sa KSA,DF,Al-Raed,23,1995,4.0,2,0,0,4,2,0,11,12,6,0,1,0,2018,ba8cac02
+461,Hussein Al Shuwaysh,sa KSA,DFMF,Al-Raed,29,1988,12.9,1,1,0,9,5,0,2,15,6,0,0,0,2018,a3b6202e
+462,Hani Al Sibyani,sa KSA,DF,Al-Ahli,19,1999,1.0,0,0,0,1,0,0,1,3,1,0,0,0,2018,cdcbe892
+463,Luis Gustavo Melere da Silva,br BRA,MF,Al-Faisaly,27,1991,18.1,6,0,0,23,54,5,92,12,16,1,0,0,2018,ac72ed78
+464,Enes Šipović,ba BIH,DF,Ohod,27,1990,8.8,2,0,0,7,4,0,0,21,7,0,0,0,2018,71e4b2d1
+465,Nawaf Al-Sobhi,sa KSA,DF,Al-Fayha,28,1990,20.1,5,0,0,33,13,0,9,48,28,0,0,0,2018,4c5ed269
+466,Omar Al Somah,sy SYR,FW,Al-Ahli,29,1989,20.1,1,0,0,20,10,20,13,6,7,2,0,0,2018,ab170826
+467,Somália,br BRA,MFDF,Al-Shabab,29,1988,9.3,1,0,0,21,14,1,12,14,13,0,0,0,2018,c1febb46
+468,Omar Al-Sonain,sa KSA,DF,Al-Ettifaq,23,1995,17.8,7,0,0,38,12,3,15,25,45,0,1,0,2018,cdb41f9b
+469,Jonathan Soriano,es ESP,MF,Al-Hilal,32,1985,1.9,1,0,0,2,2,3,0,0,2,0,0,0,2018,036fb721
+470,Josef de Souza,br BRA,MF,Al-Ahli,29,1989,13.8,5,0,0,20,37,2,2,34,38,0,0,0,2018,fb6530de
+471,Wesam Al-Sowayed,sa KSA,DFMF,Al-Faisaly,30,1987,6.8,2,0,0,11,4,0,20,15,4,0,0,0,2018,fbbcb4fd
+472,Fawaz Al-Sqoor,sn SEN,DFMF,Al-Wehda,22,1996,17.2,2,0,0,19,13,4,67,20,18,0,0,0,2018,a2b25407
+473,Nicolae Stanciu,ro ROU,MFFW,Al-Ahli,25,1993,7.7,1,0,0,5,9,2,49,4,4,0,0,0,2018,e07c2923
+474,Mohammed Al Subaie,sa KSA,MF,Al-Ettifaq,22,1995,1.8,1,0,0,1,4,0,4,1,4,0,0,0,2018,8d602abc
+475,Abdulmohsen Al-Subhi,sa KSA,MF,Al-Batin,,,0.4,3,1,1,6,1,0,0,0,3,0,0,0,2018,a02b2d8e
+476,Abdullah Al-Sudairy,sa KSA,GK,Al-Shabab,26,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,8e2d837d
+477,Rabee Sufyani,sa KSA,MF,Al-Taawoun,31,1987,17.0,3,0,0,13,47,4,17,12,13,0,0,0,2018,f2ae48c3
+478,Badr Al-Sulaitin,sa KSA,MF,Al-Raed,28,1990,1.4,0,0,0,5,1,0,5,1,3,0,0,0,2018,1e3e96ea
+479,Abdulmajeed Al-Sulayhem,sa KSA,MF,Al-Shabab,24,1994,18.0,5,0,0,21,37,3,4,32,26,1,0,0,2018,c2543833
+480,Khaled Al-Sumairi,sa KSA,MFFW,Al-Ittihad,21,1997,7.3,3,0,0,18,12,0,5,10,13,0,0,0,2018,b822e811
+481,Lucas Tagliapietra,br BRA,DF,Al-Batin,27,1990,24.6,2,1,0,15,8,2,0,43,23,1,3,1,2018,83cc1853
+482,Léandre Tawamba,cm CMR,FW,Al-Taawoun,28,1989,26.9,7,0,0,68,47,16,17,9,11,5,0,0,2018,dcd160e4
+483,Adolphe Teikeu,cm CMR,DF,Ohod,28,1990,26.0,8,0,0,22,11,2,2,58,25,0,3,0,2018,1aa6286d
+484,Ibrahim Al-Telhi,sa KSA,MF,Al-Fateh,24,1994,1.3,0,0,0,2,2,0,2,4,0,0,0,0,2018,f18a3aef
+485,Mohammed Al-Thain,sa KSA,FW,Al-Faisaly,,,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2018,bfd73a78
+486,Nzuzi Toko,cd COD,MF,Al-Fateh,27,1990,10.2,1,0,0,18,11,0,2,21,12,0,0,0,2018,dcbff1f9
+487,Moataz Tombakti,sa KSA,MF,Ohod,24,1994,0.3,0,0,0,0,2,0,1,0,0,0,0,0,2018,925d43b4
+488,Bubacarr Trawally,gm GAM,FW,Al-Shabab,23,1994,9.2,2,0,0,15,15,9,7,2,5,0,0,0,2018,bfec24e0
+489,Zurab Tsiskaridze,ge GEO,DF,Al-Hazem,31,1986,11.6,4,0,0,16,12,0,3,31,14,0,1,0,2018,90f30b0b
+490,Alexandros Tziolis,gr GRE,MFDF,Al-Fayha,33,1985,26.7,5,0,0,39,24,2,6,41,33,1,0,0,2018,99138b2e
+491,Bruno Uvini,br BRA,DF,Al-Nassr,27,1991,25.0,7,0,0,26,13,0,0,46,17,0,2,0,2018,ecfe4300
+492,Valdívia,br BRA,MF,Al-Ittihad,23,1994,3.4,0,0,0,3,8,1,21,7,2,0,0,0,2018,e12be458
+493,Farley Vieira Rosa,br BRA,MF,Al-Ettifaq,24,1994,2.7,0,0,0,6,6,2,3,1,7,0,0,0,2018,b33e91fb
+494,Carlos Villanueva,cl CHI,MF,Al-Ittihad,32,1986,23.2,1,0,0,20,45,1,133,19,46,0,0,0,2018,ff4e7684
+495,Rhys Williams,au AUS,DF,Al-Qadsiah,30,1988,27.8,6,0,0,26,23,0,3,34,20,0,0,1,2018,a65030a2
+496,Yago,br BRA,MF,Al-Qadsiah,23,1995,10.8,1,0,0,14,3,0,3,15,11,0,0,0,2018,51493bca
+497,Seidu Yahaya,gh GHA,MF,Al-Fayha,28,1989,2.3,1,0,0,3,5,0,0,4,2,0,1,0,2018,9477c12e
+498,Abdulrahman Al Yami,sa KSA,MF,Al-Fayha,21,1997,3.7,1,0,0,3,3,2,11,4,4,0,0,0,2018,4f13fe17
+499,Hamad Al Yami,sa KSA,,Al-Qadsiah,,,0.1,0,0,0,0,1,0,0,0,0,0,0,0,2018,7c9a27d2
+500,Mohammed Al Yami,sa KSA,GK,Al-Batin,20,1997,5.2,0,0,0,0,0,0,0,0,0,0,0,0,2018,0bb0f7c6
+501,Abdullah Al Yousif,sa KSA,DF,Al-Fateh,20,1997,12.0,2,0,0,12,3,1,29,36,17,0,0,0,2018,484b05c1
+502,Anas Zabani,sa KSA,DF,Al-Batin,21,1997,6.8,0,0,0,11,12,0,12,8,4,0,0,0,2018,5fe45a42
+503,Ahmed Al-Zain,sa KSA,MF,Al-Qadsiah,27,1991,8.8,2,1,0,19,17,3,21,4,15,0,0,0,2018,08e89ce0
+504,Ali Al Zaqan,sa KSA,MF,Al-Ittihad,27,1991,0.6,1,0,0,1,0,0,10,1,1,0,0,0,2018,42311b65
+505,Ali Al Zaqan,sa KSA,MF,Al-Fateh,27,1991,5.5,1,0,0,10,10,1,22,3,3,0,0,0,2018,42311b65
+506,Safi Al Zaqarta,sa KSA,FW,Al-Ahli,19,1999,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2018,e250def7
+507,Omar Al Zayni,sa KSA,MF,Al-Ahli,22,1996,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2018,7b165592
+508,Abdullah Al-Zori,sa KSA,DF,Al-Wehda,30,1987,21.9,1,0,0,10,8,2,44,31,23,0,0,0,2018,15b79072
+509,Ibrahim Al-Zubaidi,sa KSA,DF,Al-Taawoun,29,1989,25.4,7,0,0,49,13,2,90,45,32,1,0,0,2018,e3c9e369
+510,Mohammed Al-Zubaidi,sa KSA,MFDF,Al-Ahli,20,1997,1.0,0,0,0,3,1,0,3,0,3,0,0,0,2018,ccff75bb
